@@ -7,7 +7,7 @@ import urllib2
 import socket
 
 
-def get_features(date, type):
+def get_html(date, type):
     print 'http://setimes.com/cocoon/setimes/xhtml/en_GB/archivelist/setimes/'+ type + date
     html = urllib2.urlopen('http://setimes.com/cocoon/setimes/xhtml/en_GB/archivelist/setimes/'+ type + date)
     i = 1
@@ -50,8 +50,13 @@ socket.setdefaulttimeout(20)
 def main ():
 
     date = start_date
+    dates = []
+    while (date !=)
+    while (date != '2013/08')
+        t = threading.Thread(target=get_html, args = (date,'/roundup'))
+        t.daemon = True
+        t.start()
+        date = next_month(date)
 
-    get_features(date, 'features/')
-
-if __name__ == '__main__':
+        if __name__ == '__main__':
     main()
