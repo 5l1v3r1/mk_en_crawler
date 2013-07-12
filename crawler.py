@@ -7,7 +7,7 @@ import urllib2
 import socket
 import threading
 
-num = 0
+
 
 def get_html(date, type):
     global lock
@@ -89,6 +89,7 @@ ok_log = 'html_ok'
 
 
 def main ():
+    num = 0
     date = start_date
     dates = []
     while (date != '2013/07'):
@@ -102,6 +103,8 @@ def main ():
                 ds.append(dates.pop())
         threads = []
         for d in ds:
+            print num
+            num += 1
             t = threading.Thread(target=get_html, args = (d,'features/'))
             t.daemon = True
             threads.append(t)
