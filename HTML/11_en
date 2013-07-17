@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAWOQPiM6YCvBhNDmsm7JfvRTBfUk9TZrBRaIteybtnU2KziHEpRTt3eSDc7n7q6flBUrkhlDZz9XI_w&amp;hl=en">//127.0.0.1 key</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:bhtcnwacets&amp;lang=en" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script type="text/javascript">
+							google.load("search", "1");
+							function OnLoad() {
+							new CSEOverlay("003982986761957721032:bhtcnwacets",
+							document.getElementById("searchbox_003982986761957721032:bhtcnwacets"),
+							document.getElementById("results_003982986761957721032:bhtcnwacets"));
+							}
+							google.setOnLoadCallback(OnLoad);
+						</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/en_GB/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>Macedonian Growth Depends on Reforms (SETimes.com)</title><meta content="en_GB" name="lang"/><meta content="SETimes.com" name="publisher"/><meta content="2005-03-28" name="date"/><meta content="Macedonian Growth Depends on Reforms" name="title"/><meta content="article" property="og:type"/><meta content="Macedonian Growth Depends on Reforms" property="og:title"/><meta content="http://setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2005/03/28/reportage-01" property="og:url"/><meta content="Despite a number of negative indicators -- such as high unemployment and declining industrial production -- Macedonia's economy has the potential for progress. Positive signs include a stable currency, a strict monetary policy and the promise of foreign investment. Should Macedonia succeed in gaining EU candidate country status, the resulting availability of pre-accession funds will help spur infrastructure development, making the country more attractive to potential investors. Moving forward, however, will require a sustained effort by authorities to enact needed reforms and improve the business climate." name="description"/><meta content="http://setimes.com/cocoon/setimes/images/2005/03/28/ZORANphoto1HP.jpg" name="image"/><meta content="http://setimes.com/cocoon/setimes/images/2005/03/28/ZORANphoto1HP.jpg" property="og:image"/><meta content="Despite a number of negative indicators -- such as high unemployment and declining industrial production -- Macedonia's economy has the potential for progress. Positive signs include a stable currency, a strict monetary policy and the promise of foreign investment. Should Macedonia succeed in gaining EU candidate country status, the resulting availability of pre-accession funds will help spur infrastructure development, making the country more attractive to potential investors. Moving forward, however, will require a sustained effort by authorities to enact needed reforms and improve the business climate." property="og:description"/><link href="http://setimes.com/cocoon/setimes/images/2005/03/28/ZORANphoto1TN.jpg" rel="image_src"/><script type="text/javascript">countHit('article','setimes/articles/2005/03/28/reportage-01','setimes','en_GB');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/en_GB/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/en_GB/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Search" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/features/setimes/articles/2005/03/28/reportage-01">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/features/setimes/articles/2005/03/28/reportage-01">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/features/setimes/articles/2005/03/28/reportage-01">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/features/setimes/articles/2005/03/28/reportage-01">
+Hrvatski
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2005/03/28/reportage-01">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/features/setimes/articles/2005/03/28/reportage-01">
+Ελληνική
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/03/28/reportage-01">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/features/setimes/articles/2005/03/28/reportage-01">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/features/setimes/articles/2005/03/28/reportage-01">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/features/setimes/articles/2005/03/28/reportage-01">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/homepage/"><span>
+Home
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/recent"><span>
+Recent
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/info/"><span>
+Info Centre
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/region/"><span>
+Region
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/archive/"><span>
+Archive
+</span></a></li>
+<li class="navTitle">
+Countries
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Albania"><span>
+Albania
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Bosnia_and_Herzegovina"><span>
+BiH
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Bulgaria"><span>
+Bulgaria
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Croatia"><span>
+Croatia
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Greece"><span>
+Greece
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Kosovo"><span>
+Kosovo
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Macedonia"><span>
+Macedonia
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Moldova"><span>
+Moldova
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Montenegro"><span>
+Montenegro
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Romania"><span>
+Romania
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Serbia"><span>
+Serbia
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/country/Turkey"><span>
+Turkey
+</span></a></li>
+<li class="navTitle">
+Topics
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Politics"><span>
+Politics
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/War_Conflict"><span>
+Extremism
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Law_Crime"><span>
+Justice and law enforcement
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/ForRel"><span>
+Foreign relations
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Business_Finance"><span>
+Economic development
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Integration"><span>
+Integration
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Human_Interest"><span>
+Society
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Links
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/contribute/setimes/footer/contribute/contribute"><span>
+Contribute
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/disclaimer/disclaimer"><span>
+Disclaimer
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/about/about"><span>
+About Us
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/doc-feedback/setimes/footer/feedback/feedback"><span>
+Contact Us
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/en_GB/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Subscribe
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/podcast_index/default"><span>
+Podcast
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/en_GB/homepage/"><span>
+Mobile
+</span></a></li>
+</ul></div></div>
+<div class="span-15">
+<div class="article">
+<h1>Macedonian Growth Depends on Reforms</h1>
+<p class="date">28/03/2005</p>
+<blockquote>Despite a number of negative indicators -- such as high unemployment and declining industrial production -- Macedonia's economy has the potential for progress. Positive signs include a stable currency, a strict monetary policy and the promise of foreign investment. Should Macedonia succeed in gaining EU candidate country status, the resulting availability of pre-accession funds will help spur infrastructure development, making the country more attractive to potential investors. Moving forward, however, will require a sustained effort by authorities to enact needed reforms and improve the business climate.</blockquote>
+<p class="source">By Zoran Nikolovski for Southeast European Times in Skopje -- 28/03/05</p><iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2005/03/28/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<div id="slideshow_wrap"> </div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2005/03/28/ZORANphoto1.jpg" class="feature"/><p>"Experience teaches us that the first precondition for accomplishing economic development is creation of an operational market economy," said Macedonian President Branko Crvenkovski (centre, at the summit). [Tomislav Georgiev]</p></div></div></td></tr></table>
+<p>Although Macedonia can point to reforms taken in preparation for future membership in the EU and NATO, the country's economic indicators have been lagging. The unemployment rate is 37 per cent, annual GDP growth has been lower than 1 per cent and industrial production is in decline. Positive indicators include a stable, inflation-free currency, a strict monetary policy and fiscal conservatism. The government has regularly negotiated arrangements with the World Bank and the IMF -- a positive signal for foreign investors, experts say. </p>
+<p>On 10 March and 11 March, Skopje hosted the Southeast Europe Summit for Development of Co-operation. The main outcome of the summit was the declaration that the countries of the region should not be a burden to Europe, but rather an integrative part of it if they want to become part of the EU. This is especially true because EU membership means that enterprises in the West Balkan countries will find themselves competing with strong businesses in Europe. </p>
+<p>"Experience teaches us that the first precondition for accomplishing economic development is creation of an operational market economy," said Macedonian President Branko Crvenkovski, who co-sponsored the summit together with EU Enlargement Commissioner Olli Rehn. "I am free to state that the countries in our region have already made strides on the way to becoming modern market economies." </p>
+<p> In general, summit participants agreed that it is necessary to invest in infrastructure in order to elevate the economies in the region to a higher level. "For the infrastructure in Macedonia alone, $3.5 billion is necessary," said Sharik Tara, founder of the North and South Europe Economic Forum. </p>
+<table style="float: left;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2005/03/28/ZORANphoto2.jpg" class="feature"/><p>(From left) Albanian Prime Minister Fatos Nano, Bulgarian Prime Minister Simeon Saxe-Coburg and Macedonia's Vlado Buckovski met in Sofia last December to sign an agreement on construction of the AMBO pipeline. [AFP]</p></div></div></td></tr></table>
+<p> Macedonian Prime Minister Vlado Buckovski has taken a few specific administrative steps to improve the economy during his first few months in office. Among these was the appointment of Minco Jordanov as vice-president in charge of co-ordinating economic spheres of activity. Jordanov is a successful businessmen who runs the only steel company in Macedonia, Duferco-Maksteel. Meanwhile, former German Finance Minister Theo Vaigel is a key figure in the government's team of economic advisers. Buckovski has pledged that his team will soon come up with a programme for strengthening the economy and attracting Foreign Direct Investment (FDI). </p>
+<p>Most experts see FDI as the best avenue for overcoming the current crisis and creating new jobs. In this respect, projects intended to streamline the registration procedure in Macedonia are being prepared. Macedonia's existing practices in this area are comparable to other countries in Eastern Europe. A study commissioned by the World Bank found that registering a company in Macedonia requires 13 procedures and takes 48 days. By comparison, registering a firm in the Czech Republic, an EU member, requires 10 procedures and 40 days, while in Croatia, a candidate for EU membership, 12 procedures and 49 days are necessary. </p>
+<p>The dynamism Buckovski has employed in his approach to economic issues seems to be bearing fruit. A sizable investment by Turkish commercial chain Koc is under way, and Slovenia's Merkator is reportedly interested in investing in the construction of a trade centre. A Turkish investor is constructing a hospital in Skopje. The two largest investment projects expected in the future are the AMBO Pipeline and the construction of 40 petrol stations by Russia's Lukoil. </p>
+<p> AMBO is a US company which plans to invest around $1 billion in a pipeline starting in the Bulgarian port of Burgas and continuing through Macedonia to the Albanian seaport of Vlore. This trajectory overlaps East-West Corridor 8. </p>
+<p>"Construction of the AMBO Pipeline will start in 12 months and oil will start running from Burgas to Vlore three or four years later," the president of the US AMBO Consortium, Edward Ferguson, said in Sofia in December 2004. In Sofia, Macedonian, Albanian and Bulgarian prime ministers signed a declaration guaranteeing realisation of the project. </p>
+<p> Talks on the second large foreign investment in Macedonia have already begun. During a visit to Skopje in early March, Lukoil First Vice President Dimitry Nikolaevich Tarasov confirmed his company's interest in buying the OHIS Chemical Factory and constructing petrol stations. Lukoil operates in 25 countries throughout the world and employs 120,000 people. In Europe, it has invested in oil industries in Austria, Bulgaria, the Czech Republic, Hungary, Romania, Serbia and Montenegro, Slovakia and Ukraine. </p>
+<p>Domestic efforts to transform the economy have, in some cases, met with resistance. Opposition politicians, as well as many experts, have opposed the privatisation of Macedonia's largest public power utility, Elektrostopanstvo na Makedonija, arguing that it would result in price hikes and further strain already low family budgets. The government, meanwhile, says money from the sale will return to the Macedonian economy via infrastructure projects and that demonopolisation of the energy sector is, in any case, a requirement for EU membership. </p><div class="relatedFloat"><h1 class="relatedFloat">Related Articles</h1><script type="text/javascript">Event.observe(window,'load',function(){loadRelated('/cocoon/setimes/ajax/en_GB/related/setimes/articles/2005/03/28/reportage-01')});</script><div id="RelatedArticlesAjax"><span>Loading</span></div></div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2005/03/28/ZORANphoto3.jpg" class="feature"/><p>Mobimak will change its name to T-Mobile Makedonija this year. [Mobimak]</p></div></div></td></tr></table>
+<p>A more successful story is the rebranding of Mobimak, the country's largest mobile telephone company. Mobimak will change its name to T-Mobile Makedonija as a result of its strategic partnership with Deutsche Telecom, owner of the famous international brand name. </p>
+<p> Positive developments have also been seen in the banking sector. "Out of 21 banks in Macedonia, eight are completely in foreign proprietorship, which is 46.6 per cent of the total capital and 47.5 per cent of the total financial potential of the banking system," reported the Skopje weekly <i>Kapital</i>. Still, there is room for improvement. According to <i>Kapital</i>, Bank Austria, Raiffeisen Bank and Bulgaria's DZI Financial Group are among the financial institutions which are eyeing potential opportunities for investing in Macedonia. "</p>
+<p>All indicators suggest that if a powerful company such as ERB enters Macedonia, our goal -- that Deutsche Bank, one of the most powerful financial and banking institutions enters Macedonia as well -- will be accomplished more easily," Buckovski says. </p>
+<p>All in all, Macedonia's economic situation remains difficult, but there are chances for progress. Experts believe the opening of EU pre-accession assistance if the country is granted a candidate status in December will be of great benefit for infrastructure development. The combination of EU pre-accession funds and an increase in direct foreign investments represents a winning ticket for Macedonia. In order to ensure both, however, the Macedonian government will have to exert much effort in transforming the business climate. A healthy economy is the key to improving the country's situation in general. </p>
+<div class="commissioned">This content was commissioned for SETimes.com.</div>
+<iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2005/03/28/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<script type="text/javascript">Event.observe(window,'load',function(){loadKeywords('/cocoon/setimes/ajax/en_GB/keywords/setimes/articles/2005/03/28/reportage-01')});</script><div id="KeywordsAjax"><span>Loading</span></div>
+<div class="articleToolbar"><div class="ratings"><h5>Vote</h5><form class="likebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2005/03/28/reportage-01" name="id" type="hidden"/><input value="-1" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="en_GB" name="lang" type="hidden"/><input value="Like(s) (#(count)#)" name="template" type="hidden"/><input value="Like(s) (#(count)#)" class="button" type="submit"/></form><div class="ratings-bars"><div class="ratings-box"><div style="width: 0%" class="ratings-bars-likes"> </div><div style="width: 0%" class="ratings-bars-dislikes"> </div></div></div><form class="dislikebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2005/03/28/reportage-01" name="id" type="hidden"/><input value="-2" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="en_GB" name="lang" type="hidden"/><input value="Dislike(s) (#(count)#)" name="template" type="hidden"/><input value="Dislike(s) (#(count)#)" class="button" type="submit"/></form></div><ul><li><a onclick="javascript:Effect.BlindDown('emailBlock'); return false;" href=""><img src="/cocoon/setimes/graphics/toolbar/icon_email.gif"/>Email to a friend</a></li><li><a href="/cocoon/setimes/print/en_GB/features/setimes/articles/2005/03/28/reportage-01"><img alt="icon" src="/cocoon/setimes/graphics/toolbar/icon_print.gif"/> Print Version </a></li><li><a href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2005/03/28/reportage-01" class="a2a_dd"><img alt="Share/Save/Bookmark" border="0" height="16" width="171" src="http://static.addtoany.com/buttons/share_save_171_16.png"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl='http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2005/03/28/reportage-01';</script><script src="http://static.addtoany.com/menu/page.js" type="text/javascript">//import</script></li></ul><div style="display:none" id="emailBlock"><div style="display:none;" id="feedbackEmail_response">Your email has been sent.</div><form onsubmit=" submitEmail( this ); return false;" action="/php/turing/emailarticle.php" method="post" id="mailform"><fieldset><input value="yes" name="email" type="hidden"/><input value="setimes/articles/2005/03/28/reportage-01" name="emailID" type="hidden"/><input value="http://www.setimes.com//cocoon/setimes/xhtml/en_GB/features/setimes/articles/2005/03/28/reportage-01" name="emailURL" type="hidden"/><input value="Macedonian Growth Depends on Reforms" name="emailTitle" type="hidden"/><input value="en_GB" name="emailLang" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="An SETimes.com article from" name="emailSubject" type="hidden"/><div id="email_error_messages" class="feedback"><p id="inline-NameError" style="display:none">Please fill in the name.</p><p style="display:none" id="inline-EmailError">Please provide and email address.</p><p style="display:none" id="inline-Email_Invalid">The email address you entered is invalid.</p><p style="display:none" id="inline-CommentError">Please fill in the comment.</p></div><div class="donates">* ALL FIELDS ARE REQUIRED</div><div>Friend's email *</div><div><input id="emailTo" name="emailTo" type="text"/></div><div>Your name or email *</div><div><input id="emailName" name="emailName" type="text"/></div><div>Comment *</div><div><textarea cols="60" rows="4" id="emailMessage" name="emailMessage">	</textarea></div><div><img alt="turing test" src="/php/turing/button.php"/></div><div style="display:none" id="emailBlock_error" class="feedback">Digits do not match. Please re-enter.</div><div>Enter digits *</div><div><input id="userdigits" name="userdigits" type="text"/></div><div><input value="Submit" type="submit"/><input onclick="javascript:ShowLayer('emailBlock','none')" value="Cancel" type="button" name="cancel"/></div></fieldset></form></div></div>
+</div>
+<div class="commentBlock"><h1 class="commentsHeader">We welcome your comments on SETimes's articles.</h1><p class="comment_teaser">
+It is our hope that you will use this forum to interact with other readers across Southeast Europe. In order to keep this experience interesting, we ask you to follow the rules outlined in the comments policy. By submitting comments, you are consenting to these rules. While SETimes.com encourages discussion on all subjects, including sensitive ones, the comments posted are solely the views of those submitting them. SETimes.com does not necessarily endorse or agree with the ideas, views, or opinions voiced in these comments. SETimes.com welcomes constructive discussion but discourages the use of copy-pasted materials, unaccompanied links and one-line slogans. This is a moderated forum. <b> Comments deemed abusive, offensive, or those containing profanity may not be published. </b>
+</p><p class="comment_teaser">
+<a onclick="return openWindow('/cocoon/setimes/xhtml/en_GB/blank/setimes/special/comment_disclaimer/disclaimer','disclaimer','toolbar=no,scrollbars=yes,resizable=yes,width=800,height=700');" href="/cocoon/setimes/xhtml/en_GB/document/setimes/special/comment_disclaimer/disclaimer"> SETimes's Comments Policy </a>
+</p><iframe scrolling="yes" frameborder="no" height="2000" width="590" id="comments" src="http://comments.setimes.com/en_GB/viewcomment?articleid=setimes/articles/2005/03/28/reportage-01">//</iframe></div>
+</div>
+<div class="span-6 last featuresidebar">
+<div class="facebook-sidebar blockSidebar"><div class="fans"><span class="normal_count">548205</span><span class="normal_description">Facebook fans</span></div><div class="link"><div class="like en_GB"><iframe allowTransparency="true" style="border:none; overflow:hidden; width:500px; height:35px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/homepage/&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35"> </iframe></div><a class="normal_facebook_page" href="http://www.facebook.com/pages/SETimes/43184095884" target="new">Visit us</a></div></div><div class="blockSidebar social_media"><ul><li><a href="http://twitter.com/setimes"><img alt="Twitter" src="/cocoon/setimes/graphics/icons/twitter-60_60.png"/></a></li><li><a href="http://www.youtube.com/user/setimes"><img alt="Youtube" src="/cocoon/setimes/graphics/icons/youtube-32_32.png"/></a></li><li><a href="/cocoon/setimes/rss/en_GB/setimes.rss"><img alt="RSS" src="/cocoon/setimes/graphics/icons/rss-60_60.png"/></a></li></ul></div><div class="blockSidebar" id="blockReportage"><h3>Reportage</h3><div ceid="sidebar_reportage" class="item"><a class="title" title="Kosovo Islamic leader calls on institutions, individuals to oppose extremism" href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2013/07/08/reportage-01">Kosovo Islamic leader calls on institutions, individuals to oppose extremism</a><a class="image" href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2013/07/08/reportage-01"><img title="Kosovo Islamic leader calls on institutions, individuals to oppose extremism" alt="Kosovo Islamic leader calls on institutions, individuals to oppose extremism" src="/cocoon/setimes/images/2013/07/08/LINDAphoto1TN.jpg" class="reportage"/></a><p>Mufti Ternava tells SETimes that extremism and terrorism are against the values of Kosovo's Islamic Community.</p><div class="clear"> </div></div></div><a href="http://turkey.setimes.com/en_GB" class="blockSidebar no_border"><img title="a special site for news about Turkey" alt="SETimes logo" src="/cocoon/setimes/graphics/special/ses-en_GB.gif"/></a><ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/en_GB/special_corruption/setimes/special/corruption/meta" class="image">Special Report: Corruption in Southeast Europe</a></h3><a href="/cocoon/setimes/xhtml/en_GB/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Special Report: Corruption in Southeast Europe" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-en_GB.jpg"/></a></li></ul><script type="text/javascript">Event.observe(window,'load',function(){ new Fabtabs('contentColumn1RecentTabstabList'); },false);</script><div id="blockPopular" class="blockSidebar"><h3>Most Popular</h3><ul id="contentColumn1RecentTabstabList" class="tabBox"><li><a href="#contentColumn1RecentTabstab1">Popular</a></li><li><a href="#contentColumn1RecentTabstab2">Commented</a></li><li><a href="#contentColumn1RecentTabstab3">Rated</a></li></ul><div id="contentColumn1RecentTabstab1" class="panel"><div ceid="most_popular" id="MostPopularAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadPopular('/cocoon/setimes/ajax/en_GB/buzz/popular/5')});</script></div><div id="contentColumn1RecentTabstab2" class="panel"><div id="MostCommentedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadCommented('/cocoon/setimes/ajax/en_GB/buzz/commented/5')});</script></div><div id="contentColumn1RecentTabstab3" class="panel"><div id="MostRatedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadRated('/cocoon/setimes/ajax/en_GB/buzz/rated/5')});</script></div></div><div ceid="photo_essay" class="blockSidebar" id="blockPhotoEssay"><h3>Photo Essay</h3><div class="item"><a href="/cocoon/setimes/xhtml/en_GB/photo_essay/setimes/photo_essay/2013/06/05/photo_essay" class="title">A moment in time: Taksim Square protests</a></div><div class="photo_essay_badge"><a href="/cocoon/setimes/xhtml/en_GB/photo_essay/setimes/photo_essay/2013/06/05/photo_essay"><img alt="A moment in time: Taksim Square protests" src="/cocoon/setimes/images/photo_essays/2013/06/05/TAKSIMphoto1CI.jpg"/></a></div></div><div ceid="sidebar_poll" class="blockPoll blockSidebar"><h3> Poll</h3><div url="/cocoon/setimes/poll/en_GB/2013-07-06" id="poll" class="poll"><form onsubmit="submitPoll(); return false;" action="/php/poll/poll.php" method="post" id="pollform"><fieldset><input value="2013-07-06" name="id" type="hidden"/><input value="yes" name="pollresult" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="en_GB" name="lang" type="hidden"/><h2>Since joining the EU, the labour market has opened up for Croatia. Would you be willing to relocate in order to find a new job?</h2><input name="answer" type="radio" value="1"/><span>Yes</span><br/><input name="answer" type="radio" value="2"/><span>No</span><br/><input name="answer" type="radio" value="3"/><span>I don't know</span><br/><br/><center><input value="Vote" type="submit"/><br/><br/><a rel="nofollow" onclick="viewPoll('/cocoon/setimes/poll/en_GB/2013-07-06'); return false;" href="/cocoon/setimes/xhtml/en_GB/homepage/default?pollresult=yes&amp;answer=no&amp;id=2013-07-06">View results</a> <b><a href="/cocoon/setimes/xhtml/en_GB/poll_comments/setimes/polls/2013/2013-07-06">Add comments </a></b></center></fieldset></form></div><div style="display:none" id="poll_comments_link"> <b><a href="/cocoon/setimes/xhtml/en_GB/poll_comments/setimes/polls/2013/2013-07-06">Add comments </a></b></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/disclaimer/disclaimer">
+Disclaimer
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/about/about">
+About Us
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/doc-feedback/setimes/footer/feedback/feedback">
+Contact Us
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/en_GB/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Subscribe
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/podcast_index/default">
+Podcast
+</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6886.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div></body></html>

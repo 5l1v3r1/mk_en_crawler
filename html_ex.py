@@ -31,8 +31,8 @@ def read_link(link, a):
         en_url = urllib2.urlopen(link).read()
         mk_url = urllib2.urlopen(mk_link).read()
         lock.acquire(1)
-        en_file = open('html/' + str(num) + '_en', 'w')
-        mk_file = open('html/' + str(num) + '_mk', 'w')
+        en_file = open('HTML/' + str(num) + '_en', 'w')
+        mk_file = open('HTML/' + str(num) + '_mk', 'w')
         num += 1
         lock.release()
         en_file.write(en_url)
@@ -46,13 +46,13 @@ def read_link(link, a):
         nok.write(str(ex) + '\n')
         nok.write(link + '\n')
 
-num = 0
+num = 10140
 
 lock = threading.Lock()
 
 def main ():
 
-    links_f = open('links','r')
+    links_f = open('links4','r')
     l = links_f.readline()
     links = []
     while (l != ''):

@@ -1,0 +1,251 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAWOQPiM6YCvBhNDmsm7JfvRTBfUk9TZrBRaIteybtnU2KziHEpRTt3eSDc7n7q6flBUrkhlDZz9XI_w&amp;hl=en">//127.0.0.1 key</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:bhtcnwacets&amp;lang=en" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script type="text/javascript">
+							google.load("search", "1");
+							function OnLoad() {
+							new CSEOverlay("003982986761957721032:bhtcnwacets",
+							document.getElementById("searchbox_003982986761957721032:bhtcnwacets"),
+							document.getElementById("results_003982986761957721032:bhtcnwacets"));
+							}
+							google.setOnLoadCallback(OnLoad);
+						</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/en_GB/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>Labus: Serbia Must Concentrate on the Future (SETimes.com)</title><meta content="en_GB" name="lang"/><meta content="SETimes.com" name="publisher"/><meta content="2004-11-22" name="date"/><meta content="Labus: Serbia Must Concentrate on the Future" name="title"/><meta content="article" property="og:type"/><meta content="Labus: Serbia Must Concentrate on the Future" property="og:title"/><meta content="http://setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2004/11/22/reportage-01" property="og:url"/><meta content="Pursuing independent nation status -- becoming a solid country economically, politically and with regards to Kosovo -- is the main goal of the Serbian government. Co-operation with The Hague tribunal -- extraditing accused war criminals -- and overcoming corruption are some of the biggest hurdles the country must overcome to right itself on the path to EU accession. Serbian Deputy Prime Minister Miroljub Labus tells Southeast European Times correspondent Davor Konjikusic his thoughts on the future of Serbia with regards to economics, politics and the state union of Serbia-Montenegro." name="description"/><meta content="http://setimes.com/cocoon/setimes/images/2004/11/22/DAVORphoto1HP.jpg" name="image"/><meta content="http://setimes.com/cocoon/setimes/images/2004/11/22/DAVORphoto1HP.jpg" property="og:image"/><meta content="Pursuing independent nation status -- becoming a solid country economically, politically and with regards to Kosovo -- is the main goal of the Serbian government. Co-operation with The Hague tribunal -- extraditing accused war criminals -- and overcoming corruption are some of the biggest hurdles the country must overcome to right itself on the path to EU accession. Serbian Deputy Prime Minister Miroljub Labus tells Southeast European Times correspondent Davor Konjikusic his thoughts on the future of Serbia with regards to economics, politics and the state union of Serbia-Montenegro." property="og:description"/><link href="http://setimes.com/cocoon/setimes/images/2004/11/22/DAVORphoto1TN.jpg" rel="image_src"/><script type="text/javascript">countHit('article','setimes/articles/2004/11/22/reportage-01','setimes','en_GB');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/en_GB/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/en_GB/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Search" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/features/setimes/articles/2004/11/22/reportage-01">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/features/setimes/articles/2004/11/22/reportage-01">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/features/setimes/articles/2004/11/22/reportage-01">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/features/setimes/articles/2004/11/22/reportage-01">
+Hrvatski
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2004/11/22/reportage-01">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/features/setimes/articles/2004/11/22/reportage-01">
+Ελληνική
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2004/11/22/reportage-01">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/features/setimes/articles/2004/11/22/reportage-01">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/features/setimes/articles/2004/11/22/reportage-01">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/features/setimes/articles/2004/11/22/reportage-01">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/homepage/"><span>
+Home
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/recent"><span>
+Recent
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/info/"><span>
+Info Centre
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/region/"><span>
+Region
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/archive/"><span>
+Archive
+</span></a></li>
+<li class="navTitle">
+Countries
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Albania"><span>
+Albania
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Bosnia_and_Herzegovina"><span>
+BiH
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Bulgaria"><span>
+Bulgaria
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Croatia"><span>
+Croatia
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Greece"><span>
+Greece
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Kosovo"><span>
+Kosovo
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Macedonia"><span>
+Macedonia
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Moldova"><span>
+Moldova
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Montenegro"><span>
+Montenegro
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Romania"><span>
+Romania
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Serbia"><span>
+Serbia
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/country/Turkey"><span>
+Turkey
+</span></a></li>
+<li class="navTitle">
+Topics
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Politics"><span>
+Politics
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/War_Conflict"><span>
+Extremism
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Law_Crime"><span>
+Justice and law enforcement
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/ForRel"><span>
+Foreign relations
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Business_Finance"><span>
+Economic development
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Integration"><span>
+Integration
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Human_Interest"><span>
+Society
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Links
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/contribute/setimes/footer/contribute/contribute"><span>
+Contribute
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/disclaimer/disclaimer"><span>
+Disclaimer
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/about/about"><span>
+About Us
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/doc-feedback/setimes/footer/feedback/feedback"><span>
+Contact Us
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/en_GB/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Subscribe
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/podcast_index/default"><span>
+Podcast
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/en_GB/homepage/"><span>
+Mobile
+</span></a></li>
+</ul></div></div>
+<div class="span-15">
+<div class="article">
+<h1>Labus: Serbia Must Concentrate on the Future</h1>
+<p class="date">22/11/2004</p>
+<blockquote>Pursuing independent nation status -- becoming a solid country economically, politically and with regards to Kosovo -- is the main goal of the Serbian government. Co-operation with The Hague tribunal -- extraditing accused war criminals -- and overcoming corruption are some of the biggest hurdles the country must overcome to right itself on the path to EU accession. Serbian Deputy Prime Minister Miroljub Labus tells Southeast European Times correspondent Davor Konjikusic his thoughts on the future of Serbia with regards to economics, politics and the state union of Serbia-Montenegro. </blockquote>
+<p class="source">By Davor Konjikusic for Southeast EuropeanTimes in Belgrade -- 22/11/04 </p><iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2004/11/22/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<div id="slideshow_wrap"> </div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2004/11/22/DAVORphoto1.jpg" class="feature"/><p>[AFP]</p></div></div></td></tr></table>
+<p>After the end of the conflicts that ended Slobodan Milosevic's regime, Serbia found itself as a sovern nation. The after affects are still lingering in the country, however. In 2003, Serbia joined a loose union with Montenegro, combining the two states strengths. The union has been the center of much controversy, and could end after three years. Serbia must face, and overcome, the hurdles it faces if it will succeed as an independent nation -- and follow its path to Euro-Atlantic integration. </p>
+<p><b> Southeast European Times</b>: What is the future of economic reforms in Serbia? </p>
+<p><b>Deputy Prime Minister Miroljub Labus</b>: For two years, we pursued a policy that managed to establish microeconomic stability. Next year, we wish to bring inflation under 10 per cent, while maintaining growth of at least 5 per cent annually. [To achieve these numbers] would mean that we have achieved macroeconomic stability. However challenges still remain. Challenges associated with credit activities and with fiscal deficits, and with trade relations with other countries. </p>
+<p>I believe that a wise policy will be pursued to answer these challenges. What is important in the long term are structural reforms -- reforms within enterprises, creation of an investment climate, public sector reform and the continuation of the reforms in the banking sector. None of these things can be accomplished in one year -- they are medium-term goals, from three to five years. We have entered this stage, which means that we are facing a greater number of challenges associated with jobs, exports and trade relations with our neighbors. This represents what is called "Phase Two", or the mature phase of the transition, by the EBRD. I sincerely wish for reforms to continue in the direction that we have begun. </p>
+<p><b>SE Times</b>: How do you see the low Kosovo Serb voter turnout impacting the ongoing Belgrade-Pristina dialogue? </p>
+<p><b>Labus:</b> It is certain that the Balkans, and therefore the position of our country in the Balkans, is not a world priority. We need to be aware of this and to strive so that that neither ourselves nor any of our neighbours will attempt to make any rough and ready initiatives toward sudden changes of policy that require domestic support or support from the international community. Now is not a time for considering sudden changes in domestic and foreign policy, including, of course, the issue of the final status of Kosovo. </p>
+<p>I think that the UN Security Council gave a very clear and precise assessment of the fact that the present moment is a time for further democratization of society within Kosovo and Metohija, for securing greater safety for everyone, not just for so-called non-Albanian peoples. I think that it is clear how necessary it is to work on stabilizing democratic institutions and on increasing security of life in Kosovo and Metohija, so that this can create conditions for the renewal of the economy, among other things. In Kosovo we still have a virtual economy in which everyone is trading without anyone doing any producing. This can continue for a little longer, while there are still large donations incoming from abroad, but those donations will slowly peter out, which will mean that the people there will have to rely on their own production. </p>
+<p>It is necessary to stabilize both political and economic and security conditions in Kosovo, and only then, when international conditions are fulfilled, will it be possible to think about the final status of Kosovo. Presently, with the conditions such as they are, coming up with any type of dramatic initiative, in my opinion, does not contribute to a resolution of the problem. </p>
+<p><b>SE Times</b>: How do you view co-operation with The Hague tribunal? </p>
+<p><b>Labus</b>: It is evident that the pressure on our country is increasing for that co-operation to continue in the direction of extradition of the accused. My position has been crystal clear and well known from the very beginning. It is necessary that we co-operate and make good on our international obligations, but at the same time, it is necessary that we prepare our judiciary to process those and similar cases. We must deal with our past very calmly and rationally; both us and our neighbors, so that nothing of the sort ever repeats itself. But what we see happening right now, and this is cyclical, is that once again we are being subjected to direct pressures. </p>
+<p>The policy of financial intimidation provides smaller maneuvering space for the authorities in the country, it creates an impression among the people of us selling our citizens who should otherwise be put on trial for their crimes. This way an entirely different dimension is created, where we are compliant because we are coerced financially, and the public feels that we are "selling out". </p>
+<p><b>SE Times</b>: How do you see the future of the state union between Montenegro and Serbia? </p>
+<table style="float: left;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2004/11/22/DAVORphoto2.jpg" class="feature"/><p>"We must deal with our past very calmly and rationally; both us and our neighbors, so that nothing of the sort ever repeats itself," says Deputy Prime Minister Miroljub Labus. </p></div></div></td></tr></table>
+<p><b>Labus</b>: There is an enormous difference between the Belgrade Agreement and the Constitution, and what appeared to me as a reasonable solution in the Belgrade Agreement, with the good will of all participants in halting the disintegration of the country, I now see has not turned out quite like what we agreed at the time. Statements from Podgorica, and some statements being made here [in Belgrade], indicate that political will for the survival of the new state is not all pervasive. </p>
+<p> I do not wish to hinder, nor do I wish to promulgate the existence of a joint state, but I will observe very carefully what is happening, whether those institutions are being created and whether this is in the interest of the citizens of Serbia. It is certain that we should not wait three years to say, "We are sorry, the experiment has failed." If it succeeds, all credit is due to the people who carried it out -- we will raise monuments to them; but if it fails, I don’t think that we need to wait three years to declare that it has failed. Therefore, this is a time when we must leave the possibility open for the creation of these new institutions. I hope this will go quickly, and if it doesn’t, then we should certainly be just as critical of ourselves, as of others. We need to face reality. </p>
+<p><b>SE Times</b>: How would you describe the media climate in Serbia? </p>
+<p><b>Labus</b>: Not only has the media infrastructure in certain aspects not improved, but it has deteriorated. Further commercialization has occurred, and the people that have money, given that they have the programs that the people like to watch, read and listen, have settled in and adapted to the new situation. The position of the media scene, should it continue in the long term, will have a very negative effect on objectively informing our citizens. Even though there is no more pressure on the media of the sort that used to exist before, in [Slobodan] Milosevic’s time, we still don’t have objective, quality information, at least not continually. A situation exists, and this is readily apparent, where different interest groups control particular media. If you watch 10 leading TV stations, you can immediately say which political options they support. The situation is the same with the newspapers. But, since there are groups with different interests, there you eventually end up getting a fairly wide spectrum of different information. </p>
+<p>This situation worries me. A similar situation is present in other countries in which interest groups control parts of the media, but in other countries there is also a center of sorts -- in the electronic and printed media -- where you can be confident that the information they report is correct, and where you have very serious analysis of events, which have a positive effect on public opinion. We are still missing such a center. RTS is not the BBC, which means there is no completely objective and sufficiently professional informing in any electronic media. </p>
+<p>In the print media, certain papers are slowly approaching the position of becoming objective, unbiased and with complete information, but such papers unfortunately are not leaders in terms of circulation. Other papers lead the competition, papers to which qualifications of this sort do not apply. </p><div class="relatedFloat"><h1 class="relatedFloat">Related Articles</h1><script type="text/javascript">Event.observe(window,'load',function(){loadRelated('/cocoon/setimes/ajax/en_GB/related/setimes/articles/2004/11/22/reportage-01')});</script><div id="RelatedArticlesAjax"><span>Loading</span></div></div>
+<p><b> SE Times</b>: To what extent would you characterize the regional problem of organized crime and corruption as a potential threat for Serbian society today? </p>
+<p><b>Labus:</b> This is an entire host of issues -- crime, corruption, drug trafficking, trafficking prohibited materials, human trafficking -- that do not carry a national label and that can and must be raised at the regional level. All governments in the region must co-operate on these issues if we want to combat this evil. Crime is an international phenomenon, and the issue of corruption and crime is hardly specific to us here in Serbia. </p>
+<p> Of course, besides the international aspect, there is also that which is specifically national -- there is a need for every state to fight crime and corruption within its borders. There are different studies on many aspects of criminalization of society. In some of them we hold a better position than the average for the Balkans, while in other aspects we are worse off than our neighbors. Continuing to work on the reform of institutions is more important than media hype. </p>
+<p>In certain areas, we have reduced crime because the rules of the game have been reformed. For instance, there is no longer criminal activity associated with National Bank currency emissions. There is no longer any crime associated with manipulations by the heads of customs. I’m not saying that all customs officials cannot be bribed, that there are no problems in this area -- problems do exist, at lower levels, but that is a different order of problem. By changing institutions and the way things are conducted in the economy, you can significantly reduce corruption. On the other hand, you have to have judicial authorities -- the courts, the prosecution -- that are going to be able to deal with organized crime. </p>
+<div class="commissioned">This content was commissioned for SETimes.com.</div>
+<iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2004/11/22/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<script type="text/javascript">Event.observe(window,'load',function(){loadKeywords('/cocoon/setimes/ajax/en_GB/keywords/setimes/articles/2004/11/22/reportage-01')});</script><div id="KeywordsAjax"><span>Loading</span></div>
+<div class="articleToolbar"><div class="ratings"><h5>Vote</h5><form class="likebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2004/11/22/reportage-01" name="id" type="hidden"/><input value="-1" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="en_GB" name="lang" type="hidden"/><input value="Like(s) (#(count)#)" name="template" type="hidden"/><input value="Like(s) (#(count)#)" class="button" type="submit"/></form><div class="ratings-bars"><div class="ratings-box"><div style="width: 0%" class="ratings-bars-likes"> </div><div style="width: 0%" class="ratings-bars-dislikes"> </div></div></div><form class="dislikebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2004/11/22/reportage-01" name="id" type="hidden"/><input value="-2" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="en_GB" name="lang" type="hidden"/><input value="Dislike(s) (#(count)#)" name="template" type="hidden"/><input value="Dislike(s) (#(count)#)" class="button" type="submit"/></form></div><ul><li><a onclick="javascript:Effect.BlindDown('emailBlock'); return false;" href=""><img src="/cocoon/setimes/graphics/toolbar/icon_email.gif"/>Email to a friend</a></li><li><a href="/cocoon/setimes/print/en_GB/features/setimes/articles/2004/11/22/reportage-01"><img alt="icon" src="/cocoon/setimes/graphics/toolbar/icon_print.gif"/> Print Version </a></li><li><a href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2004/11/22/reportage-01" class="a2a_dd"><img alt="Share/Save/Bookmark" border="0" height="16" width="171" src="http://static.addtoany.com/buttons/share_save_171_16.png"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl='http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2004/11/22/reportage-01';</script><script src="http://static.addtoany.com/menu/page.js" type="text/javascript">//import</script></li></ul><div style="display:none" id="emailBlock"><div style="display:none;" id="feedbackEmail_response">Your email has been sent.</div><form onsubmit=" submitEmail( this ); return false;" action="/php/turing/emailarticle.php" method="post" id="mailform"><fieldset><input value="yes" name="email" type="hidden"/><input value="setimes/articles/2004/11/22/reportage-01" name="emailID" type="hidden"/><input value="http://www.setimes.com//cocoon/setimes/xhtml/en_GB/features/setimes/articles/2004/11/22/reportage-01" name="emailURL" type="hidden"/><input value="Labus: Serbia Must Concentrate on the Future" name="emailTitle" type="hidden"/><input value="en_GB" name="emailLang" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="An SETimes.com article from" name="emailSubject" type="hidden"/><div id="email_error_messages" class="feedback"><p id="inline-NameError" style="display:none">Please fill in the name.</p><p style="display:none" id="inline-EmailError">Please provide and email address.</p><p style="display:none" id="inline-Email_Invalid">The email address you entered is invalid.</p><p style="display:none" id="inline-CommentError">Please fill in the comment.</p></div><div class="donates">* ALL FIELDS ARE REQUIRED</div><div>Friend's email *</div><div><input id="emailTo" name="emailTo" type="text"/></div><div>Your name or email *</div><div><input id="emailName" name="emailName" type="text"/></div><div>Comment *</div><div><textarea cols="60" rows="4" id="emailMessage" name="emailMessage">	</textarea></div><div><img alt="turing test" src="/php/turing/button.php"/></div><div style="display:none" id="emailBlock_error" class="feedback">Digits do not match. Please re-enter.</div><div>Enter digits *</div><div><input id="userdigits" name="userdigits" type="text"/></div><div><input value="Submit" type="submit"/><input onclick="javascript:ShowLayer('emailBlock','none')" value="Cancel" type="button" name="cancel"/></div></fieldset></form></div></div>
+</div>
+<div class="commentBlock"><h1 class="commentsHeader">We welcome your comments on SETimes's articles.</h1><p class="comment_teaser">
+It is our hope that you will use this forum to interact with other readers across Southeast Europe. In order to keep this experience interesting, we ask you to follow the rules outlined in the comments policy. By submitting comments, you are consenting to these rules. While SETimes.com encourages discussion on all subjects, including sensitive ones, the comments posted are solely the views of those submitting them. SETimes.com does not necessarily endorse or agree with the ideas, views, or opinions voiced in these comments. SETimes.com welcomes constructive discussion but discourages the use of copy-pasted materials, unaccompanied links and one-line slogans. This is a moderated forum. <b> Comments deemed abusive, offensive, or those containing profanity may not be published. </b>
+</p><p class="comment_teaser">
+<a onclick="return openWindow('/cocoon/setimes/xhtml/en_GB/blank/setimes/special/comment_disclaimer/disclaimer','disclaimer','toolbar=no,scrollbars=yes,resizable=yes,width=800,height=700');" href="/cocoon/setimes/xhtml/en_GB/document/setimes/special/comment_disclaimer/disclaimer"> SETimes's Comments Policy </a>
+</p><iframe scrolling="yes" frameborder="no" height="2000" width="590" id="comments" src="http://comments.setimes.com/en_GB/viewcomment?articleid=setimes/articles/2004/11/22/reportage-01">//</iframe></div>
+</div>
+<div class="span-6 last featuresidebar">
+<div class="facebook-sidebar blockSidebar"><div class="fans"><span class="normal_count">546575</span><span class="normal_description">Facebook fans</span></div><div class="link"><div class="like en_GB"><iframe allowTransparency="true" style="border:none; overflow:hidden; width:500px; height:35px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/homepage/&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35"> </iframe></div><a class="normal_facebook_page" href="http://www.facebook.com/pages/SETimes/43184095884" target="new">Visit us</a></div></div><div class="blockSidebar social_media"><ul><li><a href="http://twitter.com/setimes"><img alt="Twitter" src="/cocoon/setimes/graphics/icons/twitter-60_60.png"/></a></li><li><a href="http://www.youtube.com/user/setimes"><img alt="Youtube" src="/cocoon/setimes/graphics/icons/youtube-32_32.png"/></a></li><li><a href="/cocoon/setimes/rss/en_GB/setimes.rss"><img alt="RSS" src="/cocoon/setimes/graphics/icons/rss-60_60.png"/></a></li></ul></div><div class="blockSidebar" id="blockReportage"><h3>Reportage</h3><div ceid="sidebar_reportage" class="item"><a class="title" title="Croatia enters EU, but faces uncertain future" href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2013/07/01/reportage-01">Croatia enters EU, but faces uncertain future</a><a class="image" href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2013/07/01/reportage-01"><img title="Croatia enters EU, but faces uncertain future" alt="Croatia enters EU, but faces uncertain future" src="/cocoon/setimes/images/2013/07/01/DRAZENphoto1TN.jpg" class="reportage"/></a><p>In spite of EU accession and the new availability of funds, Croats are concerned about economy, quality of life.</p><div class="clear"> </div></div></div><a href="http://turkey.setimes.com/en_GB" class="blockSidebar no_border"><img title="a special site for news about Turkey" alt="SETimes logo" src="/cocoon/setimes/graphics/special/ses-en_GB.gif"/></a><ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/en_GB/special_corruption/setimes/special/corruption/meta" class="image">Special Report: Corruption in Southeast Europe</a></h3><a href="/cocoon/setimes/xhtml/en_GB/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Special Report: Corruption in Southeast Europe" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-en_GB.jpg"/></a></li></ul><script type="text/javascript">Event.observe(window,'load',function(){ new Fabtabs('contentColumn1RecentTabstabList'); },false);</script><div id="blockPopular" class="blockSidebar"><h3>Most Popular</h3><ul id="contentColumn1RecentTabstabList" class="tabBox"><li><a href="#contentColumn1RecentTabstab1">Popular</a></li><li><a href="#contentColumn1RecentTabstab2">Commented</a></li><li><a href="#contentColumn1RecentTabstab3">Rated</a></li></ul><div id="contentColumn1RecentTabstab1" class="panel"><div ceid="most_popular" id="MostPopularAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadPopular('/cocoon/setimes/ajax/en_GB/buzz/popular/5')});</script></div><div id="contentColumn1RecentTabstab2" class="panel"><div id="MostCommentedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadCommented('/cocoon/setimes/ajax/en_GB/buzz/commented/5')});</script></div><div id="contentColumn1RecentTabstab3" class="panel"><div id="MostRatedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadRated('/cocoon/setimes/ajax/en_GB/buzz/rated/5')});</script></div></div><div ceid="photo_essay" class="blockSidebar" id="blockPhotoEssay"><h3>Photo Essay</h3><div class="item"><a href="/cocoon/setimes/xhtml/en_GB/photo_essay/setimes/photo_essay/2013/06/05/photo_essay" class="title">A moment in time: Taksim Square protests</a></div><div class="photo_essay_badge"><a href="/cocoon/setimes/xhtml/en_GB/photo_essay/setimes/photo_essay/2013/06/05/photo_essay"><img alt="A moment in time: Taksim Square protests" src="/cocoon/setimes/images/photo_essays/2013/06/05/TAKSIMphoto1CI.jpg"/></a></div></div><div ceid="sidebar_poll" class="blockPoll blockSidebar"><h3> Poll</h3><div url="/cocoon/setimes/poll/en_GB/2013-06-29" id="poll" class="poll"><form onsubmit="submitPoll(); return false;" action="/php/poll/poll.php" method="post" id="pollform"><fieldset><input value="2013-06-29" name="id" type="hidden"/><input value="yes" name="pollresult" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="en_GB" name="lang" type="hidden"/><h2>Will Croatia's EU membership make a difference in the region? </h2><input name="answer" type="radio" value="1"/><span>Yes</span><br/><input name="answer" type="radio" value="2"/><span>No</span><br/><input name="answer" type="radio" value="3"/><span>I don't know</span><br/><br/><center><input value="Vote" type="submit"/><br/><br/><a rel="nofollow" onclick="viewPoll('/cocoon/setimes/poll/en_GB/2013-06-29'); return false;" href="/cocoon/setimes/xhtml/en_GB/homepage/default?pollresult=yes&amp;answer=no&amp;id=2013-06-29">View results</a> <b><a href="/cocoon/setimes/xhtml/en_GB/poll_comments/setimes/polls/2013/2013-06-29">Add comments </a></b></center></fieldset></form></div><div style="display:none" id="poll_comments_link"> <b><a href="/cocoon/setimes/xhtml/en_GB/poll_comments/setimes/polls/2013/2013-06-29">Add comments </a></b></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/disclaimer/disclaimer">
+Disclaimer
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/about/about">
+About Us
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/doc-feedback/setimes/footer/feedback/feedback">
+Contact Us
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/en_GB/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Subscribe
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/podcast_index/default">
+Podcast
+</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6886.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div></body></html>

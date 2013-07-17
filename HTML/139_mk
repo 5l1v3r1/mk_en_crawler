@@ -1,0 +1,241 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="mk" lang="mk" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAWOQPiM6YCvBhNDmsm7JfvRTBfUk9TZrBRaIteybtnU2KziHEpRTt3eSDc7n7q6flBUrkhlDZz9XI_w&amp;hl=mk">//127.0.0.1 key</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:npyydcuchby&amp;lang=mk" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script type="text/javascript">
+							google.load("search", "1");
+							function OnLoad() {
+							new CSEOverlay("003982986761957721032:npyydcuchby",
+							document.getElementById("searchbox_003982986761957721032:npyydcuchby"),
+							document.getElementById("results_003982986761957721032:npyydcuchby"));
+							}
+							google.setOnLoadCallback(OnLoad);
+						</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/mk/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>ЕУ наполни 50 години (SETimes.com)</title><meta content="mk" name="lang"/><meta content="SETimes.com" name="publisher"/><meta content="2007-04-09" name="date"/><meta content="ЕУ наполни 50 години" name="title"/><meta content="article" property="og:type"/><meta content="ЕУ наполни 50 години" property="og:title"/><meta content="http://setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2007/04/09/reportage-01" property="og:url"/><meta content="Денес ЕУ е далеку поголем и позначаен ентитет од групата од шест земји што го потпиша Римскиот договор во март 1957-та година. Истовремено, таа се соочува со многу поширока и посложена група на предизвици, пишува Даниел Дајану, економист и поранешен романски министер за финансии." name="description"/><meta content="http://setimes.com/cocoon/setimes/images/2007/04/09/DANIELphoto1HP.jpg" name="image"/><meta content="http://setimes.com/cocoon/setimes/images/2007/04/09/DANIELphoto1HP.jpg" property="og:image"/><meta content="Денес ЕУ е далеку поголем и позначаен ентитет од групата од шест земји што го потпиша Римскиот договор во март 1957-та година. Истовремено, таа се соочува со многу поширока и посложена група на предизвици, пишува Даниел Дајану, економист и поранешен романски министер за финансии." property="og:description"/><link href="http://setimes.com/cocoon/setimes/images/2007/04/09/DANIELphoto1TN.jpg" rel="image_src"/><script type="text/javascript">countHit('article','setimes/articles/2007/04/09/reportage-01','setimes','mk');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/mk/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/mk/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Пребарај" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/features/setimes/articles/2007/04/09/reportage-01">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/features/setimes/articles/2007/04/09/reportage-01">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/features/setimes/articles/2007/04/09/reportage-01">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/features/setimes/articles/2007/04/09/reportage-01">
+Hrvatski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2007/04/09/reportage-01">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/features/setimes/articles/2007/04/09/reportage-01">
+Ελληνική
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2007/04/09/reportage-01">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/features/setimes/articles/2007/04/09/reportage-01">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/features/setimes/articles/2007/04/09/reportage-01">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/features/setimes/articles/2007/04/09/reportage-01">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/homepage/"><span>
+дома
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/recent"><span>
+неодамна
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/info/"><span>
+Информативен центар
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/region/"><span>
+Регион
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/archive/"><span>
+Архива
+</span></a></li>
+<li class="navTitle">
+Земји
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Albania"><span>
+Албанија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bosnia_and_Herzegovina"><span>
+БиХ
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bulgaria"><span>
+Бугарија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Croatia"><span>
+Хрватска
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Greece"><span>
+Грција
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Kosovo"><span>
+Косово
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Macedonia"><span>
+Македонија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Moldova"><span>
+Молдавија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Montenegro"><span>
+Црна Гора
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Romania"><span>
+Романија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Serbia"><span>
+Србија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/country/Turkey"><span>
+Турција
+</span></a></li>
+<li class="navTitle">
+Теми
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Politics"><span>
+Политика
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/War_Conflict"><span>
+екстремизам
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Law_Crime"><span>
+Спроведување на правдата и законот
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/ForRel"><span>
+Надворешни односи
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Business_Finance"><span>
+Економски развој
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Integration"><span>
+Интеграции
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Human_Interest"><span>
+Општество
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Линкови
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/contribute/setimes/footer/contribute/contribute"><span>
+Учествувајте
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer"><span>
+Одрекување
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about"><span>
+За нас
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback"><span>
+контактирајте не
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Претплати се
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/podcast_index/default"><span>
+Подкаст
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/mk/homepage/"><span>
+мобилен
+</span></a></li>
+</ul></div></div>
+<div class="span-15">
+<div class="article">
+<h1>ЕУ наполни 50 години</h1>
+<p class="date">09/04/2007</p>
+<blockquote>Денес ЕУ е далеку поголем и позначаен ентитет од групата од шест земји што го потпиша Римскиот договор во март 1957-та година. Истовремено, таа се соочува со многу поширока и посложена група на предизвици, пишува Даниел Дајану, економист и поранешен романски министер за финансии.</blockquote>
+<p class="source">Од Даниел Дајану за Southeast European Times во Букурешт – 09/04/07</p><iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2007/04/09/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<div id="slideshow_wrap"> </div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2007/04/09/DANIELphoto1.jpg" class="feature"/><p>[Getty Images]</p></div></div></td></tr></table>
+<p>Помина половина век откако Белгија, Франција, Италија, Луксембург, Холандија и поранешна Западна Германија потпишаа договор за формирање на Европската Економска Заедница (ЕЕЗ). Поминаа само 12 години од завршувањето на Втората Светска Војна, а новата унија требаше да одигра значајна улога во економската реконструкција и одржувањето на мирот.</p>
+<p>Во 1992-та година, значително проширената ЕЕЗ стана позната како Европска Унија (ЕУ) -- показател на желбата за политичка, како и економска интеграција. Со двата последователни брана на проширување дел од Унијата станаа неколку поранешни членки на сега екс Советскиот Сојуз, една бивша југословенска република и сеуште поделениот Кипар. Меѓувремено, надежта за евентуален влез е значајна движечка сила во обидот за стабилизација на Балканот. На кратко, Унијата ја прославува својата годишнина во време кога има многу поголема важност. </p>
+<p>Но, исто така, тоа е време на сериозни предизвици кои бараат нова политичка идеја. ЕУ се соочува со растечка комплексност, предизвикана делумно од последователните бранови на проширување. Се чини дека нејзиниот социјален модел е во конфликт со потребата пазарите да се направат пофлексибилни. Глобализацијата, економскиот раст на Азија и појавата на нови информатички и комуникациски технологии создадоа силен притисок. Влезот на Кина и Индија на важните глобални пазари предизвика големи промени во конкурентните хиерархии и има надолно влијание врз платите во богатите економии. </p>
+<p>Справувањето со зголемената комплексност значи решавање на голем број проблематични прашања. Треба ли даночните и фискалните политики да се направат поконвергентни, со цел да се спречи „една трка кон дното“? Кога факторите на производство се се повеќе и повеќе подвижни, кој или што треба да биде оданочен? На кој начин треба Унијата да се справи со економскиот национализам? Имплементацијата на Лисабонската агенда бара големи реформи во областа на образованието, енергијата, развојот и истражувањето и земјоделската политика, но како треба да бидат остварени овие промени? Променливата геометрија, растечката разновидност на социоекономски услови (со географски положби кои водат до различни наклони на соседските политики) и различните ставови меѓу земјите-членки можат да ја доведат политичката координација до застој.</p>
+<table style="float: left;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2007/04/09/DANIELphoto2.jpg" class="feature"/><p>Нагласувањето на предметите како инженерството, математиката, физиката и информатиката би и дале на Унијата поголема конкурентност заснована врз технолошки напредок. [Getty Images]</p></div></div></td></tr></table>
+<p>Делумно заради глобалната конкурентност, ЕУ е под притисок да постане пофлексибилна, да ги разлабави своите бирократски препреки, како и да ја реформира својата социјална држава. Во исто време, пазарниот фундаментализам се повлекува и постои силен поттик за внесување на социјалните и еколошките грижи во главната политика. Меѓувремено, неуспесите на финансиските и други пазари во изминатата деценија ја разгореа потребата за поефикасни регулативи. Не станува полесно урамнотежувањето на овие контрадикторни сили. Еден клуч да се направи ова лежи во образовната политика. Поголемото нагласување на предметите како инженерството, математиката, физиката и информатиката би помогнало да се изгради една конкурентна острина заснована врз технолошки напредок, производи и услуги со поголема додадена вредност. Остварувањето на една ваква острина ќе ублажи одредени притисоци кои го притискаат европскиот социјален модел.</p>
+<p>Секако, ќе бидат потребни продолжени напори за рационализација на социјалната држава. Но, вклучените потешкотии не треба да бидат потценети бидејќи тие вклучуваат основно редефинирање на социјалниот договор. Би прифатиле ли луѓето кои заработуваат забавено зголемување на нивниот доход (во форма на замрзнување, па дури и прекинување) и дали оние што имаат капитал би прифатиле пониски дивиденди заради поголеми јавни и приватни производни инвестиции? Ова може да биде возможно доколку сите страни се водени од етички императиви и чувство за одговорност. Но, постојат многу нешта кои укажуваат дека состојбата не е таква. </p>
+<p>Последните години беа сведок на неверојатно зголемување на доходите на генералните директори во време на скромни, па дури и стагнантни плати, кога поларизацијата на доходите се зголеми во речиси сите западни општества, а средната класа често се губи. Светот на бизнисот е погоден од серија скандали, нагризувајќи ја довербата во неговата способност за саморегулирање. Во една ваква средина, дали е разумно да се очекува работниците да станат алтруисти? Балансирањето на социјалните и економските императиви бара враќање на етичките вредности: чесноста и доверливоста, честа и почитувањето, лојалноста, напорното работење, образованието, семејството, заедништвото, алтруизмот и сожалувањето. </p><div class="relatedFloat"><h1 class="relatedFloat">Поврзани написи</h1><script type="text/javascript">Event.observe(window,'load',function(){loadRelated('/cocoon/setimes/ajax/mk/related/setimes/articles/2007/04/09/reportage-01')});</script><div id="RelatedArticlesAjax"><span>Loading</span></div></div>
+<p>Етичките прашања, исто така, влијаат врз меѓународните политики. Прашањата како што се заштитата на средината, снабдувањето со вода за пиење и борбата против болестите и сиромаштијата претставуваат итна агенда. Неуспесите во овие области најпосле можат да имаат последици врз безбедноста бидејќи глобалните разидувања се засилуваат и милитантните идеологии наидуваат на восприемчива публика меѓу исклучените. Унијата е обвинета, не неправедно, дека не го практикува она што го зборува кога во прашање се земјите во развој -- пропаѓањето на Доха трејд е карактеристичен пример овде. Ова прашање, сукцесивно, е поврзано со начинот на кој функционира Унијата. Еврокомесарите често тешко можат да им се спротивстават на притисоците предизвикани од моќните земји во блокот. Креирањето на политиката на ЕУ ќе мора да се развие некако доколку планира да се соочи со се посложените предизвици. </p>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2007/04/09/DANIELphoto3.jpg" class="feature"/><p>Пред неколку децении, проектот ЕУ вклучуваше помалку од дузина европски земји. Неговиот развој беше очигледен и драматичен. [Getty Images]</p></div></div></td></tr></table>
+<p>Друг пример е енергјата, која има нагласена меѓународна димензија. Односот со Русија брзо паѓа на ум. Покрај тоа, Кина и Индија ја користат нивната растечка економска моќ да им конкурираат на ЕУ и Соединетите Американски Држави за се поретките енергетски ресурси. Како ќе се развие оваа конкуренција во иднина сеуште не е јасно, но како и да е бара соодветна стратегија во Брисел. </p>
+<p>ЕУ направи многу, а може да направи уште. Нејзиниот напредок ќе даде значаен придонес за тоа како ќе се развива светот во годините и децениите што претстојат--економски, социјално и политички. Ваквиот прогрес не мора да биде спектакуларен. Има премногу несигурности, а светот претрпува големи промени. Пред неколку децении, проектот ЕУ вклучуваше помалку од дузина европски земји; неговиот развој беше очигледен и драматичен. </p>
+<p>На ваков начин чекорите што претстојат можат да бидат помалку, но ова не ја намалува нивната важност. Обезбедувањето на една подобра рамка за земјите од Западен Балкан во нивниот обид да се приклучат кон Унијата е еден пример. Заморот од проширувањето е реалност, но исто е и потребата да се покаже визија и државништво. Ако блокот сака да помогне и да биде водич на надежта за останатиот дел од светот, тогаш треба да покаже способност да се справи со очигледно нерешливите проблеми на свој терен. </p>
+<div class="commissioned">Оваа содржина е овластена за SETimes.com.</div>
+<iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2007/04/09/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<script type="text/javascript">Event.observe(window,'load',function(){loadKeywords('/cocoon/setimes/ajax/mk/keywords/setimes/articles/2007/04/09/reportage-01')});</script><div id="KeywordsAjax"><span>Loading</span></div>
+<div class="articleToolbar"><div class="ratings"><h5>Гласаj</h5><form class="likebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2007/04/09/reportage-01" name="id" type="hidden"/><input value="-1" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Допаѓа (#(count)#)" name="template" type="hidden"/><input value="Допаѓа (#(count)#)" class="button" type="submit"/></form><div class="ratings-bars"><div class="ratings-box"><div style="width: 0%" class="ratings-bars-likes"> </div><div style="width: 0%" class="ratings-bars-dislikes"> </div></div></div><form class="dislikebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2007/04/09/reportage-01" name="id" type="hidden"/><input value="-2" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Не допаѓа (#(count)#)" name="template" type="hidden"/><input value="Не допаѓа (#(count)#)" class="button" type="submit"/></form></div><ul><li><a onclick="javascript:Effect.BlindDown('emailBlock'); return false;" href=""><img src="/cocoon/setimes/graphics/toolbar/icon_email.gif"/>Испратете на пријател по електронска пошта</a></li><li><a href="/cocoon/setimes/print/mk/features/setimes/articles/2007/04/09/reportage-01"><img alt="icon" src="/cocoon/setimes/graphics/toolbar/icon_print.gif"/> печатена верзија </a></li><li><a href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2007/04/09/reportage-01" class="a2a_dd"><img alt="Share/Save/Bookmark" border="0" height="16" width="171" src="http://static.addtoany.com/buttons/share_save_171_16.png"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl='http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2007/04/09/reportage-01';</script><script src="http://static.addtoany.com/menu/page.js" type="text/javascript">//import</script></li></ul><div style="display:none" id="emailBlock"><div style="display:none;" id="feedbackEmail_response">Пораката е испратена.</div><form onsubmit=" submitEmail( this ); return false;" action="/php/turing/emailarticle.php" method="post" id="mailform"><fieldset><input value="yes" name="email" type="hidden"/><input value="setimes/articles/2007/04/09/reportage-01" name="emailID" type="hidden"/><input value="http://www.setimes.com//cocoon/setimes/xhtml/mk/features/setimes/articles/2007/04/09/reportage-01" name="emailURL" type="hidden"/><input value="ЕУ наполни 50 години" name="emailTitle" type="hidden"/><input value="en_GB" name="emailLang" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="An SETimes.com article from" name="emailSubject" type="hidden"/><div id="email_error_messages" class="feedback"><p id="inline-NameError" style="display:none">Ве молиме, напишете име.</p><p style="display:none" id="inline-EmailError">Ве молиме, напишете ја Вашата адреса за електронска пошта.</p><p style="display:none" id="inline-Email_Invalid">Имејл адресата што ја внесовте не е точна.</p><p style="display:none" id="inline-CommentError">Ве молиме, напишете коментар.</p></div><div class="donates">* СИТЕ ПОЛИЊА СЕ ЗАДОЛЖИТЕЛНИ</div><div>Адресата на електронската пошта на пријателот *</div><div><input id="emailTo" name="emailTo" type="text"/></div><div>Вашето име или адреса за електронска пошта *</div><div><input id="emailName" name="emailName" type="text"/></div><div>коментар *</div><div><textarea cols="60" rows="4" id="emailMessage" name="emailMessage">	</textarea></div><div><img alt="turing test" src="/php/turing/button.php"/></div><div style="display:none" id="emailBlock_error" class="feedback">Бројките не одговараат. Ве молиме внесете повторно.</div><div>внесете бројки *</div><div><input id="userdigits" name="userdigits" type="text"/></div><div><input value="Поднесува" type="submit"/><input onclick="javascript:ShowLayer('emailBlock','none')" value="Откажи" type="button" name="cancel"/></div></fieldset></form></div></div>
+</div>
+<div class="commentBlock"><h1 class="commentsHeader">Вашите коментари за натписите на SETimes се добредојдени.</h1><p class="comment_teaser">
+Се надеваме дека ќе го искористите овој форум за да комуницирате со другите читатели од Југоисточна Европа. За ова искуство да биде интересно, бараме од вас да ги следите правилата наведени во правилникот за коментари. Со испраќањето на коментарите, вие се согласувате со овие правила. Иако SETimes.com ги охрабрува дискусиите на сите теми, вклучително и на чувствителните, коментарите што се објавуваат се ставови единствено на оние што ги испраќаат. SETimes.com не ги одобрува и не се согласува секогаш со идеите, ставовите или мислењата искажани во овие коментари. SETimes.com ги поддржува конструктивните дискусии, но е против употребата на копи-пејст материјалите, непридружуваните линкови и слогани од еден ред. Ова е умерен форум. <b>Коментарите што се сметаат за погрдни, навредливи, или оние што содржат вулгарности, нема да се објават. </b>
+</p><p class="comment_teaser">
+<a onclick="return openWindow('/cocoon/setimes/xhtml/mk/blank/setimes/special/comment_disclaimer/disclaimer','disclaimer','toolbar=no,scrollbars=yes,resizable=yes,width=800,height=700');" href="/cocoon/setimes/xhtml/mk/document/setimes/special/comment_disclaimer/disclaimer">Правилник за коментари на SETimes's</a>
+</p><iframe scrolling="yes" frameborder="no" height="2000" width="590" id="comments" src="http://comments.setimes.com/mk/viewcomment?articleid=setimes/articles/2007/04/09/reportage-01">//</iframe></div>
+</div>
+<div class="span-6 last featuresidebar">
+<div class="facebook-sidebar blockSidebar"><div class="fans"><span class="small_count">547990</span><span class="small_description">Фејсбук фанови</span></div><div class="link"><div class="like mk"><iframe allowTransparency="true" style="border:none; overflow:hidden; width:500px; height:35px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/homepage/&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35"> </iframe></div><a class="small_facebook_page" href="http://www.facebook.com/pages/SETimes/43184095884" target="new">Επισκεφθείτε μας</a></div></div><div class="blockSidebar social_media"><ul><li><a href="http://twitter.com/setimes"><img alt="Twitter" src="/cocoon/setimes/graphics/icons/twitter-60_60.png"/></a></li><li><a href="http://www.youtube.com/user/setimes"><img alt="Youtube" src="/cocoon/setimes/graphics/icons/youtube-32_32.png"/></a></li><li><a href="/cocoon/setimes/rss/mk/setimes.rss"><img alt="RSS" src="/cocoon/setimes/graphics/icons/rss-60_60.png"/></a></li></ul></div><div class="blockSidebar" id="blockReportage"><h3>Репортажа</h3><div ceid="sidebar_reportage" class="item"><a class="title" title="Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/08/reportage-01">Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот</a><a class="image" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/08/reportage-01"><img title="Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот" alt="Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот" src="/cocoon/setimes/images/2013/07/08/LINDAphoto1TN.jpg" class="reportage"/></a><p>Муфтијата Тернава изјави за SETimes дека екстремизмот и тероризмот се спротивни на вредностите на Исламската заедница на Косово.</p><div class="clear"> </div></div></div><ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image">Специјален извештај: Корупцијата во Југоисточна Европа</a></h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Специјален извештај: Корупцијата во Југоисточна Европа" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-mk.jpg"/></a></li></ul><script type="text/javascript">Event.observe(window,'load',function(){ new Fabtabs('contentColumn1RecentTabstabList'); },false);</script><div id="blockPopular" class="blockSidebar"><h3>Најпопуларни</h3><ul id="contentColumn1RecentTabstabList" class="tabBox"><li><a href="#contentColumn1RecentTabstab1">попул.</a></li><li><a href="#contentColumn1RecentTabstab2">комен.</a></li><li><a href="#contentColumn1RecentTabstab3">оцен.</a></li></ul><div id="contentColumn1RecentTabstab1" class="panel"><div ceid="most_popular" id="MostPopularAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadPopular('/cocoon/setimes/ajax/mk/buzz/popular/5')});</script></div><div id="contentColumn1RecentTabstab2" class="panel"><div id="MostCommentedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadCommented('/cocoon/setimes/ajax/mk/buzz/commented/5')});</script></div><div id="contentColumn1RecentTabstab3" class="panel"><div id="MostRatedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadRated('/cocoon/setimes/ajax/mk/buzz/rated/5')});</script></div></div><div ceid="photo_essay" class="blockSidebar" id="blockPhotoEssay"><h3>Фото есеј</h3><div class="item"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay" class="title">A moment in time: Taksim Square protests</a></div><div class="photo_essay_badge"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay"><img alt="A moment in time: Taksim Square protests" src="/cocoon/setimes/images/photo_essays/2013/06/05/TAKSIMphoto1CI.jpg"/></a></div></div><div ceid="sidebar_poll" class="blockPoll blockSidebar"><h3> Анкета</h3><div url="/cocoon/setimes/poll/mk/2013-07-06" id="poll" class="poll"><form onsubmit="submitPoll(); return false;" action="/php/poll/poll.php" method="post" id="pollform"><fieldset><input value="2013-07-06" name="id" type="hidden"/><input value="yes" name="pollresult" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk" name="lang" type="hidden"/><h2>По пристапувањето во ЕУ, пазарот на работна сила е отворен за Хрватска. Дали би го промениле местото на живеење за да најдете нова работа?</h2><input name="answer" type="radio" value="1"/><span>Да </span><br/><input name="answer" type="radio" value="2"/><span>Не </span><br/><input name="answer" type="radio" value="3"/><span>Не знам</span><br/><br/><center><input value="Гласаj" type="submit"/><br/><br/><a rel="nofollow" onclick="viewPoll('/cocoon/setimes/poll/mk/2013-07-06'); return false;" href="/cocoon/setimes/xhtml/mk/homepage/default?pollresult=yes&amp;answer=no&amp;id=2013-07-06">Види ги резултатите</a> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-07-06">Додадете коментар </a></b></center></fieldset></form></div><div style="display:none" id="poll_comments_link"> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-07-06">Додадете коментар </a></b></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer">
+Одрекување
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about">
+За нас
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback">
+контактирајте не
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Претплати се
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/podcast_index/default">
+Подкаст
+</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6886.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div></body></html>

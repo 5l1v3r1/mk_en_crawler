@@ -1,0 +1,321 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="mk" lang="mk" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:npyydcuchby&amp;lang=mk" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/mk/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>Setimes.com</title><script type="text/javascript">countHit('resource','archivelist','setimes','mk');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/mk/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/mk/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Пребарај" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+Hrvatski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+Ελληνική
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/mk/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/archivelist/setimes/newsbriefs/2007/12/23/.DAV">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/homepage/"><span>
+дома
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/recent"><span>
+неодамна
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/info/"><span>
+Информативен центар
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/region/"><span>
+Регион
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/archive/"><span>
+Архива
+</span></a></li>
+<li class="navTitle">
+Земји
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Albania"><span>
+Албанија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bosnia_and_Herzegovina"><span>
+БиХ
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bulgaria"><span>
+Бугарија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Croatia"><span>
+Хрватска
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Greece"><span>
+Грција
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Kosovo"><span>
+Косово
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Macedonia"><span>
+Македонија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Moldova"><span>
+Молдавија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Montenegro"><span>
+Црна Гора
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Romania"><span>
+Романија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Serbia"><span>
+Србија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/country/Turkey"><span>
+Турција
+</span></a></li>
+<li class="navTitle">
+Теми
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Politics"><span>
+Политика
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/War_Conflict"><span>
+екстремизам
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Law_Crime"><span>
+Спроведување на правдата и законот
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/ForRel"><span>
+Надворешни односи
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Business_Finance"><span>
+Економски развој
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Integration"><span>
+Интеграции
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Human_Interest"><span>
+Општество
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Линкови
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/contribute/setimes/footer/contribute/contribute"><span>
+Учествувајте
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer"><span>
+Одрекување
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about"><span>
+За нас
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback"><span>
+контактирајте не
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Претплати се
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/podcast_index/default"><span>
+Подкаст
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/mk/homepage/"><span>
+мобилен
+</span></a></li>
+</ul></div></div>
+<div class="span-15 last">
+<div class="blockGeneric"><h3>Пребарување на архива</h3>
+<div class=""><a class="" href="/cocoon/setimes/xhtml/mk/archivelist/setimes/articles">Репортажа</a>, <a class="" href="/cocoon/setimes/xhtml/mk/archivelist/setimes/features">Фељтони</a>, <a class="" href="/cocoon/setimes/xhtml/mk/archivelist/setimes/roundup">Преглед</a></div>
+</div>
+<div class="article">
+<h1>/setimes/newsbriefs/2007/12/23/.DAV</h1>
+</div>
+</div>
+<div class="span-6 last archive">
+<div class="blockCurrentFeatures"><h3>Пребарување на архива</h3>
+<div class="clear"> </div></div>
+<div class="blockCalendar"><h3>по датум (последните 30 изданија)</h3>
+<div class="calendar"><table align="center"><thead><tr><th>по</th><th>вт</th><th>ср</th><th>че</th><th>пе</th><th>са</th><th>не</th></tr></thead><tr><td class="title" align="center" colspan="7"><b>јуни 2013</b></td></tr><tr><td><b/></td><td><b/></td><td><b/></td><td><b/></td><td><b/></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-15">15</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-16">16</a></td></tr><tr><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-17">17</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-18">18</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-19">19</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-20">20</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-21">21</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-22">22</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-23">23</a></td></tr><tr><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-24">24</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-25">25</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-26">26</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-27">27</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-28">28</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-29">29</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-06-30">30</a></td></tr><tr><td><b/></td><td><b/></td><td><b/></td><td><b/></td><td><b/></td><td><b/></td><td><b/></td></tr><tr><td class="title" align="center" colspan="7"><b>јули 2013</b></td></tr><tr><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-01">1</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-02">2</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-03">3</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-04">4</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-05">5</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-06">6</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-07">7</a></td></tr><tr><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-08">8</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-09">9</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-10">10</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-11">11</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-12">12</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-13">13</a></td><td><a href="/cocoon/setimes/xhtml/mk/archive/2013-07-14">14</a></td></tr><tr><td><b>15</b></td><td><b/></td><td><b/></td><td><b/></td><td><b/></td><td><b/></td><td><b/></td></tr></table></div>
+</div>
+<div class="blockGeneric"><h3>по тема</h3>
+<div class="taxonomy">
+<div class="taxonomyEven"><h1><a href="/cocoon/setimes/xhtml/mk/topicarchive/topic/Politics">
+Политика
+</a></h1></div><div class="taxonomyOdd"><h1><a href="/cocoon/setimes/xhtml/mk/topicarchive/topic/War_Conflict">
+екстремизам
+</a></h1></div><div class="taxonomyEven"><h1><a href="/cocoon/setimes/xhtml/mk/topicarchive/topic/Law_Crime">
+Спроведување на правдата и законот
+</a></h1></div><div class="taxonomyOdd"><h1><a href="/cocoon/setimes/xhtml/mk/topicarchive/topic/ForRel">
+Надворешни односи
+</a></h1></div><div class="taxonomyEven"><h1><a href="/cocoon/setimes/xhtml/mk/topicarchive/topic/Peacekeeping">
+Мировни мисии
+</a></h1></div><div class="taxonomyOdd"><h1><a href="/cocoon/setimes/xhtml/mk/topicarchive/topic/Business_Finance">
+Бизнис
+</a></h1></div><div class="taxonomyEven"><h1><a href="/cocoon/setimes/xhtml/mk/topicarchive/topic/Integration">
+Интеграции
+</a></h1></div><div class="taxonomyOdd"><h1><a href="/cocoon/setimes/xhtml/mk/topicarchive/topic/Social_Issues">
+Општество
+</a></h1></div>
+</div>
+</div>
+<div class="blockGeneric"><h3>по земја</h3>
+<div class=""><a class="" href="/cocoon/setimes/xhtml/mk/countryarchive/country/Albania">
+Албанија
+</a>, <a class="" href="/cocoon/setimes/xhtml/mk/countryarchive/Country/BiH">
+БиХ
+</a>, <a class="" href="/cocoon/setimes/xhtml/mk/countryarchive/Country/Bulgaria">
+Бугарија
+</a>, <a class="" href="/cocoon/setimes/xhtml/mk/countryarchive/Country/Croatia">
+Хрватска
+</a>, <a class="" href="/cocoon/setimes/xhtml/mk/countryarchive/Country/Greece">
+Грција
+</a>, <a class="" href="/cocoon/setimes/xhtml/mk/countryarchive/Country/Macedonia">
+Македонија
+</a>, <a class="" href="/cocoon/setimes/xhtml/mk/countryarchive/Country/Romania">
+Романија
+</a>, <a class="" href="/cocoon/setimes/xhtml/mk/countryarchive/Country/Serbia-Montenegro">
+Србија и Црна Гора
+</a>, <a class="" href="/cocoon/setimes/xhtml/mk/countryarchive/country/Turkey">
+Турција
+</a></div>
+</div>
+<ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image">Специјален извештај: Корупцијата во Југоисточна Европа</a></h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Специјален извештај: Корупцијата во Југоисточна Европа" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-mk.jpg"/></a></li></ul>
+<div class="blockGeneric"><h3>Специјални репортажи</h3>
+<img class="wc" src="/cocoon/setimes/graphics/icons/WorldCup.jpg"/><div class="blockWorldCup"><h3>Светско првенство 2006</h3>
+<div class="wclink"><a class="wclink" href="/cocoon/setimes/xhtml/mk/wc/">Повеќе настани од Светското првенство</a></div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/2005/12/15/BiH.gif"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/special/setimes/special/dayton/index">Десетта годишнина од Дејтонскиот договор: Поглед кон иднината</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/olympics2008/rings.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/olympics2008/">Репортажа за Олимпијадата на Setimes</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/kosovo/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/kosovo/">Градење на Косово</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/turkey/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/turkey/">Турција: Ветување и предизвик</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/karadzic/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/karadzic/">Најбараните лица на Хаг</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/special/election09/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/special_election09/setimes/special/election09/meta">Eвропа гласа: Избори за ЕП 2009</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/special/visa09/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/special_visa09/setimes/special/visa09/meta">Безвизно патување: патот напред</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/special/balkan_destinations/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/balkan_destinations/setimes/special/balkan_destinations/meta">Дестинација: Балкан </a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/special/gallup/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/gallup/setimes/special/gallup/meta">Gallup Balkan Monitor</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/special/backtoschool09/thumbnail.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/special_school_09/setimes/special/backtoschool09/meta">Назад на училиште</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/special/fall_communism/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/fall_communism/setimes/special/fall_communism/meta">1989: Ѕидот падна</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/special/eurovision_2010/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/special_eurovision_10/setimes/special/eurovision_2010/meta">Евровизија 2010</a><br/>
+</div>
+</div>
+<div class="blockDaytonAccord">
+<img alt="thumbnail" src="/cocoon/setimes/images/special/world_cup_10/homepage.jpg"/><div class="item">
+<a href="/cocoon/setimes/xhtml/mk/special_world_cup_10/setimes/special/world_cup_10/meta">Светско првенство 2010</a><br/>
+</div>
+</div>
+</div>
+<div class="blockVideo">
+<h3>Video Archives</h3><div class="video_block"><img src="/cocoon/setimes/video/homepage.jpg"/><h4>
+<a href="/cocoon/setimes/xhtml/mk/video_archives/">Video Archives</a><br/>
+</h4></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer">
+Одрекување
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about">
+За нас
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback">
+контактирајте не
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Претплати се
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/podcast_index/default">
+Подкаст
+</a></li>
+</ul></div>
+</div>
+</div></body></html>

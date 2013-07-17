@@ -1,0 +1,247 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAWOQPiM6YCvBhNDmsm7JfvRTBfUk9TZrBRaIteybtnU2KziHEpRTt3eSDc7n7q6flBUrkhlDZz9XI_w&amp;hl=en">//127.0.0.1 key</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:bhtcnwacets&amp;lang=en" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script type="text/javascript">
+							google.load("search", "1");
+							function OnLoad() {
+							new CSEOverlay("003982986761957721032:bhtcnwacets",
+							document.getElementById("searchbox_003982986761957721032:bhtcnwacets"),
+							document.getElementById("results_003982986761957721032:bhtcnwacets"));
+							}
+							google.setOnLoadCallback(OnLoad);
+						</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/en_GB/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>Schwarz-Schilling: "I am here to assist, advise and advocate" (SETimes.com)</title><meta content="en_GB" name="lang"/><meta content="SETimes.com" name="publisher"/><meta content="2006-06-12" name="date"/><meta content="Schwarz-Schilling: &quot;I am here to assist, advise and advocate&quot;" name="title"/><meta content="article" property="og:type"/><meta content="Schwarz-Schilling: &quot;I am here to assist, advise and advocate&quot;" property="og:title"/><meta content="http://setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2006/06/12/interview-01" property="og:url"/><meta content="Constitutional changes and police reform are top issues in Bosnia and Herzegovina as it makes its way towards EU accession. At the same time, co-operation with the UN war crimes tribunal remains incomplete, the political will to achieve reform has been shaky, and the country faces the challenge of persuading investors that it offers a viable commercial environment. In an interview with Southeast European Times correspondent Antonio Prlenda, High Representative Christian Schwarz-Schilling discusses his role as the top international envoy in BiH and outlines the steps needed to move the country forward." name="description"/><meta content="http://setimes.com/cocoon/setimes/images/2006/06/12/ANTONIOphoto1HP.jpg" name="image"/><meta content="http://setimes.com/cocoon/setimes/images/2006/06/12/ANTONIOphoto1HP.jpg" property="og:image"/><meta content="Constitutional changes and police reform are top issues in Bosnia and Herzegovina as it makes its way towards EU accession. At the same time, co-operation with the UN war crimes tribunal remains incomplete, the political will to achieve reform has been shaky, and the country faces the challenge of persuading investors that it offers a viable commercial environment. In an interview with Southeast European Times correspondent Antonio Prlenda, High Representative Christian Schwarz-Schilling discusses his role as the top international envoy in BiH and outlines the steps needed to move the country forward." property="og:description"/><link href="http://setimes.com/cocoon/setimes/images/2006/06/12/ANTONIOphoto1TN.jpg" rel="image_src"/><script type="text/javascript">countHit('article','setimes/articles/2006/06/12/interview-01','setimes','en_GB');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/en_GB/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/en_GB/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Search" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/features/setimes/articles/2006/06/12/interview-01">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/features/setimes/articles/2006/06/12/interview-01">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/features/setimes/articles/2006/06/12/interview-01">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/features/setimes/articles/2006/06/12/interview-01">
+Hrvatski
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2006/06/12/interview-01">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/features/setimes/articles/2006/06/12/interview-01">
+Ελληνική
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2006/06/12/interview-01">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/features/setimes/articles/2006/06/12/interview-01">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/features/setimes/articles/2006/06/12/interview-01">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/features/setimes/articles/2006/06/12/interview-01">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/homepage/"><span>
+Home
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/recent"><span>
+Recent
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/info/"><span>
+Info Centre
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/region/"><span>
+Region
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/archive/"><span>
+Archive
+</span></a></li>
+<li class="navTitle">
+Countries
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Albania"><span>
+Albania
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Bosnia_and_Herzegovina"><span>
+BiH
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Bulgaria"><span>
+Bulgaria
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Croatia"><span>
+Croatia
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Greece"><span>
+Greece
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Kosovo"><span>
+Kosovo
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Macedonia"><span>
+Macedonia
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Moldova"><span>
+Moldova
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Montenegro"><span>
+Montenegro
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Romania"><span>
+Romania
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Country/Serbia"><span>
+Serbia
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/country/Turkey"><span>
+Turkey
+</span></a></li>
+<li class="navTitle">
+Topics
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Politics"><span>
+Politics
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/War_Conflict"><span>
+Extremism
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Law_Crime"><span>
+Justice and law enforcement
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/ForRel"><span>
+Foreign relations
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Business_Finance"><span>
+Economic development
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Integration"><span>
+Integration
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/keyword/Topic/Human_Interest"><span>
+Society
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Links
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/contribute/setimes/footer/contribute/contribute"><span>
+Contribute
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/disclaimer/disclaimer"><span>
+Disclaimer
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/about/about"><span>
+About Us
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/doc-feedback/setimes/footer/feedback/feedback"><span>
+Contact Us
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/en_GB/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Subscribe
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/podcast_index/default"><span>
+Podcast
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/en_GB/homepage/"><span>
+Mobile
+</span></a></li>
+</ul></div></div>
+<div class="span-15">
+<div class="article">
+<h1>Schwarz-Schilling: "I am here to assist, advise and advocate"</h1>
+<p class="date">12/06/2006</p>
+<blockquote>Constitutional changes and police reform are top issues in Bosnia and Herzegovina as it makes its way towards EU accession. At the same time, co-operation with the UN war crimes tribunal remains incomplete, the political will to achieve reform has been shaky, and the country faces the challenge of persuading investors that it offers a viable commercial environment. In an interview with Southeast European Times correspondent Antonio Prlenda, High Representative Christian Schwarz-Schilling discusses his role as the top international envoy in BiH and outlines the steps needed to move the country forward.</blockquote>
+<p class="source">By Antonio Prlenda for Southeast European Times – 12/06/06</p><iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2006/06/12/interview-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<div id="slideshow_wrap"> </div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2006/06/12/ANTONIOphoto1.jpg" class="feature"/><p>"This is a different country even from five years ago -- what it needs and deserves is the confidence of the international community," says BiH High Representative Christian Schwarz-Schilling. [Getty Images]</p></div></div></td></tr></table>
+<p>Tackling the issues of constitutional reform, ICTY co-operation and police reform are imperatives for Bosnia and Herzegovina's future progress, says the top international envoy in the country, High Representative Christian Schwarz-Schilling, in an interview with Southeast European Times correspondent Antonio Prlenda. </p>
+<p><b>Southeast European Times</b>: Is the fulfillment of constitutional reform in Bosnia and Herzegovina (BiH) a precondition for the Stabilisation and Association Agreement (SAA) process with the EU? </p>
+<p><b>High Representative Christian Schwarz-Schilling</b>: There is broad popular and political agreement that BiH needs constitutional reform in order to have more functional state structures -- the present system duplicates resources, is unnecessarily expensive and is markedly inefficient. In the first instance, constitutional reform will help the government structure to serve citizens more efficiently. It will also give the authorities the capacity they need in order to meet the requirements of EU integration. Constitutional reform is not an SAA requirement as such, but it is imperative if BiH is to move further along the road of EU integration after completing the SAA negotiations -- hopefully by the end of this year -- and it is imperative if BiH is to have the kind of functional and efficient government structure that is the European norm and that most of its citizens want. </p>
+<p><b>SETimes:</b> Do you believe that use of the Bonn Powers will be enough to press politicians in the Republika Srpska (RS) for ultimate co-operation with the International Criminal Tribunal for the former Yugoslavia (ICTY)? </p>
+<p><b>Schwarz-Schilling:</b> Co-operation with the ICTY is a <i>sine qua non</i> of progress in the Western Balkans. The EU has been absolutely clear that failure to co-operate with the ICTY will be taken as clear grounds for suspending the integration process -- as we have seen in the case of Serbia. It is essential that we do not view the ICTY process as a question of compulsion -- it is a matter of justice, of law, of establishing the truth through judicial process. Increasingly, I believe, RS politicians understand this. I have made it clear that ICTY co-operation is an area where I reserve the right to use the Bonn Powers, and I will do so wherever and whenever I believe this to be necessary. </p>
+<p><b>SETimes</b>: What if the representatives of the RS request independence? </p>
+<p><b>Schwarz-Schilling</b>: RS is an integral part of BiH, a fact enshrined in the Dayton Agreement signed by its neighboring countries and guaranteed by the international community. </p>
+<table style="float: left;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2006/06/12/ANTONIOphoto2.jpg" class="feature"/><p>Police reform will benefit honest, law-abiding citizens who are fed up with corruption and crime and who want to travel visa-free to Europe and elsewhere, according to Schwarz-Schilling. [Getty Images]</p></div></div></td></tr></table>
+<p><b>SETimes:</b> Do you find that prompt and efficient implementation of police reform is possible in an election year in BiH? </p>
+<p><b>Schwarz-Schilling</b>: With every single reform we have to ask the basic question -- who does this benefit? Well, there is absolutely no mystery as to who will benefit from police reform -- honest, law-abiding citizens who are fed up with corruption and crime and who want to travel visa-free to Europe and elsewhere. And who will benefit if police reform is <i>not</i> implemented? Corrupt politicians, compromised police officers, and criminals. I served for 26 years in the German Parliament. I fought countless elections, and I fought them successfully. I cannot see that politicians in BiH can possibly lose support by proposing to voters the introduction of a system that will make their police more politically independent, more efficient and more accountable to the communities they serve. </p>
+<p>And as I said in my speech to the BiH Parliament on 24 May -- be under no illusions: Rejecting broadcasting reform or police reform will stop progress towards Europe. Elections or no elections, this is not a good time to go slowly on reforms or to test the EU's patience. </p>
+<p><b>SETimes:</b> How can the Free Trade Zone in the Western Balkans help BiH improve its competitiveness in the free market? </p>
+<p><b>Schwarz-Schilling</b>: The free trade process has begun to create a recognisable economic community in Southeast Europe. BiH is in the heart of a regional market of 55 million people -- that market is poised for take-off, and BiH can be a part of a new wave of prosperity. We have already seen considerable progress in upgrading the business environment here -- investment is up; interest rates are down; following the successful introduction of VAT government revenue is up; BiH still enjoys among the lowest inflation rates in the region -- and in mid-May, Moody's Investor Service upgraded the country's credit rating from B3 to B2 -- so we are becoming much more competitive. </p>
+<p>Regional free trade is not about imposing a liberal trade regime on Southeast Europe; it is about responding to the possibilities created by the successful liberalisation of domestic markets. The BiH market is starting to respond positively to years of reform. One of the things we have to do now is "re-brand" the country and persuade international investors that the economic and physical wasteland of a decade ago has been transformed into a viable commercial environment. We are now beginning to do this. </p>
+<p>BiH long ago ceased to be a byword for mayhem, and is increasingly being seen as a model of postwar recovery. I believe that we have the capability of competing successfully with our neighbours in a vibrant regional market, and of going even further to become a competitive player in the global economy. </p><div class="relatedFloat"><h1 class="relatedFloat">Related Articles</h1><script type="text/javascript">Event.observe(window,'load',function(){loadRelated('/cocoon/setimes/ajax/en_GB/related/setimes/articles/2006/06/12/interview-01')});</script><div id="RelatedArticlesAjax"><span>Loading</span></div></div>
+<p><b>SETimes:</b> The local public in BiH criticised [former High Representative] Lord Paddy Ashdown for his co-operation with ruling nationalist parties in BiH. What will be your practice? </p>
+<p><b> Schwarz-Schilling:</b> Each of my predecessors was working in a different time, with different circumstances and different challenges. Now we have reached a new phase of transition and ownership. My job today, as high representative and EU special representative, must reflect this. </p>
+<p>I made it clear on the day that I took up my duties that I have come to assist, advise and advocate. I have kept that promise. I will not take decisions for those who do not have the courage to take them; I will not intervene every time the authorities fail to take up their responsibilities; I will not do the jobs that the institutions and elected leaders of this country must do. I should add that, while I will urge BiH politicians to do what their voters want them to do and start delivering reforms that will improve people's lives, I will also continue to urge the international community to recognise the huge progress that BiH has made. </p>
+<p>This is a different country even from five years ago -- what it needs and deserves is the confidence of the international community; it needs, and justifies on strict commercial criteria, investment; it needs and deserves visa facilitation. I will use my office whenever and wherever possible to advance the interests of this country in international circles. </p>
+<div class="commissioned">This content was commissioned for SETimes.com.</div>
+<iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2006/06/12/interview-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<script type="text/javascript">Event.observe(window,'load',function(){loadKeywords('/cocoon/setimes/ajax/en_GB/keywords/setimes/articles/2006/06/12/interview-01')});</script><div id="KeywordsAjax"><span>Loading</span></div>
+<div class="articleToolbar"><div class="ratings"><h5>Vote</h5><form class="likebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2006/06/12/interview-01" name="id" type="hidden"/><input value="-1" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="en_GB" name="lang" type="hidden"/><input value="Like(s) (#(count)#)" name="template" type="hidden"/><input value="Like(s) (#(count)#)" class="button" type="submit"/></form><div class="ratings-bars"><div class="ratings-box"><div style="width: 0%" class="ratings-bars-likes"> </div><div style="width: 0%" class="ratings-bars-dislikes"> </div></div></div><form class="dislikebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2006/06/12/interview-01" name="id" type="hidden"/><input value="-2" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="en_GB" name="lang" type="hidden"/><input value="Dislike(s) (#(count)#)" name="template" type="hidden"/><input value="Dislike(s) (#(count)#)" class="button" type="submit"/></form></div><ul><li><a onclick="javascript:Effect.BlindDown('emailBlock'); return false;" href=""><img src="/cocoon/setimes/graphics/toolbar/icon_email.gif"/>Email to a friend</a></li><li><a href="/cocoon/setimes/print/en_GB/features/setimes/articles/2006/06/12/interview-01"><img alt="icon" src="/cocoon/setimes/graphics/toolbar/icon_print.gif"/> Print Version </a></li><li><a href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2006/06/12/interview-01" class="a2a_dd"><img alt="Share/Save/Bookmark" border="0" height="16" width="171" src="http://static.addtoany.com/buttons/share_save_171_16.png"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl='http://www.setimes.com/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2006/06/12/interview-01';</script><script src="http://static.addtoany.com/menu/page.js" type="text/javascript">//import</script></li></ul><div style="display:none" id="emailBlock"><div style="display:none;" id="feedbackEmail_response">Your email has been sent.</div><form onsubmit=" submitEmail( this ); return false;" action="/php/turing/emailarticle.php" method="post" id="mailform"><fieldset><input value="yes" name="email" type="hidden"/><input value="setimes/articles/2006/06/12/interview-01" name="emailID" type="hidden"/><input value="http://www.setimes.com//cocoon/setimes/xhtml/en_GB/features/setimes/articles/2006/06/12/interview-01" name="emailURL" type="hidden"/><input value="Schwarz-Schilling: &quot;I am here to assist, advise and advocate&quot;" name="emailTitle" type="hidden"/><input value="en_GB" name="emailLang" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="An SETimes.com article from" name="emailSubject" type="hidden"/><div id="email_error_messages" class="feedback"><p id="inline-NameError" style="display:none">Please fill in the name.</p><p style="display:none" id="inline-EmailError">Please provide and email address.</p><p style="display:none" id="inline-Email_Invalid">The email address you entered is invalid.</p><p style="display:none" id="inline-CommentError">Please fill in the comment.</p></div><div class="donates">* ALL FIELDS ARE REQUIRED</div><div>Friend's email *</div><div><input id="emailTo" name="emailTo" type="text"/></div><div>Your name or email *</div><div><input id="emailName" name="emailName" type="text"/></div><div>Comment *</div><div><textarea cols="60" rows="4" id="emailMessage" name="emailMessage">	</textarea></div><div><img alt="turing test" src="/php/turing/button.php"/></div><div style="display:none" id="emailBlock_error" class="feedback">Digits do not match. Please re-enter.</div><div>Enter digits *</div><div><input id="userdigits" name="userdigits" type="text"/></div><div><input value="Submit" type="submit"/><input onclick="javascript:ShowLayer('emailBlock','none')" value="Cancel" type="button" name="cancel"/></div></fieldset></form></div></div>
+</div>
+<div class="commentBlock"><h1 class="commentsHeader">We welcome your comments on SETimes's articles.</h1><p class="comment_teaser">
+It is our hope that you will use this forum to interact with other readers across Southeast Europe. In order to keep this experience interesting, we ask you to follow the rules outlined in the comments policy. By submitting comments, you are consenting to these rules. While SETimes.com encourages discussion on all subjects, including sensitive ones, the comments posted are solely the views of those submitting them. SETimes.com does not necessarily endorse or agree with the ideas, views, or opinions voiced in these comments. SETimes.com welcomes constructive discussion but discourages the use of copy-pasted materials, unaccompanied links and one-line slogans. This is a moderated forum. <b> Comments deemed abusive, offensive, or those containing profanity may not be published. </b>
+</p><p class="comment_teaser">
+<a onclick="return openWindow('/cocoon/setimes/xhtml/en_GB/blank/setimes/special/comment_disclaimer/disclaimer','disclaimer','toolbar=no,scrollbars=yes,resizable=yes,width=800,height=700');" href="/cocoon/setimes/xhtml/en_GB/document/setimes/special/comment_disclaimer/disclaimer"> SETimes's Comments Policy </a>
+</p><iframe scrolling="yes" frameborder="no" height="2000" width="590" id="comments" src="http://comments.setimes.com/en_GB/viewcomment?articleid=setimes/articles/2006/06/12/interview-01">//</iframe></div>
+</div>
+<div class="span-6 last featuresidebar">
+<div class="facebook-sidebar blockSidebar"><div class="fans"><span class="normal_count">548205</span><span class="normal_description">Facebook fans</span></div><div class="link"><div class="like en_GB"><iframe allowTransparency="true" style="border:none; overflow:hidden; width:500px; height:35px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?locale=en_GB&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/en_GB/homepage/&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35"> </iframe></div><a class="normal_facebook_page" href="http://www.facebook.com/pages/SETimes/43184095884" target="new">Visit us</a></div></div><div class="blockSidebar social_media"><ul><li><a href="http://twitter.com/setimes"><img alt="Twitter" src="/cocoon/setimes/graphics/icons/twitter-60_60.png"/></a></li><li><a href="http://www.youtube.com/user/setimes"><img alt="Youtube" src="/cocoon/setimes/graphics/icons/youtube-32_32.png"/></a></li><li><a href="/cocoon/setimes/rss/en_GB/setimes.rss"><img alt="RSS" src="/cocoon/setimes/graphics/icons/rss-60_60.png"/></a></li></ul></div><div class="blockSidebar" id="blockReportage"><h3>Reportage</h3><div ceid="sidebar_reportage" class="item"><a class="title" title="Kosovo Islamic leader calls on institutions, individuals to oppose extremism" href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2013/07/08/reportage-01">Kosovo Islamic leader calls on institutions, individuals to oppose extremism</a><a class="image" href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2013/07/08/reportage-01"><img title="Kosovo Islamic leader calls on institutions, individuals to oppose extremism" alt="Kosovo Islamic leader calls on institutions, individuals to oppose extremism" src="/cocoon/setimes/images/2013/07/08/LINDAphoto1TN.jpg" class="reportage"/></a><p>Mufti Ternava tells SETimes that extremism and terrorism are against the values of Kosovo's Islamic Community.</p><div class="clear"> </div></div></div><a href="http://turkey.setimes.com/en_GB" class="blockSidebar no_border"><img title="a special site for news about Turkey" alt="SETimes logo" src="/cocoon/setimes/graphics/special/ses-en_GB.gif"/></a><ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/en_GB/special_corruption/setimes/special/corruption/meta" class="image">Special Report: Corruption in Southeast Europe</a></h3><a href="/cocoon/setimes/xhtml/en_GB/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Special Report: Corruption in Southeast Europe" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-en_GB.jpg"/></a></li></ul><script type="text/javascript">Event.observe(window,'load',function(){ new Fabtabs('contentColumn1RecentTabstabList'); },false);</script><div id="blockPopular" class="blockSidebar"><h3>Most Popular</h3><ul id="contentColumn1RecentTabstabList" class="tabBox"><li><a href="#contentColumn1RecentTabstab1">Popular</a></li><li><a href="#contentColumn1RecentTabstab2">Commented</a></li><li><a href="#contentColumn1RecentTabstab3">Rated</a></li></ul><div id="contentColumn1RecentTabstab1" class="panel"><div ceid="most_popular" id="MostPopularAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadPopular('/cocoon/setimes/ajax/en_GB/buzz/popular/5')});</script></div><div id="contentColumn1RecentTabstab2" class="panel"><div id="MostCommentedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadCommented('/cocoon/setimes/ajax/en_GB/buzz/commented/5')});</script></div><div id="contentColumn1RecentTabstab3" class="panel"><div id="MostRatedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadRated('/cocoon/setimes/ajax/en_GB/buzz/rated/5')});</script></div></div><div ceid="photo_essay" class="blockSidebar" id="blockPhotoEssay"><h3>Photo Essay</h3><div class="item"><a href="/cocoon/setimes/xhtml/en_GB/photo_essay/setimes/photo_essay/2013/06/05/photo_essay" class="title">A moment in time: Taksim Square protests</a></div><div class="photo_essay_badge"><a href="/cocoon/setimes/xhtml/en_GB/photo_essay/setimes/photo_essay/2013/06/05/photo_essay"><img alt="A moment in time: Taksim Square protests" src="/cocoon/setimes/images/photo_essays/2013/06/05/TAKSIMphoto1CI.jpg"/></a></div></div><div ceid="sidebar_poll" class="blockPoll blockSidebar"><h3> Poll</h3><div url="/cocoon/setimes/poll/en_GB/2013-07-06" id="poll" class="poll"><form onsubmit="submitPoll(); return false;" action="/php/poll/poll.php" method="post" id="pollform"><fieldset><input value="2013-07-06" name="id" type="hidden"/><input value="yes" name="pollresult" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="en_GB" name="lang" type="hidden"/><h2>Since joining the EU, the labour market has opened up for Croatia. Would you be willing to relocate in order to find a new job?</h2><input name="answer" type="radio" value="1"/><span>Yes</span><br/><input name="answer" type="radio" value="2"/><span>No</span><br/><input name="answer" type="radio" value="3"/><span>I don't know</span><br/><br/><center><input value="Vote" type="submit"/><br/><br/><a rel="nofollow" onclick="viewPoll('/cocoon/setimes/poll/en_GB/2013-07-06'); return false;" href="/cocoon/setimes/xhtml/en_GB/homepage/default?pollresult=yes&amp;answer=no&amp;id=2013-07-06">View results</a> <b><a href="/cocoon/setimes/xhtml/en_GB/poll_comments/setimes/polls/2013/2013-07-06">Add comments </a></b></center></fieldset></form></div><div style="display:none" id="poll_comments_link"> <b><a href="/cocoon/setimes/xhtml/en_GB/poll_comments/setimes/polls/2013/2013-07-06">Add comments </a></b></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/disclaimer/disclaimer">
+Disclaimer
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/about/about">
+About Us
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/doc-feedback/setimes/footer/feedback/feedback">
+Contact Us
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/en_GB/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Subscribe
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/podcast_index/default">
+Podcast
+</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6886.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div></body></html>

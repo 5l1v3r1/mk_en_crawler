@@ -1,0 +1,245 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="mk" lang="mk" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAWOQPiM6YCvBhNDmsm7JfvRTBfUk9TZrBRaIteybtnU2KziHEpRTt3eSDc7n7q6flBUrkhlDZz9XI_w&amp;hl=mk">//127.0.0.1 key</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:npyydcuchby&amp;lang=mk" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script type="text/javascript">
+							google.load("search", "1");
+							function OnLoad() {
+							new CSEOverlay("003982986761957721032:npyydcuchby",
+							document.getElementById("searchbox_003982986761957721032:npyydcuchby"),
+							document.getElementById("results_003982986761957721032:npyydcuchby"));
+							}
+							google.setOnLoadCallback(OnLoad);
+						</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/mk/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>Капитализам наспроти капитализам во 21-от век (SETimes.com)</title><meta content="mk" name="lang"/><meta content="SETimes.com" name="publisher"/><meta content="2008-02-11" name="date"/><meta content="Капитализам наспроти капитализам во 21-от век" name="title"/><meta content="article" property="og:type"/><meta content="Капитализам наспроти капитализам во 21-от век" property="og:title"/><meta content="http://setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/02/11/reportage-01" property="og:url"/><meta content="Поразот на комунизмот не гарантира автоматски надмоќ на либералната демократија, пишува Даниел Дајану, професор по економија и поранешен министер за финансии на Романија. Поточно, различни видови на капитализам се натпреваруваат на глобалниот пазар, вклучувајќи го и Балканот." name="description"/><meta content="http://setimes.com/cocoon/setimes/images/2008/02/11/DANIELphoto1HP.jpg" name="image"/><meta content="http://setimes.com/cocoon/setimes/images/2008/02/11/DANIELphoto1HP.jpg" property="og:image"/><meta content="Поразот на комунизмот не гарантира автоматски надмоќ на либералната демократија, пишува Даниел Дајану, професор по економија и поранешен министер за финансии на Романија. Поточно, различни видови на капитализам се натпреваруваат на глобалниот пазар, вклучувајќи го и Балканот." property="og:description"/><link href="http://setimes.com/cocoon/setimes/images/2008/02/11/DANIELphoto1TN.jpg" rel="image_src"/><script type="text/javascript">countHit('article','setimes/articles/2008/02/11/reportage-01','setimes','mk');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/mk/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/mk/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Пребарај" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/features/setimes/articles/2008/02/11/reportage-01">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/features/setimes/articles/2008/02/11/reportage-01">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/features/setimes/articles/2008/02/11/reportage-01">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/features/setimes/articles/2008/02/11/reportage-01">
+Hrvatski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2008/02/11/reportage-01">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/features/setimes/articles/2008/02/11/reportage-01">
+Ελληνική
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/02/11/reportage-01">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/features/setimes/articles/2008/02/11/reportage-01">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/features/setimes/articles/2008/02/11/reportage-01">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/features/setimes/articles/2008/02/11/reportage-01">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/homepage/"><span>
+дома
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/recent"><span>
+неодамна
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/info/"><span>
+Информативен центар
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/region/"><span>
+Регион
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/archive/"><span>
+Архива
+</span></a></li>
+<li class="navTitle">
+Земји
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Albania"><span>
+Албанија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bosnia_and_Herzegovina"><span>
+БиХ
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bulgaria"><span>
+Бугарија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Croatia"><span>
+Хрватска
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Greece"><span>
+Грција
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Kosovo"><span>
+Косово
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Macedonia"><span>
+Македонија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Moldova"><span>
+Молдавија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Montenegro"><span>
+Црна Гора
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Romania"><span>
+Романија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Serbia"><span>
+Србија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/country/Turkey"><span>
+Турција
+</span></a></li>
+<li class="navTitle">
+Теми
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Politics"><span>
+Политика
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/War_Conflict"><span>
+екстремизам
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Law_Crime"><span>
+Спроведување на правдата и законот
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/ForRel"><span>
+Надворешни односи
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Business_Finance"><span>
+Економски развој
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Integration"><span>
+Интеграции
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Human_Interest"><span>
+Општество
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Линкови
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/contribute/setimes/footer/contribute/contribute"><span>
+Учествувајте
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer"><span>
+Одрекување
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about"><span>
+За нас
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback"><span>
+контактирајте не
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Претплати се
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/podcast_index/default"><span>
+Подкаст
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/mk/homepage/"><span>
+мобилен
+</span></a></li>
+</ul></div></div>
+<div class="span-15">
+<div class="article">
+<h1>Капитализам наспроти капитализам во 21-от век</h1>
+<p class="date">11/02/2008</p>
+<blockquote>Поразот на комунизмот не гарантира автоматски надмоќ на либералната демократија, пишува Даниел Дајану, професор по економија и поранешен министер за финансии на Романија. Поточно, различни видови на капитализам се натпреваруваат на глобалниот пазар, вклучувајќи го и Балканот.</blockquote>
+<p class="source">Од Даниел Дајану за Southeast European Times во Букурешт -- 11/02/08</p><iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/02/11/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<div id="slideshow_wrap"> </div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2008/02/11/DANIELphoto1.jpg" class="feature"/><p>Руските гиганти Лукоил и Гаспром го шират своето стопанисување во Европа. [File]</p></div></div></td></tr></table>
+<p>На почетокот од овој месец, српскиот претседател Борис Тадиќ тесно победи на претседателските избори после тешката борба со радикалниот националист Томислав Николиќ. Изборната трка не беше одраз само на длабоката политичка поделба во Србија, туку исто така даде уште еден пример за натпреварот помеѓу меѓународните сили за влијание над оваа балканска земја.</p>
+<p>Николиќ во кампањата се залагаше за поблиски врски со Русија, која ја поддржува Србија во дипломатската битка за Косово. Истовремено, на прозападно ориентираниот Тадиќ ЕУ му помогна ветувајќи либерализација на визниот режим и нов привремен договор со унијата. Всушност, изборната трка стана референдум за меѓународно здружување на Србија.</p>
+<p>Во годините што доаѓаат, во регионот може да се очекуваат слични борби за влијание. Благодарение на неговата географска положба, Балканскиот полуостров создава геополитичка поделба помеѓу Истокот и Западот. Таа поделба повеќе не е резултат на судир помеѓу различни економски системи -- со други зборови, капитализам наспроти комунизам. Поточно, во оваа нова ера таа е се повеќе борба помеѓу различни модели на капитализам, од кои не сите подразбираат политичка демократија. </p>
+<p>Приказната за конкуренција во капиталистичкиот свет не е нова. Таа потекнува од завршувањето на Студената војна. Францускиот економист Мишел Алберт и некои други разликуваа еден англосаксонски модел (коj го претставуваа Велика Британија и Соединетите Американски Држави) од еден континентален (Франција, Германија). Други забележаа дека “Тврдината Европа“ го намалува јазот во продуктивноста во однос на американската економија, па дури и го презема водството во некои области. Гледајќи подалеку од Запад, професорот од МИТ Лестер Туроу предвиде триполарна светска економија, со Јапонија како трет пол. </p>
+<p>Во последно време, доменот на дискусијата е проширен така што го зема предвид издигнувањето на Кина и Индија. Нивните економии се многу витални, ако се мерат по стапките на раст, експанзијата на извозот, големината на девизните резерви и се поголемата апсорпција на новите технологии.</p>
+<p>Заедно со тектонските економски промени доаѓаат и геополитичките. И двете земји успешно почнаа да го менуваат институционалниот поредок кој раководеше со меѓународните односи од Втората светска војна. </p>
+<p>Големите кинески и индиски компании имаат глобален дофат и купуваат акции во фирми низ светот. Кина, Индија и Бразил се повеќе се присутни во глобалниот натпревар за ретки, исцрпливи ресурси како што се нафтата и гасот. Кина дава економска помош со цел да го зголеми својот кредибилитет кај сиромашните земји кои имаат значителни природни ресурси -- на пример во Африка.</p>
+<table style="float: left;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2008/02/11/DANIELphoto2.jpg" class="feature"/><p>Економскиот и технолошкиот напредок на Кина и другите азиски земји најверојатно ќе продолжи со брзо темпо во следните неколку децении. [Getty Images]</p></div></div></td></tr></table>
+<p>Ресурсите, исто така, беа главна причина за враќање на Русија на меѓународната сцена. И додека западните економии се тресат заради зголемените цени на енергијата, руските гиганти Лукоил и Гаспром го шират своето стопанисување во Европа. Во јануари, Гаспром потпиша договор за купување на мнозинскиот пакет акции во српската нафтена индустрија НИШ. Според условите од договорот, Србија ќе добие улога во гасоводот кој ја снабдува Западна Европа. </p>
+<p>И во финансискиот сектор забележани се значајни трендови. После хипотекарната криза која предизвика превирање во банкарството на двете страни од Атлантикот, на пример, врвните финансиски групи како Ситигруп и Морган Стенли се обидоа да ги ублажат своите големи загуби со помош на Фондовите на национално богатство (ФНБ). Извесен број од тие фондови им припаѓаат на земјите кои му беа идеолошки притивници на Западот во изминатиот век. Кина и Русија, чии девизни резерви на крајот од 2007 година надминаа 1.400 милијарди долари, односно 400 милијарди долари, и двете основаа ФНБ со големи субвенции.</p>
+<p>Заради промената на хиерархијата на светско ниво, Западот се соочува со потешкоти во однос на неговата способност да ги одредува правилата на играта на глобалниот пазар. Притисоците на глобализацијата не создадоа „рамна светска економија“, туку донесоа редистрибуција на светската економска моќ. Покрај тоа, игрите со нула резултат стануваат се почести, особено во периодите на брзи и очајнички промени, бидејќи трошоците на приспособување многу варираат меѓу земјите.</p>
+<p>Самите либерални демократии се наоѓаат во искушение да воведат авторитативни мерки -- или барем да прибегнат кон директна државна интервенција во општествените и економските прашања -- заради заканите со кои се соочува светот денес, вклучувајќи го тероризмот, потребата да се обезбедат енергетски ресурси и последиците од глобалното затоплување. И Соединетите Американски Држави и ЕУ беа сведоци на жестоки дебати за тоа дали или до кој степен треба да се избалансираат граѓанските слободи во однос на потребата за безбедност. Во овој контекст може да се набљудува и порастот на економскиот национализам. </p><div class="relatedFloat"><h1 class="relatedFloat">Поврзани написи</h1><script type="text/javascript">Event.observe(window,'load',function(){loadRelated('/cocoon/setimes/ajax/mk/related/setimes/articles/2008/02/11/reportage-01')});</script><div id="RelatedArticlesAjax"><span>Loading</span></div></div>
+<p>Западните економии ќе останат најмоќните економски и воени сили во светот во блиска иднина. Меѓутоа, и Соединетите Американски Држави и ЕУ имаат сериозни проблеми кои треба да ги решат. Соединетите Американски Држави се соочуваат со надворешен дефицит и преоптовареност на своите воени сили. ЕУ има проблеми во управувањето со својата организациска сложеност и мора да се справи со внатрешната институционална и политичка некохерентност. Во меѓувреме, економскиот и технолошкиот напредок на Кина и другите азиски земји најверојатно ќе продолжи со брзо темпо во следните неколку децении, а Русија ќе продолжи да ги „стега мускулите“. </p>
+<p>Капитализмот победи во Студената војна; поразувајќи го комунистичкиот систем. Но, светот кон кој се приближуваме автоматски не наметнува надмоќ на либералната демократија. Покрај тоа, релативната моќ на ЕУ и САД во светската економија -- мерена по глобалниот БДП, индустриското производство, извозот и други показатели -- речиси сигурно ќе опаѓа во претстојните децении. </p>
+<p>Меѓутоа, ова споредбено опаѓање може да биде проследено со пораст на мека моќ во светот, особено ако во смејството на либерални демократии влезат нови земји. Западните земји можат да го преземат водството во решавањето на глобалните прашања како што се климатските промени и меѓународната трговија. Тие, исто така, можат да се обидат да ги вклучат новите сили, како Кина и Индија, во решавањето на глобалните „жешки точки“ и другите итни прашања. </p>
+<p>Во исто време, многу се важни реформите кои ќе внесат поголема виталност во западните економии; Лисабонската агенда е јасна политичка реакција од ЕУ. Дали либералните економии ќе бидат во состојба да се борат против тероризмот без загрозување на своите инситуционални и морални основи, исто така, ќе направи голема разлика. </p>
+<div class="commissioned">Оваа содржина е овластена за SETimes.com.</div>
+<iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/02/11/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<script type="text/javascript">Event.observe(window,'load',function(){loadKeywords('/cocoon/setimes/ajax/mk/keywords/setimes/articles/2008/02/11/reportage-01')});</script><div id="KeywordsAjax"><span>Loading</span></div>
+<div class="articleToolbar"><div class="ratings"><h5>Гласаj</h5><form class="likebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2008/02/11/reportage-01" name="id" type="hidden"/><input value="-1" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Допаѓа (#(count)#)" name="template" type="hidden"/><input value="Допаѓа (#(count)#)" class="button" type="submit"/></form><div class="ratings-bars"><div class="ratings-box"><div style="width: 0%" class="ratings-bars-likes"> </div><div style="width: 0%" class="ratings-bars-dislikes"> </div></div></div><form class="dislikebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2008/02/11/reportage-01" name="id" type="hidden"/><input value="-2" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Не допаѓа (#(count)#)" name="template" type="hidden"/><input value="Не допаѓа (#(count)#)" class="button" type="submit"/></form></div><ul><li><a onclick="javascript:Effect.BlindDown('emailBlock'); return false;" href=""><img src="/cocoon/setimes/graphics/toolbar/icon_email.gif"/>Испратете на пријател по електронска пошта</a></li><li><a href="/cocoon/setimes/print/mk/features/setimes/articles/2008/02/11/reportage-01"><img alt="icon" src="/cocoon/setimes/graphics/toolbar/icon_print.gif"/> печатена верзија </a></li><li><a href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/02/11/reportage-01" class="a2a_dd"><img alt="Share/Save/Bookmark" border="0" height="16" width="171" src="http://static.addtoany.com/buttons/share_save_171_16.png"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl='http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/02/11/reportage-01';</script><script src="http://static.addtoany.com/menu/page.js" type="text/javascript">//import</script></li></ul><div style="display:none" id="emailBlock"><div style="display:none;" id="feedbackEmail_response">Пораката е испратена.</div><form onsubmit=" submitEmail( this ); return false;" action="/php/turing/emailarticle.php" method="post" id="mailform"><fieldset><input value="yes" name="email" type="hidden"/><input value="setimes/articles/2008/02/11/reportage-01" name="emailID" type="hidden"/><input value="http://www.setimes.com//cocoon/setimes/xhtml/mk/features/setimes/articles/2008/02/11/reportage-01" name="emailURL" type="hidden"/><input value="Капитализам наспроти капитализам во 21-от век" name="emailTitle" type="hidden"/><input value="en_GB" name="emailLang" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="An SETimes.com article from" name="emailSubject" type="hidden"/><div id="email_error_messages" class="feedback"><p id="inline-NameError" style="display:none">Ве молиме, напишете име.</p><p style="display:none" id="inline-EmailError">Ве молиме, напишете ја Вашата адреса за електронска пошта.</p><p style="display:none" id="inline-Email_Invalid">Имејл адресата што ја внесовте не е точна.</p><p style="display:none" id="inline-CommentError">Ве молиме, напишете коментар.</p></div><div class="donates">* СИТЕ ПОЛИЊА СЕ ЗАДОЛЖИТЕЛНИ</div><div>Адресата на електронската пошта на пријателот *</div><div><input id="emailTo" name="emailTo" type="text"/></div><div>Вашето име или адреса за електронска пошта *</div><div><input id="emailName" name="emailName" type="text"/></div><div>коментар *</div><div><textarea cols="60" rows="4" id="emailMessage" name="emailMessage">	</textarea></div><div><img alt="turing test" src="/php/turing/button.php"/></div><div style="display:none" id="emailBlock_error" class="feedback">Бројките не одговараат. Ве молиме внесете повторно.</div><div>внесете бројки *</div><div><input id="userdigits" name="userdigits" type="text"/></div><div><input value="Поднесува" type="submit"/><input onclick="javascript:ShowLayer('emailBlock','none')" value="Откажи" type="button" name="cancel"/></div></fieldset></form></div></div>
+</div>
+<div class="commentBlock"><h1 class="commentsHeader">Вашите коментари за натписите на SETimes се добредојдени.</h1><p class="comment_teaser">
+Се надеваме дека ќе го искористите овој форум за да комуницирате со другите читатели од Југоисточна Европа. За ова искуство да биде интересно, бараме од вас да ги следите правилата наведени во правилникот за коментари. Со испраќањето на коментарите, вие се согласувате со овие правила. Иако SETimes.com ги охрабрува дискусиите на сите теми, вклучително и на чувствителните, коментарите што се објавуваат се ставови единствено на оние што ги испраќаат. SETimes.com не ги одобрува и не се согласува секогаш со идеите, ставовите или мислењата искажани во овие коментари. SETimes.com ги поддржува конструктивните дискусии, но е против употребата на копи-пејст материјалите, непридружуваните линкови и слогани од еден ред. Ова е умерен форум. <b>Коментарите што се сметаат за погрдни, навредливи, или оние што содржат вулгарности, нема да се објават. </b>
+</p><p class="comment_teaser">
+<a onclick="return openWindow('/cocoon/setimes/xhtml/mk/blank/setimes/special/comment_disclaimer/disclaimer','disclaimer','toolbar=no,scrollbars=yes,resizable=yes,width=800,height=700');" href="/cocoon/setimes/xhtml/mk/document/setimes/special/comment_disclaimer/disclaimer">Правилник за коментари на SETimes's</a>
+</p><iframe scrolling="yes" frameborder="no" height="2000" width="590" id="comments" src="http://comments.setimes.com/mk/viewcomment?articleid=setimes/articles/2008/02/11/reportage-01">//</iframe></div>
+</div>
+<div class="span-6 last featuresidebar">
+<div class="facebook-sidebar blockSidebar"><div class="fans"><span class="small_count">547036</span><span class="small_description">Фејсбук фанови</span></div><div class="link"><div class="like mk"><iframe allowTransparency="true" style="border:none; overflow:hidden; width:500px; height:35px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/homepage/&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35"> </iframe></div><a class="small_facebook_page" href="http://www.facebook.com/pages/SETimes/43184095884" target="new">Επισκεφθείτε μας</a></div></div><div class="blockSidebar social_media"><ul><li><a href="http://twitter.com/setimes"><img alt="Twitter" src="/cocoon/setimes/graphics/icons/twitter-60_60.png"/></a></li><li><a href="http://www.youtube.com/user/setimes"><img alt="Youtube" src="/cocoon/setimes/graphics/icons/youtube-32_32.png"/></a></li><li><a href="/cocoon/setimes/rss/mk/setimes.rss"><img alt="RSS" src="/cocoon/setimes/graphics/icons/rss-60_60.png"/></a></li></ul></div><div class="blockSidebar" id="blockReportage"><h3>Репортажа</h3><div ceid="sidebar_reportage" class="item"><a class="title" title="Хрватска влегува во ЕУ, но се соочува со неизвесна иднина" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/01/reportage-01">Хрватска влегува во ЕУ, но се соочува со неизвесна иднина</a><a class="image" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/01/reportage-01"><img title="Хрватска влегува во ЕУ, но се соочува со неизвесна иднина" alt="Хрватска влегува во ЕУ, но се соочува со неизвесна иднина" src="/cocoon/setimes/images/2013/07/01/DRAZENphoto1TN.jpg" class="reportage"/></a><p>И покрај пристапувањето во ЕУ и новиот пристап до средствата, Хрватите се загрижени за економијата, квалитетот на животот.</p><div class="clear"> </div></div></div><ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image">Специјален извештај: Корупцијата во Југоисточна Европа</a></h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Специјален извештај: Корупцијата во Југоисточна Европа" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-mk.jpg"/></a></li></ul><script type="text/javascript">Event.observe(window,'load',function(){ new Fabtabs('contentColumn1RecentTabstabList'); },false);</script><div id="blockPopular" class="blockSidebar"><h3>Најпопуларни</h3><ul id="contentColumn1RecentTabstabList" class="tabBox"><li><a href="#contentColumn1RecentTabstab1">попул.</a></li><li><a href="#contentColumn1RecentTabstab2">комен.</a></li><li><a href="#contentColumn1RecentTabstab3">оцен.</a></li></ul><div id="contentColumn1RecentTabstab1" class="panel"><div ceid="most_popular" id="MostPopularAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadPopular('/cocoon/setimes/ajax/mk/buzz/popular/5')});</script></div><div id="contentColumn1RecentTabstab2" class="panel"><div id="MostCommentedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadCommented('/cocoon/setimes/ajax/mk/buzz/commented/5')});</script></div><div id="contentColumn1RecentTabstab3" class="panel"><div id="MostRatedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadRated('/cocoon/setimes/ajax/mk/buzz/rated/5')});</script></div></div><div ceid="photo_essay" class="blockSidebar" id="blockPhotoEssay"><h3>Фото есеј</h3><div class="item"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay" class="title">A moment in time: Taksim Square protests</a></div><div class="photo_essay_badge"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay"><img alt="A moment in time: Taksim Square protests" src="/cocoon/setimes/images/photo_essays/2013/06/05/TAKSIMphoto1CI.jpg"/></a></div></div><div ceid="sidebar_poll" class="blockPoll blockSidebar"><h3> Анкета</h3><div url="/cocoon/setimes/poll/mk/2013-06-29" id="poll" class="poll"><form onsubmit="submitPoll(); return false;" action="/php/poll/poll.php" method="post" id="pollform"><fieldset><input value="2013-06-29" name="id" type="hidden"/><input value="yes" name="pollresult" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk" name="lang" type="hidden"/><h2>Дали членството на Хрватска во ЕУ ќе доведе до промени во регионот?
+</h2><input name="answer" type="radio" value="1"/><span>Да </span><br/><input name="answer" type="radio" value="2"/><span>Не </span><br/><input name="answer" type="radio" value="3"/><span>Не знам</span><br/><br/><center><input value="Гласаj" type="submit"/><br/><br/><a rel="nofollow" onclick="viewPoll('/cocoon/setimes/poll/mk/2013-06-29'); return false;" href="/cocoon/setimes/xhtml/mk/homepage/default?pollresult=yes&amp;answer=no&amp;id=2013-06-29">Види ги резултатите</a> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-06-29">Додадете коментар </a></b></center></fieldset></form></div><div style="display:none" id="poll_comments_link"> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-06-29">Додадете коментар </a></b></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer">
+Одрекување
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about">
+За нас
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback">
+контактирајте не
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Претплати се
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/podcast_index/default">
+Подкаст
+</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6886.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div></body></html>

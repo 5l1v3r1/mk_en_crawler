@@ -1,0 +1,20 @@
+22/01/2009
+(Various sources)
+A team of Greek scientists, led by Hara Kostakis of the TEI Piraeus Research Centre, have developed an artificial intelligence approach to successfully calculate a patient's heart attack risk by weighing lifestyle factors.
+These factors -- including depression, education, smoking, diet and obesity -- all influence the risk of cardiovascular disease. 
+For a long time, epidemiologists have studied how health risks vary within populations, but they have not found a way to extrapolate from longitudinal studies to individual risk levels.
+Named Online Analytical Processing (OLAP), the approach makes it possible for physicians to tell patients their personal risk factor and so advise on lifestyle changes or medication to lower the risk.
+OLAP consists of a category of software tools that enable researchers to examine different dimensions of multi-dimensional data. 
+OLAP often is useful in data mining.
+Kostakis's group obtained data for almost 1,000 patients enrolled in the CARDIO 2000 study who underwent hospitalisation for the first symptoms of acute coronary syndrome. 
+After recording details of body mass index, family history, physical activity, high blood pressure, high cholesterol and diabetes, the researchers used healthy individuals' data as a scientific control.
+CARDIO 2000 is a multi-centre case control study that explores the association among several demographic, nutritional, psychological, lifestyle and medical risk factors. 
+Some of these factors -- either alone, or in combination -- are of predominant importance, as they may lead to developing nonfatal acute coronary syndrome.
+"This research work has introduced a computational algorithm for effectively addressing and optimising computational time and risk assessment. 
+... 
+it will contribute to better understanding and consequently better prevention of cardiovascular disease," the team concluded in the International Journal of Knowledge Engineering and Soft Data Paradigms.
+Cardiovascular disease is the leading cause of death worldwide and is projected to remain so indefinitely. 
+An estimated 17.5 million people succumbed to it in 2005, representing 30% of all global deaths.
+Kostakis received her PhD in healthcare management from the University of Patras in Greece. 
+Her research interests include the use of data mining and artificial intelligence techniques in healthcare management.
+The other scientists on her team are Basilis Boutsinas, Demosthenes Panagiotakos and Leo Kounis.

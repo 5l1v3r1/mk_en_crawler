@@ -1,0 +1,243 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="mk" lang="mk" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAWOQPiM6YCvBhNDmsm7JfvRTBfUk9TZrBRaIteybtnU2KziHEpRTt3eSDc7n7q6flBUrkhlDZz9XI_w&amp;hl=mk">//127.0.0.1 key</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:npyydcuchby&amp;lang=mk" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script type="text/javascript">
+							google.load("search", "1");
+							function OnLoad() {
+							new CSEOverlay("003982986761957721032:npyydcuchby",
+							document.getElementById("searchbox_003982986761957721032:npyydcuchby"),
+							document.getElementById("results_003982986761957721032:npyydcuchby"));
+							}
+							google.setOnLoadCallback(OnLoad);
+						</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/mk/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>Србија бара излез од пензискиот кошмар (SETimes.com)</title><meta content="mk" name="lang"/><meta content="SETimes.com" name="publisher"/><meta content="2005-08-08" name="date"/><meta content="Србија бара излез од пензискиот кошмар" name="title"/><meta content="article" property="og:type"/><meta content="Србија бара излез од пензискиот кошмар" property="og:title"/><meta content="http://setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/08/08/reportage-01" property="og:url"/><meta content="Несолвентниот пензиски систем во Србија, остаток од југословенската ера, „се одржува“ во живот единствено преку големите државни субвенции кои во моментов изнесуваат околу една четвртина од државниот буџет. Со тоа не се црпат само државните приходи, туку и самите пензиите се ниски. Пензионерите можат да очекуваат месечна пензија од околу 138 евра -- далеку под просечната плата. Владата е заглавена помеѓу потребата за реконструкција и барањата на загрижените пензионери, кои ќе ги почувствуваат болните последици на рестрикциите наменети за спасување на системот. Се повеќе и повеќе, приватното пензиско осигурување се чини како единствено прифатливо решение, но за негово спроведување потребно е време." name="description"/><meta content="http://setimes.com/cocoon/setimes/images/2005/08/08/GEORGIphoto1HP.jpg" name="image"/><meta content="http://setimes.com/cocoon/setimes/images/2005/08/08/GEORGIphoto1HP.jpg" property="og:image"/><meta content="Несолвентниот пензиски систем во Србија, остаток од југословенската ера, „се одржува“ во живот единствено преку големите државни субвенции кои во моментов изнесуваат околу една четвртина од државниот буџет. Со тоа не се црпат само државните приходи, туку и самите пензиите се ниски. Пензионерите можат да очекуваат месечна пензија од околу 138 евра -- далеку под просечната плата. Владата е заглавена помеѓу потребата за реконструкција и барањата на загрижените пензионери, кои ќе ги почувствуваат болните последици на рестрикциите наменети за спасување на системот. Се повеќе и повеќе, приватното пензиско осигурување се чини како единствено прифатливо решение, но за негово спроведување потребно е време." property="og:description"/><link href="http://setimes.com/cocoon/setimes/images/2005/08/08/GEORGIphoto1TN.jpg" rel="image_src"/><script type="text/javascript">countHit('article','setimes/articles/2005/08/08/reportage-01','setimes','mk');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/mk/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/mk/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Пребарај" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/features/setimes/articles/2005/08/08/reportage-01">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/features/setimes/articles/2005/08/08/reportage-01">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/features/setimes/articles/2005/08/08/reportage-01">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/features/setimes/articles/2005/08/08/reportage-01">
+Hrvatski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2005/08/08/reportage-01">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/features/setimes/articles/2005/08/08/reportage-01">
+Ελληνική
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/08/08/reportage-01">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/features/setimes/articles/2005/08/08/reportage-01">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/features/setimes/articles/2005/08/08/reportage-01">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/features/setimes/articles/2005/08/08/reportage-01">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/homepage/"><span>
+дома
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/recent"><span>
+неодамна
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/info/"><span>
+Информативен центар
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/region/"><span>
+Регион
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/archive/"><span>
+Архива
+</span></a></li>
+<li class="navTitle">
+Земји
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Albania"><span>
+Албанија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bosnia_and_Herzegovina"><span>
+БиХ
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bulgaria"><span>
+Бугарија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Croatia"><span>
+Хрватска
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Greece"><span>
+Грција
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Kosovo"><span>
+Косово
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Macedonia"><span>
+Македонија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Moldova"><span>
+Молдавија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Montenegro"><span>
+Црна Гора
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Romania"><span>
+Романија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Serbia"><span>
+Србија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/country/Turkey"><span>
+Турција
+</span></a></li>
+<li class="navTitle">
+Теми
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Politics"><span>
+Политика
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/War_Conflict"><span>
+екстремизам
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Law_Crime"><span>
+Спроведување на правдата и законот
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/ForRel"><span>
+Надворешни односи
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Business_Finance"><span>
+Економски развој
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Integration"><span>
+Интеграции
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Human_Interest"><span>
+Општество
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Линкови
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/contribute/setimes/footer/contribute/contribute"><span>
+Учествувајте
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer"><span>
+Одрекување
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about"><span>
+За нас
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback"><span>
+контактирајте не
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Претплати се
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/podcast_index/default"><span>
+Подкаст
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/mk/homepage/"><span>
+мобилен
+</span></a></li>
+</ul></div></div>
+<div class="span-15">
+<div class="article">
+<h1>Србија бара излез од пензискиот кошмар</h1>
+<p class="date">08/08/2005</p>
+<blockquote>Несолвентниот пензиски систем во Србија, остаток од југословенската ера, „се одржува“ во живот единствено преку големите државни субвенции кои во моментов изнесуваат околу една четвртина од државниот буџет. Со тоа не се црпат само државните приходи, туку и самите пензиите се ниски. Пензионерите можат да очекуваат месечна пензија од околу 138 евра -- далеку под просечната плата. Владата е заглавена помеѓу потребата за реконструкција и барањата на загрижените пензионери, кои ќе ги почувствуваат болните последици на рестрикциите наменети за спасување на системот. Се повеќе и повеќе, приватното пензиско осигурување се чини како единствено прифатливо решение, но за негово спроведување потребно е време.</blockquote>
+<p class="source">Од Ѓорѓи Митев-Шантек за Southeast European Times во Белград – 08/08/05</p><iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/08/08/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<div id="slideshow_wrap"> </div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2005/08/08/GEORGIphoto1.jpg" class="feature"/><p>Постари жени се одмараат во еден парк во Белград. Системот „тековно финансирање“ наследен од времето на стара Југославија не е повеќе во можност да ги задоволи потребите на српските пензионери. [Гети Имиџис] </p></div></div></td></tr></table>
+<p>Србија се бори со потребата да го реформира пензисиот систем, кој троши речиси една четвртина од државниот буџет. Државните приходи се исцедени, а сепак пензиите се доста ниски -- во просек 138 евра месечно. Околу 91 отсто од пензионерите се принудени да се снаоѓаат со значително помалку од просечната плата во Србија. Бидејќи секоја нова рестрикција болно ќе влијае врз пензионерите, политичките лидери се наоѓаат во тешка положба. Без промени, ситуацијата само ќе се влоши. Но, тешко е да се побара од луѓето кои веќе добиваат малку да се задоволат со уште помалку.</p>
+<p>Постојат три начини да се намали товарот од пензиите врз БДП: преку зголемување на БДП, преку систематско намалување на бројот на пензионери и преку намалување на порастот на реалните пензии. Актуелниот систем „тековно финансирање“ можеше да функционира во Југославија во 1980-тите години, кога на секој пензионер имаше по 3 до 3,5 вработени. Но, во сегашните услови, кога бројот на вработени и пензионирани лица е речиси еднаков, системот е банкротиран и само константните субвенции од државниот буџет го одржуваат во живот. Како што наведува извештајот на Светската Банка „Издржување на старите лица во 21 век“, ова претставува глобален проблем.</p>
+<p>Во Србија, зголемувањата на пензиите повеќе не е поврзано со платите, туку со зголемување на животните трошоци, регулирањата се прават два пати годишно. Предвидено е дека до 2010-та година, просечната пензија ќе се намали од сегашните 67,59 отсто на 57,78 отсто од просечната плата, ислучувајќи го данокот. Истовремено, ќе биде воведена повисока минимална пензија која нема да може да се спушти под една четвртина од нето платата. Моментално тоа е 51 евро. </p>
+<p>Најстарите жители во Србија, кои веќе поминаа низ еден од најтешките периоди во поновата историја, не добиваат доволно за да можат да си ја дозволат минималната потрошувачка кошница. Најголемиот дел од нивната месечна пензија оди за основните потреби -- 38,1 отсто за храна, 17,3 отсто за комуналии и 10,2 отсто за превоз. На крајот на пензионерите не им останува ништо. </p>
+<p>„Тоа е навистина тажна иднина за идните пензионери, после 40 години работа, да можат да добијат просечна пензија од 140 евра“, вели Марија Тодоровиќ, претседател на бордот на директори на државниот пензиски фонд. </p>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2005/08/08/GEORGIphoto2.jpg" class="feature"/><p>Владата на премиерот Воислав Коштуница е заглавена помеѓу условите на ММФ и барањата на здруженијата на пензионери. [Гети Имиџис] </p></div></div></td></tr></table>
+<p>Владата е во преговори со ММФ за проблемот со пензиите, како и со здравствениот систем -- преговори кои српските претставници ги опишуваат како „тешки“. ММФ бара да бидат усвоени построги правила, а нивната имплементација да започне во 2006-та година. Зголемувањето на животните трошоци треба да биде ограничено на еднаш годишно, велат од Фондот, иако оваа организација покажа одредена флексибилност што се однесува до одредувањео на минималната пензија. Српската страна се соочува со предизвикот да преговара помеѓу условите на ММФ и притисокот од страна на здружението на пензионери, кое неодамна испрати писмо до највисоките државни претставници -- меѓу кои и до претседателот Борис Тадиќ и премиерот Воислав Коштуница -- противејќи се на новиот нацрт-закон за пензиите.</p>
+<p>Одредбата која предизвика најголема несигурност е предложеното зголемување на старосната граница за пензионирање на 65 години, од сегашните 60 години. Во 2001-та година, просечниот очекуван животен век за српските мажи беше околу 69 години. Според Тодоровиќ, тоа значи дека многу припадници на исцрпената генерација кои сега очекуваат пензионирање нема да дочекаат да ја видат својата прва пензија, додека пак останатите „ќе ја користат кратко“.</p>
+<p>Се повеќе станува јасно дека приватното пензиско осигурување е единствен начин за да се обезбеди мирна старост. Меѓутоа, Србија не е земја каде задолжителното приватно осигурување би можело да се воведе преку ноќ. Нивото на заштеди кај граѓаните е премногу ниско, а финансиските пазари се, исто така, плитки. Поради овие причини, единственото можно решение е постепена транзиција со помош на приватно дополнително осигурување. Дури и ова претставува проблем, бидејќи само 5 отсто од вработените можат да си дозволат да платат дополнително осигурување. </p>
+<p>Првата фирма која понуди приватно пензиско осигурување беше холандско-српскиот пензиски фонд Дунав-ТБИ, а набрзо истото го направија и двете врвни домашни осигурителни компании, ДДОР Нови Сад и Делта Осигурување. Освен со плаќање на пензиско осигурување, пензиите, исто така, можат да се стекнат индиректно, во форма на животно осигурување. </p><div class="relatedFloat"><h1 class="relatedFloat">Поврзани написи</h1><script type="text/javascript">Event.observe(window,'load',function(){loadRelated('/cocoon/setimes/ajax/mk/related/setimes/articles/2005/08/08/reportage-01')});</script><div id="RelatedArticlesAjax"><span>Loading</span></div></div>
+<table style="float: left;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2005/08/08/GEORGIphoto3.jpg" class="feature"/><p>Пензиите во Србија не држат чекор со платите. [Ѓорѓи Митев-Шантек за Southeast European Times] </p></div></div></td></tr></table>
+<p>„Поголемиот број граѓани веројатно и понатаму нема да можат да си дозволат да плаќаат за сопствените пензии , но затоа, исто така, имаме програма и за вработувачите. Не треба да се заборави државниот данок, кој наместо вообичаените 77 отсто од нето платата, кај вработените кои самостојно плаќаат пензиско осигурување е само 15 отсто“, истакнува Ратко Живковиќ од Делта осигурување.</p>
+<p>Сегашната минимална уплата за пензиско осигурување е 7 отсто од најниската бруто плата (со сите трошоци) во ТБИ или околу 12 евра кај Делта. Уплатата за пензиско осигурување може да се врши месечно, периодично, годишно или со една уплата, додека пак членството во пензискиот фонд се прави преку сметка, со единствен број под кој се вршат сите уплати. Така, еден клиент кој плаќа 36 евра месечно за 30 години ќе има животна пензија од 555 евра месечно -- пет пати повеќе од просечната плата во државата. </p>
+<p>Корисни примери можат да се најдат низ цела поранешна Југославија. Во Хрватска, каде нивото на просечна пензија е 40 отсто од просечната плата, приватното и доброволното пензиско осигурување беше воведено за лица под 40 години. Сопствениците на полиси за доброволно осигурување треба да платат 14,5 отсто од нивната плата во државниот пензиски фонд и 5 отсто во нивната приватна осигурителна полиса. Се очекува транзициските трошоци до 2020-та година да достигнат 1,8 отсто од БДП.</p>
+<p>Во Македонија, пак, приватното пензиско осигурување дојде од една друга поранешна југословенска република. Нова Љубљанска Банка од Словенија и македонската Тутунска Банка регистрираа нов пензиски фонд -- Скопје, со почетен капитал од 1,5 милиони евра. Додека соседните држави ги решаваат сопственте пензиски проблеми, српските функционери -- како и обичните граѓани -- внимателно ќе ги пратат нивните обиди.</p>
+<div class="commissioned">Оваа содржина е овластена за SETimes.com.</div>
+<iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/08/08/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<script type="text/javascript">Event.observe(window,'load',function(){loadKeywords('/cocoon/setimes/ajax/mk/keywords/setimes/articles/2005/08/08/reportage-01')});</script><div id="KeywordsAjax"><span>Loading</span></div>
+<div class="articleToolbar"><div class="ratings"><h5>Гласаj</h5><form class="likebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2005/08/08/reportage-01" name="id" type="hidden"/><input value="-1" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Допаѓа (#(count)#)" name="template" type="hidden"/><input value="Допаѓа (#(count)#)" class="button" type="submit"/></form><div class="ratings-bars"><div class="ratings-box"><div style="width: 0%" class="ratings-bars-likes"> </div><div style="width: 0%" class="ratings-bars-dislikes"> </div></div></div><form class="dislikebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2005/08/08/reportage-01" name="id" type="hidden"/><input value="-2" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Не допаѓа (#(count)#)" name="template" type="hidden"/><input value="Не допаѓа (#(count)#)" class="button" type="submit"/></form></div><ul><li><a onclick="javascript:Effect.BlindDown('emailBlock'); return false;" href=""><img src="/cocoon/setimes/graphics/toolbar/icon_email.gif"/>Испратете на пријател по електронска пошта</a></li><li><a href="/cocoon/setimes/print/mk/features/setimes/articles/2005/08/08/reportage-01"><img alt="icon" src="/cocoon/setimes/graphics/toolbar/icon_print.gif"/> печатена верзија </a></li><li><a href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/08/08/reportage-01" class="a2a_dd"><img alt="Share/Save/Bookmark" border="0" height="16" width="171" src="http://static.addtoany.com/buttons/share_save_171_16.png"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl='http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/08/08/reportage-01';</script><script src="http://static.addtoany.com/menu/page.js" type="text/javascript">//import</script></li></ul><div style="display:none" id="emailBlock"><div style="display:none;" id="feedbackEmail_response">Пораката е испратена.</div><form onsubmit=" submitEmail( this ); return false;" action="/php/turing/emailarticle.php" method="post" id="mailform"><fieldset><input value="yes" name="email" type="hidden"/><input value="setimes/articles/2005/08/08/reportage-01" name="emailID" type="hidden"/><input value="http://www.setimes.com//cocoon/setimes/xhtml/mk/features/setimes/articles/2005/08/08/reportage-01" name="emailURL" type="hidden"/><input value="Србија бара излез од пензискиот кошмар" name="emailTitle" type="hidden"/><input value="en_GB" name="emailLang" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="An SETimes.com article from" name="emailSubject" type="hidden"/><div id="email_error_messages" class="feedback"><p id="inline-NameError" style="display:none">Ве молиме, напишете име.</p><p style="display:none" id="inline-EmailError">Ве молиме, напишете ја Вашата адреса за електронска пошта.</p><p style="display:none" id="inline-Email_Invalid">Имејл адресата што ја внесовте не е точна.</p><p style="display:none" id="inline-CommentError">Ве молиме, напишете коментар.</p></div><div class="donates">* СИТЕ ПОЛИЊА СЕ ЗАДОЛЖИТЕЛНИ</div><div>Адресата на електронската пошта на пријателот *</div><div><input id="emailTo" name="emailTo" type="text"/></div><div>Вашето име или адреса за електронска пошта *</div><div><input id="emailName" name="emailName" type="text"/></div><div>коментар *</div><div><textarea cols="60" rows="4" id="emailMessage" name="emailMessage">	</textarea></div><div><img alt="turing test" src="/php/turing/button.php"/></div><div style="display:none" id="emailBlock_error" class="feedback">Бројките не одговараат. Ве молиме внесете повторно.</div><div>внесете бројки *</div><div><input id="userdigits" name="userdigits" type="text"/></div><div><input value="Поднесува" type="submit"/><input onclick="javascript:ShowLayer('emailBlock','none')" value="Откажи" type="button" name="cancel"/></div></fieldset></form></div></div>
+</div>
+<div class="commentBlock"><h1 class="commentsHeader">Вашите коментари за натписите на SETimes се добредојдени.</h1><p class="comment_teaser">
+Се надеваме дека ќе го искористите овој форум за да комуницирате со другите читатели од Југоисточна Европа. За ова искуство да биде интересно, бараме од вас да ги следите правилата наведени во правилникот за коментари. Со испраќањето на коментарите, вие се согласувате со овие правила. Иако SETimes.com ги охрабрува дискусиите на сите теми, вклучително и на чувствителните, коментарите што се објавуваат се ставови единствено на оние што ги испраќаат. SETimes.com не ги одобрува и не се согласува секогаш со идеите, ставовите или мислењата искажани во овие коментари. SETimes.com ги поддржува конструктивните дискусии, но е против употребата на копи-пејст материјалите, непридружуваните линкови и слогани од еден ред. Ова е умерен форум. <b>Коментарите што се сметаат за погрдни, навредливи, или оние што содржат вулгарности, нема да се објават. </b>
+</p><p class="comment_teaser">
+<a onclick="return openWindow('/cocoon/setimes/xhtml/mk/blank/setimes/special/comment_disclaimer/disclaimer','disclaimer','toolbar=no,scrollbars=yes,resizable=yes,width=800,height=700');" href="/cocoon/setimes/xhtml/mk/document/setimes/special/comment_disclaimer/disclaimer">Правилник за коментари на SETimes's</a>
+</p><iframe scrolling="yes" frameborder="no" height="2000" width="590" id="comments" src="http://comments.setimes.com/mk/viewcomment?articleid=setimes/articles/2005/08/08/reportage-01">//</iframe></div>
+</div>
+<div class="span-6 last featuresidebar">
+<div class="facebook-sidebar blockSidebar"><div class="fans"><span class="small_count">547482</span><span class="small_description">Фејсбук фанови</span></div><div class="link"><div class="like mk"><iframe allowTransparency="true" style="border:none; overflow:hidden; width:500px; height:35px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/homepage/&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35"> </iframe></div><a class="small_facebook_page" href="http://www.facebook.com/pages/SETimes/43184095884" target="new">Επισκεφθείτε μας</a></div></div><div class="blockSidebar social_media"><ul><li><a href="http://twitter.com/setimes"><img alt="Twitter" src="/cocoon/setimes/graphics/icons/twitter-60_60.png"/></a></li><li><a href="http://www.youtube.com/user/setimes"><img alt="Youtube" src="/cocoon/setimes/graphics/icons/youtube-32_32.png"/></a></li><li><a href="/cocoon/setimes/rss/mk/setimes.rss"><img alt="RSS" src="/cocoon/setimes/graphics/icons/rss-60_60.png"/></a></li></ul></div><div class="blockSidebar" id="blockReportage"><h3>Репортажа</h3><div ceid="sidebar_reportage" class="item"><a class="title" title="Хрватска влегува во ЕУ, но се соочува со неизвесна иднина" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/01/reportage-01">Хрватска влегува во ЕУ, но се соочува со неизвесна иднина</a><a class="image" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/01/reportage-01"><img title="Хрватска влегува во ЕУ, но се соочува со неизвесна иднина" alt="Хрватска влегува во ЕУ, но се соочува со неизвесна иднина" src="/cocoon/setimes/images/2013/07/01/DRAZENphoto1TN.jpg" class="reportage"/></a><p>И покрај пристапувањето во ЕУ и новиот пристап до средствата, Хрватите се загрижени за економијата, квалитетот на животот.</p><div class="clear"> </div></div></div><ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image">Специјален извештај: Корупцијата во Југоисточна Европа</a></h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Специјален извештај: Корупцијата во Југоисточна Европа" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-mk.jpg"/></a></li></ul><script type="text/javascript">Event.observe(window,'load',function(){ new Fabtabs('contentColumn1RecentTabstabList'); },false);</script><div id="blockPopular" class="blockSidebar"><h3>Најпопуларни</h3><ul id="contentColumn1RecentTabstabList" class="tabBox"><li><a href="#contentColumn1RecentTabstab1">попул.</a></li><li><a href="#contentColumn1RecentTabstab2">комен.</a></li><li><a href="#contentColumn1RecentTabstab3">оцен.</a></li></ul><div id="contentColumn1RecentTabstab1" class="panel"><div ceid="most_popular" id="MostPopularAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadPopular('/cocoon/setimes/ajax/mk/buzz/popular/5')});</script></div><div id="contentColumn1RecentTabstab2" class="panel"><div id="MostCommentedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadCommented('/cocoon/setimes/ajax/mk/buzz/commented/5')});</script></div><div id="contentColumn1RecentTabstab3" class="panel"><div id="MostRatedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadRated('/cocoon/setimes/ajax/mk/buzz/rated/5')});</script></div></div><div ceid="photo_essay" class="blockSidebar" id="blockPhotoEssay"><h3>Фото есеј</h3><div class="item"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay" class="title">A moment in time: Taksim Square protests</a></div><div class="photo_essay_badge"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay"><img alt="A moment in time: Taksim Square protests" src="/cocoon/setimes/images/photo_essays/2013/06/05/TAKSIMphoto1CI.jpg"/></a></div></div><div ceid="sidebar_poll" class="blockPoll blockSidebar"><h3> Анкета</h3><div url="/cocoon/setimes/poll/mk/2013-07-06" id="poll" class="poll"><form onsubmit="submitPoll(); return false;" action="/php/poll/poll.php" method="post" id="pollform"><fieldset><input value="2013-07-06" name="id" type="hidden"/><input value="yes" name="pollresult" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk" name="lang" type="hidden"/><h2>По пристапувањето во ЕУ, пазарот на работна сила е отворен за Хрватска. Дали би го промениле местото на живеење за да најдете нова работа?</h2><input name="answer" type="radio" value="1"/><span>Да </span><br/><input name="answer" type="radio" value="2"/><span>Не </span><br/><input name="answer" type="radio" value="3"/><span>Не знам</span><br/><br/><center><input value="Гласаj" type="submit"/><br/><br/><a rel="nofollow" onclick="viewPoll('/cocoon/setimes/poll/mk/2013-07-06'); return false;" href="/cocoon/setimes/xhtml/mk/homepage/default?pollresult=yes&amp;answer=no&amp;id=2013-07-06">Види ги резултатите</a> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-07-06">Додадете коментар </a></b></center></fieldset></form></div><div style="display:none" id="poll_comments_link"> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-07-06">Додадете коментар </a></b></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer">
+Одрекување
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about">
+За нас
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback">
+контактирајте не
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Претплати се
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/podcast_index/default">
+Подкаст
+</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6886.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div></body></html>

@@ -1,0 +1,250 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="mk" lang="mk" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAWOQPiM6YCvBhNDmsm7JfvRTBfUk9TZrBRaIteybtnU2KziHEpRTt3eSDc7n7q6flBUrkhlDZz9XI_w&amp;hl=mk">//127.0.0.1 key</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:npyydcuchby&amp;lang=mk" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script type="text/javascript">
+							google.load("search", "1");
+							function OnLoad() {
+							new CSEOverlay("003982986761957721032:npyydcuchby",
+							document.getElementById("searchbox_003982986761957721032:npyydcuchby"),
+							document.getElementById("results_003982986761957721032:npyydcuchby"));
+							}
+							google.setOnLoadCallback(OnLoad);
+						</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/mk/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>Уставни промени во Босна и Херцеговина: што е во игра (SETimes.com)</title><meta content="mk" name="lang"/><meta content="SETimes.com" name="publisher"/><meta content="2005-03-14" name="date"/><meta content="Уставни промени во Босна и Херцеговина: што е во игра" name="title"/><meta content="article" property="og:type"/><meta content="Уставни промени во Босна и Херцеговина: што е во игра" property="og:title"/><meta content="http://setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/03/14/reportage-01" property="og:url"/><meta content="Додека Босна и Херцеговина очекува приближување кон ЕУ, нејзиниот повоен устав -- опишан од страна на еден поранешен висок претставник како “еден од најсложените уставни документи благословен од меѓународната заедница во последните години“ -- е ставен на разгледување. Многумина тврдат дека документот, како и лавиринтскиот систем на владеење што тој го создаде, претставува пречка за понатамошен развој на земјата. Други, со недоверба во она што го гледаат како скриен обид да се отфрли Дејтонскиот Договор, се спротивставуваат на барањата за измени. Меѓународната заедница, во меѓувреме, даде до знаење дека можат да се извршат измени само со консензус меѓу босанските политички сили." name="description"/><meta content="http://setimes.com/cocoon/setimes/images/2005/03/14/GARYphoto1HP.jpg" name="image"/><meta content="http://setimes.com/cocoon/setimes/images/2005/03/14/GARYphoto1HP.jpg" property="og:image"/><meta content="Додека Босна и Херцеговина очекува приближување кон ЕУ, нејзиниот повоен устав -- опишан од страна на еден поранешен висок претставник како “еден од најсложените уставни документи благословен од меѓународната заедница во последните години“ -- е ставен на разгледување. Многумина тврдат дека документот, како и лавиринтскиот систем на владеење што тој го создаде, претставува пречка за понатамошен развој на земјата. Други, со недоверба во она што го гледаат како скриен обид да се отфрли Дејтонскиот Договор, се спротивставуваат на барањата за измени. Меѓународната заедница, во меѓувреме, даде до знаење дека можат да се извршат измени само со консензус меѓу босанските политички сили." property="og:description"/><link href="http://setimes.com/cocoon/setimes/images/2005/03/14/GARYphoto1TN.jpg" rel="image_src"/><script type="text/javascript">countHit('article','setimes/articles/2005/03/14/reportage-01','setimes','mk');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/mk/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/mk/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Пребарај" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/features/setimes/articles/2005/03/14/reportage-01">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/features/setimes/articles/2005/03/14/reportage-01">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/features/setimes/articles/2005/03/14/reportage-01">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/features/setimes/articles/2005/03/14/reportage-01">
+Hrvatski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2005/03/14/reportage-01">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/features/setimes/articles/2005/03/14/reportage-01">
+Ελληνική
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/03/14/reportage-01">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/features/setimes/articles/2005/03/14/reportage-01">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/features/setimes/articles/2005/03/14/reportage-01">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/features/setimes/articles/2005/03/14/reportage-01">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/homepage/"><span>
+дома
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/recent"><span>
+неодамна
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/info/"><span>
+Информативен центар
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/region/"><span>
+Регион
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/archive/"><span>
+Архива
+</span></a></li>
+<li class="navTitle">
+Земји
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Albania"><span>
+Албанија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bosnia_and_Herzegovina"><span>
+БиХ
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bulgaria"><span>
+Бугарија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Croatia"><span>
+Хрватска
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Greece"><span>
+Грција
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Kosovo"><span>
+Косово
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Macedonia"><span>
+Македонија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Moldova"><span>
+Молдавија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Montenegro"><span>
+Црна Гора
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Romania"><span>
+Романија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Serbia"><span>
+Србија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/country/Turkey"><span>
+Турција
+</span></a></li>
+<li class="navTitle">
+Теми
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Politics"><span>
+Политика
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/War_Conflict"><span>
+екстремизам
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Law_Crime"><span>
+Спроведување на правдата и законот
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/ForRel"><span>
+Надворешни односи
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Business_Finance"><span>
+Економски развој
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Integration"><span>
+Интеграции
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Human_Interest"><span>
+Општество
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Линкови
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/contribute/setimes/footer/contribute/contribute"><span>
+Учествувајте
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer"><span>
+Одрекување
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about"><span>
+За нас
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback"><span>
+контактирајте не
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Претплати се
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/podcast_index/default"><span>
+Подкаст
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/mk/homepage/"><span>
+мобилен
+</span></a></li>
+</ul></div></div>
+<div class="span-15">
+<div class="article">
+<h1>Уставни промени во Босна и Херцеговина: што е во игра</h1>
+<p class="date">14/03/2005</p>
+<blockquote>Додека Босна и Херцеговина очекува приближување кон ЕУ, нејзиниот повоен устав -- опишан од страна на еден поранешен висок претставник како “еден од најсложените уставни документи благословен од меѓународната заедница во последните години“ -- е ставен на разгледување. Многумина тврдат дека документот, како и лавиринтскиот систем на владеење што тој го создаде, претставува пречка за понатамошен развој на земјата. Други, со недоверба во она што го гледаат како скриен обид да се отфрли Дејтонскиот Договор, се спротивставуваат на барањата за измени. Меѓународната заедница, во меѓувреме, даде до знаење дека можат да се извршат измени само со консензус меѓу босанските политички сили.</blockquote>
+<p class="source">Од Гери Дин за Southeast European Times во Сараево -- 14/03/05</p><iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/03/14/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<div id="slideshow_wrap"> </div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2005/03/14/GARYphoto1.jpg" class="feature"/><p>Додека Босна и Херцеговина очекува приближување кон ЕУ, нејзиниот повоен устав -- опишан од страна на еден поранешен висок претставник како “еден од најсложените уставни документи благословен од меѓународната заедница во последните години“ -- е ставен на разгледување. Многумина тврдат дека документот, како и лавиринтскиот систем на владеење што тој го создаде, претставува пречка за понатамошен развој на земјата. Други, со недоверба во она што го гледат како скриен обид да се отфрли Дејтонскиот Договор, се спротивставуваат на барањата за измени. Меѓународната заедница, во меѓувреме, даде до знаење дека можат да се извршат измени само со консензус меѓу босанските политички сили.</p></div></div></td></tr></table>
+<p>Некогаш нарекуван “еден од најсложените уставни документи благословени од меѓународната заедница во последните години“ од страна на првиот висок претставник за Босна и Херцеговина (БиХ), уставот на земјата -- кој пропишува лабава центарлна влада, два силни ентитети и трочлено претседателство -- е ставен на ново разгледување со наближувањето на неговиот десетти роденден. </p>
+<p>Политичките сили во БиХ кои се подготвени да започнат преговори со цел да ја приближат земјата кон ЕУ велат дека иако Дејтонскиот мировен договор стави крај на конфликтот 1992-1995, уставот којшто дојде со него се покажа како пречка за време на мирот.</p>
+<p>Европските дипломати велат дека БиХ може да се приближи кон Унијата и без да се ослободи од двата повоени ентитети --република Српска (РС) и Муслиманско-Хрватската Федерација на БиХ. Проблемот, велат тие, лежи во зашеметувачката палета на владини структури и должности. Државните власти во БиХ се занимаваат со нешта како на пример надворешни работи и надворешна трговија. Доколку реформите во армијата бидат успешни, тие, исто така, ќе бидат одговорни за одбраната. Еден државен суд се занимава со интер-ентитетен криминал, но, нема јурисдикција над главните судови на ентитетите. Постои државна гранична служба, а нема централна власт над полицијата. БиХ има два парламента, но и Федерацијата, исто така, има два. РС и малата област Брчко, која се наоѓа на североисток, имаат сопствено собрание. БиХ нема еден претседател; има три члена во претседателството, кои се менуваат на функцијата претседател на претседателството. </p>
+<p>Лавиринтскиот систем на управување „јаде“ помеѓу 50 и 60 отсто од приходите во земјата, која се смета за една од најсиромашните во Европа. Не е чудо, тогаш, тоа што се поднесени повеќе предлози за негова ревизија. </p>
+<p>Еден од најдраматичните предлози доаѓа од т.н. Саревска идејна школа. Три пратеника на Социјал-демократската партија во Претставничкиот Дом во БиХ побараа укинување на ентитетите, организирање на државата во пет географски области, а изборот на членовите на претседателството да се врши преку општонародно гласање. </p>
+<p>Ваквите радикални промени, меѓутоа, не се политички изводливи. Школата во Бања Лука, де факто главниот град на РС, смета дека уставот е добар во сегашната форма. Ентитетот доби свое знаме, полиција, војска и судови во Дејтон. Обидите да се зајакне државата на сметка на ентитетите -- реформите во полицијата се најнови такви обиди -- не беа добро примени од лидерите на РС. </p>
+<p>Политичарите кои очекуваат одговори од меѓународниот администратор во БиХ ќе сфатат дека чукаат на погрешна врата. Високиот Претставник Педи Ешдаун јасно стави до знаење дека било какви уставни измени ќе мора да произлезат од консензус меѓу политичарите на БиХ. Странците кои помогнаа да се договори крај на конфликтот пред скоро десет години се согласуваат. „Дејтон обезбеди рамка, а секој кој сака неа да ја подобри е добредојден да се обиде. И за се она за што се согласуваат сите три групи, се согласуваме и ние“, рече поранешниот американски преговарач Ричард Холбрук на една посета на земјата во октомври 2003 година. Шведскиот дипломат, Карл Билд, кој беше главниот преговарач од ЕУ кон крајот на војната и кој е заслужен за коментарот „сложен документ“, во своите интервјуа даде слични коментари. </p>
+<p>Постои помала веројатност другите играчи, како што е Руската Федерација, да ги охрабрат политичарите да преговараат за измени. Министерот за надворешни работи, Сергеј Лавров, во јануари изјави дека Дејтон треба да остане камен-темелник на БиХ, особено во поглед на еднаквите односи помеѓу сите три народи. </p>
+<p>Но, тие „еднакви односи“ се токму она што критичарите на уставот се обидуваат да го постигнат преку преговорите за измени. Според сегашниот устав, членовите на претседателството -- Хрват, Муслиман и Србин -- мора да бидат избрани од територијата на ентитетите. Во пракса, ова значи дека Србин кој живее во Федрацијата може да гласа само за Хрват или за Муслиман и дека Хрватите и Муслиманите кои живеат во РС може да гласаат само за Србин.</p>
+<table style="float: left;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2005/03/14/GARYphoto2.jpg" class="feature"/><p>Високииот Претставник Педи Ешдаун рече дека за секоја уставна измена мора да постои консензус кај политичарите во БиХ. [АФП]</p></div></div></td></tr></table>
+<p>На ова прашање не му беше посветено големо внимание во годините по Дејтон, кога вниманието беше свртено врз тоа дали мирот воопшто ќе се одржи, кога ќе се вратат бегалците, а законот за недвижности постоеше само на хартија. Меѓутоа, речиси десет години подоцна, групите за човекови права и невладините организации гледаат на правилата како ова лоцирани во ентитетите како давање права на етнички групи на сметка на поединецот. </p>
+<p>Иницијативата за Европска Стабилност со седиште во Берлин (ЕСИ) предложи необично решение: Ослободете се од Федерацијата. </p>
+<p>„Брчко има многу надлежности, РС има многу надлежности, кантонот Тузла има многу надлежности, но, не е сигурно каде тука се вклопува Федерацијата“, рече директорот на ЕСИ, Џералд Кнаус, во телефонски разговор од Лондон. „Она што го предлагаме, базирано врз консултации со политичари од сите страни, е укинување на нивото на власт што не е популарно кај никого -- Хрватите сакаат да ја укинат Федрацијата, Босанците сакаат да ја укинат и РС и Федерацијата -- никој не сака да ја одбрани Федерацијата. </p>
+<p>Кнаус рече дека планот, кој наложува десетте кантони на Федерацијата да станат „административни единици“ заедно со РС и областа Брчко, би можел да биде начин да се натераат политичарите во РС да разговараат за промени. Но, во секој случај, политичарите во Сараево кои сакаат промени ќе мора да научат да се залагаат за своите иницијативи на начин на којшто тоа го прават нивните европски и американски колеги со години.</p>
+<p>„Она што вие сакате да се случи е луѓето во Сараево да излезат и да објаснат како една посилна држава ќе им користи на српските земјоделци или на српските бизнисмени“, рече тој. „Во земјоделството, ако тие сакаат да воведат државно координативно тело, ќе мора да им покажат на српските земјоделци дека тоа е во нивен интерес бидејќи преку тоа може да добиете средства од ЕУ“. </p>
+<p>Барајќи од Ешдаун со својата огромна моќ да отпушти функционери и да наложи законите да бидат укинати, ЕСИ предизвика полемика во 2003 година. Овој план може да не е толку значаен како оној другиот, но не е помалку контроверзен кај политичарите од РС кои сакаат да ги задржат ентитетите. </p>
+<p>„Сметам дека треба да бидат укинати кантоните во Федерацијата, а не Федрацијата“, рече Петар Куниќ, професор по право од Бања Лука кој членува во деветчлената уставна комисија на државниот парламент. </p>
+<p>Бидејќи дејтонскиот устав ги признава ентитетите, а не десетте кантони на Федрацијата, нема потреба тој да се менува, вели Куниќ. Наместо тоа, тој треба да се следи во детаљи се додека БиХ не успее да се приближи кон европските структури. </p><div class="relatedFloat"><h1 class="relatedFloat">Поврзани написи</h1><script type="text/javascript">Event.observe(window,'load',function(){loadRelated('/cocoon/setimes/ajax/mk/related/setimes/articles/2005/03/14/reportage-01')});</script><div id="RelatedArticlesAjax"><span>Loading</span></div></div>
+<p>„Не постои устав во светот што нема мани“, рече тој. „Сега не е време да се измени уставот“. Нема потреба сега да трошиме енергија на работи што никому не му користат “. </p>
+<p>Куниќ рече дека секој кој го свртува вниманието кон ова има „скриени планови“, став кој одекна кај политичарите од Српската Демократска Партија. „Се уште постојат партии и поединци во Федерацијата кои се обидуваат да остварат некои цели што не ги оствариле во текот на војната“, рече потпретседателот на партијата, Бошко Шиљеговиќ, во еден напис објавен од страна на дневниот весник од Бања Лука <i>Независне Новине</i> како дел од серијата написи за уставните измени. „Овие жестоки иницијативи само ги збиваат редовите на сите политички партии од РС во заеднички отпор за измена на уставот“. </p>
+<p>Преголемата затвореност во себе во РС, заедно со долготрајната надеж на некои школи во Сараево дека меѓународната заедница еден ден унилатерално ќе ги укине ентитетите, ги спречуваат политичарите да започнат сериозни дискусии за уставни промени.</p>
+<p>„Она што треба да се измени е очекувањето од страна на некои лица дека ќе има радикални измени наложени од горе, така што тие нема да треба да преговараат, рече Кнаус. „Се додека се води дискусија за ова, нема да имате консензус за реформи“. </p>
+<div class="commissioned">Оваа содржина е овластена за SETimes.com.</div>
+<iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/03/14/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<script type="text/javascript">Event.observe(window,'load',function(){loadKeywords('/cocoon/setimes/ajax/mk/keywords/setimes/articles/2005/03/14/reportage-01')});</script><div id="KeywordsAjax"><span>Loading</span></div>
+<div class="articleToolbar"><div class="ratings"><h5>Гласаj</h5><form class="likebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2005/03/14/reportage-01" name="id" type="hidden"/><input value="-1" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Допаѓа (#(count)#)" name="template" type="hidden"/><input value="Допаѓа (#(count)#)" class="button" type="submit"/></form><div class="ratings-bars"><div class="ratings-box"><div style="width: 0%" class="ratings-bars-likes"> </div><div style="width: 0%" class="ratings-bars-dislikes"> </div></div></div><form class="dislikebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2005/03/14/reportage-01" name="id" type="hidden"/><input value="-2" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Не допаѓа (#(count)#)" name="template" type="hidden"/><input value="Не допаѓа (#(count)#)" class="button" type="submit"/></form></div><ul><li><a onclick="javascript:Effect.BlindDown('emailBlock'); return false;" href=""><img src="/cocoon/setimes/graphics/toolbar/icon_email.gif"/>Испратете на пријател по електронска пошта</a></li><li><a href="/cocoon/setimes/print/mk/features/setimes/articles/2005/03/14/reportage-01"><img alt="icon" src="/cocoon/setimes/graphics/toolbar/icon_print.gif"/> печатена верзија </a></li><li><a href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/03/14/reportage-01" class="a2a_dd"><img alt="Share/Save/Bookmark" border="0" height="16" width="171" src="http://static.addtoany.com/buttons/share_save_171_16.png"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl='http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2005/03/14/reportage-01';</script><script src="http://static.addtoany.com/menu/page.js" type="text/javascript">//import</script></li></ul><div style="display:none" id="emailBlock"><div style="display:none;" id="feedbackEmail_response">Пораката е испратена.</div><form onsubmit=" submitEmail( this ); return false;" action="/php/turing/emailarticle.php" method="post" id="mailform"><fieldset><input value="yes" name="email" type="hidden"/><input value="setimes/articles/2005/03/14/reportage-01" name="emailID" type="hidden"/><input value="http://www.setimes.com//cocoon/setimes/xhtml/mk/features/setimes/articles/2005/03/14/reportage-01" name="emailURL" type="hidden"/><input value="Уставни промени во Босна и Херцеговина: што е во игра" name="emailTitle" type="hidden"/><input value="en_GB" name="emailLang" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="An SETimes.com article from" name="emailSubject" type="hidden"/><div id="email_error_messages" class="feedback"><p id="inline-NameError" style="display:none">Ве молиме, напишете име.</p><p style="display:none" id="inline-EmailError">Ве молиме, напишете ја Вашата адреса за електронска пошта.</p><p style="display:none" id="inline-Email_Invalid">Имејл адресата што ја внесовте не е точна.</p><p style="display:none" id="inline-CommentError">Ве молиме, напишете коментар.</p></div><div class="donates">* СИТЕ ПОЛИЊА СЕ ЗАДОЛЖИТЕЛНИ</div><div>Адресата на електронската пошта на пријателот *</div><div><input id="emailTo" name="emailTo" type="text"/></div><div>Вашето име или адреса за електронска пошта *</div><div><input id="emailName" name="emailName" type="text"/></div><div>коментар *</div><div><textarea cols="60" rows="4" id="emailMessage" name="emailMessage">	</textarea></div><div><img alt="turing test" src="/php/turing/button.php"/></div><div style="display:none" id="emailBlock_error" class="feedback">Бројките не одговараат. Ве молиме внесете повторно.</div><div>внесете бројки *</div><div><input id="userdigits" name="userdigits" type="text"/></div><div><input value="Поднесува" type="submit"/><input onclick="javascript:ShowLayer('emailBlock','none')" value="Откажи" type="button" name="cancel"/></div></fieldset></form></div></div>
+</div>
+<div class="commentBlock"><h1 class="commentsHeader">Вашите коментари за натписите на SETimes се добредојдени.</h1><p class="comment_teaser">
+Се надеваме дека ќе го искористите овој форум за да комуницирате со другите читатели од Југоисточна Европа. За ова искуство да биде интересно, бараме од вас да ги следите правилата наведени во правилникот за коментари. Со испраќањето на коментарите, вие се согласувате со овие правила. Иако SETimes.com ги охрабрува дискусиите на сите теми, вклучително и на чувствителните, коментарите што се објавуваат се ставови единствено на оние што ги испраќаат. SETimes.com не ги одобрува и не се согласува секогаш со идеите, ставовите или мислењата искажани во овие коментари. SETimes.com ги поддржува конструктивните дискусии, но е против употребата на копи-пејст материјалите, непридружуваните линкови и слогани од еден ред. Ова е умерен форум. <b>Коментарите што се сметаат за погрдни, навредливи, или оние што содржат вулгарности, нема да се објават. </b>
+</p><p class="comment_teaser">
+<a onclick="return openWindow('/cocoon/setimes/xhtml/mk/blank/setimes/special/comment_disclaimer/disclaimer','disclaimer','toolbar=no,scrollbars=yes,resizable=yes,width=800,height=700');" href="/cocoon/setimes/xhtml/mk/document/setimes/special/comment_disclaimer/disclaimer">Правилник за коментари на SETimes's</a>
+</p><iframe scrolling="yes" frameborder="no" height="2000" width="590" id="comments" src="http://comments.setimes.com/mk/viewcomment?articleid=setimes/articles/2005/03/14/reportage-01">//</iframe></div>
+</div>
+<div class="span-6 last featuresidebar">
+<div class="facebook-sidebar blockSidebar"><div class="fans"><span class="small_count">548205</span><span class="small_description">Фејсбук фанови</span></div><div class="link"><div class="like mk"><iframe allowTransparency="true" style="border:none; overflow:hidden; width:500px; height:35px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/homepage/&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35"> </iframe></div><a class="small_facebook_page" href="http://www.facebook.com/pages/SETimes/43184095884" target="new">Επισκεφθείτε μας</a></div></div><div class="blockSidebar social_media"><ul><li><a href="http://twitter.com/setimes"><img alt="Twitter" src="/cocoon/setimes/graphics/icons/twitter-60_60.png"/></a></li><li><a href="http://www.youtube.com/user/setimes"><img alt="Youtube" src="/cocoon/setimes/graphics/icons/youtube-32_32.png"/></a></li><li><a href="/cocoon/setimes/rss/mk/setimes.rss"><img alt="RSS" src="/cocoon/setimes/graphics/icons/rss-60_60.png"/></a></li></ul></div><div class="blockSidebar" id="blockReportage"><h3>Репортажа</h3><div ceid="sidebar_reportage" class="item"><a class="title" title="Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/08/reportage-01">Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот</a><a class="image" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/08/reportage-01"><img title="Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот" alt="Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот" src="/cocoon/setimes/images/2013/07/08/LINDAphoto1TN.jpg" class="reportage"/></a><p>Муфтијата Тернава изјави за SETimes дека екстремизмот и тероризмот се спротивни на вредностите на Исламската заедница на Косово.</p><div class="clear"> </div></div></div><ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image">Специјален извештај: Корупцијата во Југоисточна Европа</a></h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Специјален извештај: Корупцијата во Југоисточна Европа" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-mk.jpg"/></a></li></ul><script type="text/javascript">Event.observe(window,'load',function(){ new Fabtabs('contentColumn1RecentTabstabList'); },false);</script><div id="blockPopular" class="blockSidebar"><h3>Најпопуларни</h3><ul id="contentColumn1RecentTabstabList" class="tabBox"><li><a href="#contentColumn1RecentTabstab1">попул.</a></li><li><a href="#contentColumn1RecentTabstab2">комен.</a></li><li><a href="#contentColumn1RecentTabstab3">оцен.</a></li></ul><div id="contentColumn1RecentTabstab1" class="panel"><div ceid="most_popular" id="MostPopularAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadPopular('/cocoon/setimes/ajax/mk/buzz/popular/5')});</script></div><div id="contentColumn1RecentTabstab2" class="panel"><div id="MostCommentedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadCommented('/cocoon/setimes/ajax/mk/buzz/commented/5')});</script></div><div id="contentColumn1RecentTabstab3" class="panel"><div id="MostRatedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadRated('/cocoon/setimes/ajax/mk/buzz/rated/5')});</script></div></div><div ceid="photo_essay" class="blockSidebar" id="blockPhotoEssay"><h3>Фото есеј</h3><div class="item"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay" class="title">A moment in time: Taksim Square protests</a></div><div class="photo_essay_badge"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay"><img alt="A moment in time: Taksim Square protests" src="/cocoon/setimes/images/photo_essays/2013/06/05/TAKSIMphoto1CI.jpg"/></a></div></div><div ceid="sidebar_poll" class="blockPoll blockSidebar"><h3> Анкета</h3><div url="/cocoon/setimes/poll/mk/2013-07-06" id="poll" class="poll"><form onsubmit="submitPoll(); return false;" action="/php/poll/poll.php" method="post" id="pollform"><fieldset><input value="2013-07-06" name="id" type="hidden"/><input value="yes" name="pollresult" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk" name="lang" type="hidden"/><h2>По пристапувањето во ЕУ, пазарот на работна сила е отворен за Хрватска. Дали би го промениле местото на живеење за да најдете нова работа?</h2><input name="answer" type="radio" value="1"/><span>Да </span><br/><input name="answer" type="radio" value="2"/><span>Не </span><br/><input name="answer" type="radio" value="3"/><span>Не знам</span><br/><br/><center><input value="Гласаj" type="submit"/><br/><br/><a rel="nofollow" onclick="viewPoll('/cocoon/setimes/poll/mk/2013-07-06'); return false;" href="/cocoon/setimes/xhtml/mk/homepage/default?pollresult=yes&amp;answer=no&amp;id=2013-07-06">Види ги резултатите</a> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-07-06">Додадете коментар </a></b></center></fieldset></form></div><div style="display:none" id="poll_comments_link"> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-07-06">Додадете коментар </a></b></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer">
+Одрекување
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about">
+За нас
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback">
+контактирајте не
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Претплати се
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/podcast_index/default">
+Подкаст
+</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6886.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div></body></html>

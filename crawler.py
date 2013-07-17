@@ -28,7 +28,7 @@ def get_html(date, type):
                 link = link_tag.get('href')
                 link = base + link
                 #mk_link = en_to_mk(link)
-                f = open('links', 'a')
+                f = open('links4', 'a')
                 f.write(link + '\n')
                 f.close()
 #                try :
@@ -92,7 +92,7 @@ def main ():
     num = 0
     date = start_date
     dates = []
-    while (date != '2013/07'):
+    while (date != '2013/08'):
         dates.append(date)
         date = next_month(date)
     print dates
@@ -105,7 +105,7 @@ def main ():
         for d in ds:
             print num
             num += 1
-            t = threading.Thread(target=get_html, args = (d,'features/'))
+            t = threading.Thread(target=get_html, args = (d,'newsbriefs/'))
             t.daemon = True
             threads.append(t)
             t.start()

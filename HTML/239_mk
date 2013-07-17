@@ -1,0 +1,244 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="mk" lang="mk" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAWOQPiM6YCvBhNDmsm7JfvRTBfUk9TZrBRaIteybtnU2KziHEpRTt3eSDc7n7q6flBUrkhlDZz9XI_w&amp;hl=mk">//127.0.0.1 key</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:npyydcuchby&amp;lang=mk" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script type="text/javascript">
+							google.load("search", "1");
+							function OnLoad() {
+							new CSEOverlay("003982986761957721032:npyydcuchby",
+							document.getElementById("searchbox_003982986761957721032:npyydcuchby"),
+							document.getElementById("results_003982986761957721032:npyydcuchby"));
+							}
+							google.setOnLoadCallback(OnLoad);
+						</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/mk/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>Политичарите во БиХ се препираат околу деталите за пописот на населението (SETimes.com)</title><meta content="mk" name="lang"/><meta content="SETimes.com" name="publisher"/><meta content="2008-12-15" name="date"/><meta content="Политичарите во БиХ се препираат околу деталите за пописот на населението" name="title"/><meta content="article" property="og:type"/><meta content="Политичарите во БиХ се препираат околу деталите за пописот на населението" property="og:title"/><meta content="http://setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/12/15/reportage-01" property="og:url"/><meta content="Времето за спроведување на попис на населението во БиХ изминува, а политичкото препирање го блокира донесувањето на законот од суштинско значење. ЕУ предупредува на последиците за аспирациите на БиХ да влезе во Унијата." name="description"/><meta content="http://setimes.com/cocoon/setimes/images/2008/12/15/VLATKOphoto1HP.jpg" name="image"/><meta content="http://setimes.com/cocoon/setimes/images/2008/12/15/VLATKOphoto1HP.jpg" property="og:image"/><meta content="Времето за спроведување на попис на населението во БиХ изминува, а политичкото препирање го блокира донесувањето на законот од суштинско значење. ЕУ предупредува на последиците за аспирациите на БиХ да влезе во Унијата." property="og:description"/><link href="http://setimes.com/cocoon/setimes/images/2008/12/15/VLATKOphoto1TN.jpg" rel="image_src"/><script type="text/javascript">countHit('article','setimes/articles/2008/12/15/reportage-01','setimes','mk');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/mk/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/mk/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Пребарај" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/features/setimes/articles/2008/12/15/reportage-01">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/features/setimes/articles/2008/12/15/reportage-01">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/features/setimes/articles/2008/12/15/reportage-01">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/features/setimes/articles/2008/12/15/reportage-01">
+Hrvatski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2008/12/15/reportage-01">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/features/setimes/articles/2008/12/15/reportage-01">
+Ελληνική
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/12/15/reportage-01">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/features/setimes/articles/2008/12/15/reportage-01">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/features/setimes/articles/2008/12/15/reportage-01">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/features/setimes/articles/2008/12/15/reportage-01">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/homepage/"><span>
+дома
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/recent"><span>
+неодамна
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/info/"><span>
+Информативен центар
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/region/"><span>
+Регион
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/archive/"><span>
+Архива
+</span></a></li>
+<li class="navTitle">
+Земји
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Albania"><span>
+Албанија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bosnia_and_Herzegovina"><span>
+БиХ
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bulgaria"><span>
+Бугарија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Croatia"><span>
+Хрватска
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Greece"><span>
+Грција
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Kosovo"><span>
+Косово
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Macedonia"><span>
+Македонија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Moldova"><span>
+Молдавија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Montenegro"><span>
+Црна Гора
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Romania"><span>
+Романија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Serbia"><span>
+Србија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/country/Turkey"><span>
+Турција
+</span></a></li>
+<li class="navTitle">
+Теми
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Politics"><span>
+Политика
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/War_Conflict"><span>
+екстремизам
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Law_Crime"><span>
+Спроведување на правдата и законот
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/ForRel"><span>
+Надворешни односи
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Business_Finance"><span>
+Економски развој
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Integration"><span>
+Интеграции
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Human_Interest"><span>
+Општество
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Линкови
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/contribute/setimes/footer/contribute/contribute"><span>
+Учествувајте
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer"><span>
+Одрекување
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about"><span>
+За нас
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback"><span>
+контактирајте не
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Претплати се
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/podcast_index/default"><span>
+Подкаст
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/mk/homepage/"><span>
+мобилен
+</span></a></li>
+</ul></div></div>
+<div class="span-15">
+<div class="article">
+<h1>Политичарите во БиХ се препираат околу деталите за пописот на населението</h1>
+<p class="date">15/12/2008</p>
+<blockquote>Времето за спроведување на попис на населението во БиХ изминува, а политичкото препирање го блокира донесувањето на законот од суштинско значење. ЕУ предупредува на последиците за аспирациите на БиХ да влезе во Унијата.</blockquote>
+<p class="source">Од Влатко Вукотиќ за Southeast European Times во Сараево –15/12/08</p><iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/12/15/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<div id="slideshow_wrap"> </div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2008/12/15/VLATKOphoto1.jpg" class="feature"/><p>Се води дебата дали граѓаните треба да одговараат на прашањата за религијата и мајчиниот јазик. [Getty Images]</p></div></div></td></tr></table>
+<p>Пописот на населението е едно од многуте прашања, кои ги делат политичарите во Босна и Херцеговина (БиХ). После последниот попис, спроведен во 1991-та година, избувна војната и 2,2 милиони жители ги напуштија своите домови. Половината од нив никогаш не се вратија -- околу 400 000 сеуште живеат во странство. </p>
+<p>Претставниците на трите главни националности во БиХ -- Босанци, Срби и Хрвати -- се согласија да биде спроведен попис во 2011-та година во согласност со европските норми. Меѓутоа, тие имаат различни ставови во однос на тоа дали попишаните треба да ја прецизираат нивната етничка припадност, религијата и мајчиниот јазик. Србите сакаат овие прашања да бидат вклучени во пописот, додека пак Босанците и Хрватите се спротивставуваат на оваа идеја, бидејќи многу припадници на нивните заедници никогаш не се вратија во своите домови. </p>
+<p>Европскиот парламент и Советот на министри на ЕУ летово усвоија закон за пописите за земјите-членки и земјите-кандидати како БиХ. Пропишаните прашалници на ЕУ не вклучувааат прашање за етничката припадност или националноста.</p>
+<p>Секоја земја треба сама да одлучи дали ќе додаде некакви прашања. Меѓутоа, пописот извршен во само еден ентитет во БиХ нема да ја задоволи ЕУ, бидејќи потребен ни е попис кој ќе ја опфати целата држава“, рече шефот на делегацијата на ЕК во БиХ Димитрис Куркулас.</p>
+<p>Европската комисија (ЕК) предупредува дека БиХ нема да може да започне преговори за пристапување, ако не успее наскоро да изврши попис на населението. Политиката на ЕК за регионален развој и буџетски одлуки зависи од веродостојни социоекономски податоци, без кои спроведувањето на политиката на ЕУ ќе биде невозможно.</p>
+<table style="float: left;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2008/12/15/VLATKOphoto2.jpg" class="feature"/><p>„Пописот извршен во само еден ентитет во БиХ нема да ја задоволи ЕУ, бидејќи потребен ни е попис кој ќе ја опфати целата држава“, рече амбасадорот Димитрис Куркулас, шеф на делегацијата на ЕК во БиХ. [влада на БиХ]</p></div></div></td></tr></table>
+<p>„До 2013-та година, ние мора да склучиме договор за административните единици за нашата регионална политика. Затоа на БиХ и се потребни свежи податоци“, рече Пјер Мирел, директор на ЕК за западен Балкан. </p>
+<p>После долгогодишни препирања, се врати надежта за постигнување на договор помеѓу лидерите на трите водечки политички партии. Лидерот на Партијата за демократско дејствување (СДА) Сулејман Тихиќ, лидерот на Сојузот на независни социјал демократи (СНСД) Милорад Додик и лидерот на Хрватскиот демократски сојуз (ХДЗ) Драган Човиќ се согласија штом биде изгласан законот за пописот на населението, пописот за 2011-та година да вклучи прашања за етничката припадност, религијата и јазикот. Тие, исто така, се согласија резултатите од пописот во 1991-та година да ја одредат застапеноста на националностите во сите државни институции до 2014-та година. </p>
+<p>Сепак, Тихиќ и Човиќ немаат влијание во парламентот кое ќе гарантира донесување на овој закон. Нивните коалициони партнери на државно ниво, Партијата за БиХ (СБиХ) и ХДЗ 1990, го отфрлија нивниот предлог. Лидерите на овие партии, Харис Силајџиќ и Божо Љубиќ сметаат дека таквите правила за пописот ги задоволуваат интересите на владата на РС и ги отфрлаат барањата на Босанците и Хрватите. Поддржувачите на договорот се надеваат дека ќе успеат да убедат неколку пратеници од опозицијата во државниот парламент да гласаат за него.</p>
+<p>Од друга страна, Советот на министри на ЕУ го одобрија договорот помеѓу трите партии. Високиот претставник Мирослав Лајчак рече дека гледа „позитивни сигнали“, откако лидерите на трите најсилни партии во БиХ постигнаа договор. „Тоа е чекор во права насока и сега очекуваме спроведување на договорот“, рече тој.</p>
+<p>Советот на министри на БиХ го направи првиот чекор, кога побара од Агенцијата за статистика да започне со подготовки за пописот во 2011-та година и да ги именува членовите на работна група за изготвување на законот за попис на населението. Таа, исто така, побара од релевантните министерства на државно и ентитетно ниво да подготват програма за оние што ќе се вратат во периодот од 2009-та до 2014-та година. Експертите проценуваат дека операцијата ќе чини 20 милиони евра или 5 евра по жител. </p><div class="relatedFloat"><h1 class="relatedFloat">Поврзани написи</h1><script type="text/javascript">Event.observe(window,'load',function(){loadRelated('/cocoon/setimes/ajax/mk/related/setimes/articles/2008/12/15/reportage-01')});</script><div id="RelatedArticlesAjax"><span>Loading</span></div></div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2008/12/15/VLATKOphoto3.jpg" class="feature"/><p>Околу 2,2 милиони жители ја напуштија БиХ по последниот попис. [File]</p></div></div></td></tr></table>
+<p>Сега кога поминаа 17 години без било какви статистички податоци, меѓу експертите постојат несогласувања за тоа колку луѓе живеат во БиХ. Во 1991-та година, имаше 4 377 033 жители. Владата верува дека овој број опаднал на 3,8 милиони. Според ЦИА бројот на населението во јули изнесувало 4 590 310 -- 48 отсто Босанци, 37,1 отсто Срби, 14,3 отсто Хрвати и 0,6 отсто други.</p>
+<p>Пописот на населението во БиХ датира од 1879-та година од австро-унгарско време. Спроведени се 12 пописи помеѓу 1879-та и 1991-та година. Во сите нив постоело прашањето за верската припадност на попишаните. Исто така, сите југословенски пописи го содржеа прашањето за националноста. </p>
+<p>Ако изврши попис на населението во целата држава, БиХ ќе може да ги спореди своите наоди со оние на соседите. Сите тие утврдија знаци на дислокација поврзана со војната. Пописот на населението во Хрватска во 2001-та година покажа дека бројот на населението всушност се намалил за 2,6 отсто. Етничкото српско население е намалено за две третини, од 12,2 на 4,5 отсто. Пописот во Србија во 2002-та година покажа дека за прв пат во историјата на оваа држава бројот на стари лица (на возраст над 65 години) е далеку поголем од бројот на децата (под 18 години). Српското малцинство во Црна Гора се зголемило од 9 отсто во 1991-та година на речиси 32 отсто во 2003-та година. Косово планира да изврши попис на населението во 2009-та година, за прв пат во 28 години. </p>
+<p>Аналитичарите во БиХ очекуваат слична слика на Косово, која ќе илустрира големи демографски промени. Тие предвидуваат дека пописот во БиХ ќе го покаже она што веќе го покажаа бројните избори --многу малку Босанци, Срби и Хрвати живеат таму каде што живееле за време на последниот попис. </p>
+<div class="commissioned">Оваа содржина е овластена за SETimes.com.</div>
+<iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/12/15/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<script type="text/javascript">Event.observe(window,'load',function(){loadKeywords('/cocoon/setimes/ajax/mk/keywords/setimes/articles/2008/12/15/reportage-01')});</script><div id="KeywordsAjax"><span>Loading</span></div>
+<div class="articleToolbar"><div class="ratings"><h5>Гласаj</h5><form class="likebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2008/12/15/reportage-01" name="id" type="hidden"/><input value="-1" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Допаѓа (#(count)#)" name="template" type="hidden"/><input value="Допаѓа (#(count)#)" class="button" type="submit"/></form><div class="ratings-bars"><div class="ratings-box"><div style="width: 0%" class="ratings-bars-likes"> </div><div style="width: 0%" class="ratings-bars-dislikes"> </div></div></div><form class="dislikebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2008/12/15/reportage-01" name="id" type="hidden"/><input value="-2" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Не допаѓа (#(count)#)" name="template" type="hidden"/><input value="Не допаѓа (#(count)#)" class="button" type="submit"/></form></div><ul><li><a onclick="javascript:Effect.BlindDown('emailBlock'); return false;" href=""><img src="/cocoon/setimes/graphics/toolbar/icon_email.gif"/>Испратете на пријател по електронска пошта</a></li><li><a href="/cocoon/setimes/print/mk/features/setimes/articles/2008/12/15/reportage-01"><img alt="icon" src="/cocoon/setimes/graphics/toolbar/icon_print.gif"/> печатена верзија </a></li><li><a href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/12/15/reportage-01" class="a2a_dd"><img alt="Share/Save/Bookmark" border="0" height="16" width="171" src="http://static.addtoany.com/buttons/share_save_171_16.png"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl='http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2008/12/15/reportage-01';</script><script src="http://static.addtoany.com/menu/page.js" type="text/javascript">//import</script></li></ul><div style="display:none" id="emailBlock"><div style="display:none;" id="feedbackEmail_response">Пораката е испратена.</div><form onsubmit=" submitEmail( this ); return false;" action="/php/turing/emailarticle.php" method="post" id="mailform"><fieldset><input value="yes" name="email" type="hidden"/><input value="setimes/articles/2008/12/15/reportage-01" name="emailID" type="hidden"/><input value="http://www.setimes.com//cocoon/setimes/xhtml/mk/features/setimes/articles/2008/12/15/reportage-01" name="emailURL" type="hidden"/><input value="Политичарите во БиХ се препираат околу деталите за пописот на населението" name="emailTitle" type="hidden"/><input value="en_GB" name="emailLang" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="An SETimes.com article from" name="emailSubject" type="hidden"/><div id="email_error_messages" class="feedback"><p id="inline-NameError" style="display:none">Ве молиме, напишете име.</p><p style="display:none" id="inline-EmailError">Ве молиме, напишете ја Вашата адреса за електронска пошта.</p><p style="display:none" id="inline-Email_Invalid">Имејл адресата што ја внесовте не е точна.</p><p style="display:none" id="inline-CommentError">Ве молиме, напишете коментар.</p></div><div class="donates">* СИТЕ ПОЛИЊА СЕ ЗАДОЛЖИТЕЛНИ</div><div>Адресата на електронската пошта на пријателот *</div><div><input id="emailTo" name="emailTo" type="text"/></div><div>Вашето име или адреса за електронска пошта *</div><div><input id="emailName" name="emailName" type="text"/></div><div>коментар *</div><div><textarea cols="60" rows="4" id="emailMessage" name="emailMessage">	</textarea></div><div><img alt="turing test" src="/php/turing/button.php"/></div><div style="display:none" id="emailBlock_error" class="feedback">Бројките не одговараат. Ве молиме внесете повторно.</div><div>внесете бројки *</div><div><input id="userdigits" name="userdigits" type="text"/></div><div><input value="Поднесува" type="submit"/><input onclick="javascript:ShowLayer('emailBlock','none')" value="Откажи" type="button" name="cancel"/></div></fieldset></form></div></div>
+</div>
+<div class="commentBlock"><h1 class="commentsHeader">Вашите коментари за натписите на SETimes се добредојдени.</h1><p class="comment_teaser">
+Се надеваме дека ќе го искористите овој форум за да комуницирате со другите читатели од Југоисточна Европа. За ова искуство да биде интересно, бараме од вас да ги следите правилата наведени во правилникот за коментари. Со испраќањето на коментарите, вие се согласувате со овие правила. Иако SETimes.com ги охрабрува дискусиите на сите теми, вклучително и на чувствителните, коментарите што се објавуваат се ставови единствено на оние што ги испраќаат. SETimes.com не ги одобрува и не се согласува секогаш со идеите, ставовите или мислењата искажани во овие коментари. SETimes.com ги поддржува конструктивните дискусии, но е против употребата на копи-пејст материјалите, непридружуваните линкови и слогани од еден ред. Ова е умерен форум. <b>Коментарите што се сметаат за погрдни, навредливи, или оние што содржат вулгарности, нема да се објават. </b>
+</p><p class="comment_teaser">
+<a onclick="return openWindow('/cocoon/setimes/xhtml/mk/blank/setimes/special/comment_disclaimer/disclaimer','disclaimer','toolbar=no,scrollbars=yes,resizable=yes,width=800,height=700');" href="/cocoon/setimes/xhtml/mk/document/setimes/special/comment_disclaimer/disclaimer">Правилник за коментари на SETimes's</a>
+</p><iframe scrolling="yes" frameborder="no" height="2000" width="590" id="comments" src="http://comments.setimes.com/mk/viewcomment?articleid=setimes/articles/2008/12/15/reportage-01">//</iframe></div>
+</div>
+<div class="span-6 last featuresidebar">
+<div class="facebook-sidebar blockSidebar"><div class="fans"><span class="small_count">548205</span><span class="small_description">Фејсбук фанови</span></div><div class="link"><div class="like mk"><iframe allowTransparency="true" style="border:none; overflow:hidden; width:500px; height:35px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/homepage/&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35"> </iframe></div><a class="small_facebook_page" href="http://www.facebook.com/pages/SETimes/43184095884" target="new">Επισκεφθείτε μας</a></div></div><div class="blockSidebar social_media"><ul><li><a href="http://twitter.com/setimes"><img alt="Twitter" src="/cocoon/setimes/graphics/icons/twitter-60_60.png"/></a></li><li><a href="http://www.youtube.com/user/setimes"><img alt="Youtube" src="/cocoon/setimes/graphics/icons/youtube-32_32.png"/></a></li><li><a href="/cocoon/setimes/rss/mk/setimes.rss"><img alt="RSS" src="/cocoon/setimes/graphics/icons/rss-60_60.png"/></a></li></ul></div><div class="blockSidebar" id="blockReportage"><h3>Репортажа</h3><div ceid="sidebar_reportage" class="item"><a class="title" title="Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/08/reportage-01">Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот</a><a class="image" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/08/reportage-01"><img title="Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот" alt="Исламските водачи на Косово ги повикуваат институциите, поединците да се борат против екстремизмот" src="/cocoon/setimes/images/2013/07/08/LINDAphoto1TN.jpg" class="reportage"/></a><p>Муфтијата Тернава изјави за SETimes дека екстремизмот и тероризмот се спротивни на вредностите на Исламската заедница на Косово.</p><div class="clear"> </div></div></div><ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image">Специјален извештај: Корупцијата во Југоисточна Европа</a></h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Специјален извештај: Корупцијата во Југоисточна Европа" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-mk.jpg"/></a></li></ul><script type="text/javascript">Event.observe(window,'load',function(){ new Fabtabs('contentColumn1RecentTabstabList'); },false);</script><div id="blockPopular" class="blockSidebar"><h3>Најпопуларни</h3><ul id="contentColumn1RecentTabstabList" class="tabBox"><li><a href="#contentColumn1RecentTabstab1">попул.</a></li><li><a href="#contentColumn1RecentTabstab2">комен.</a></li><li><a href="#contentColumn1RecentTabstab3">оцен.</a></li></ul><div id="contentColumn1RecentTabstab1" class="panel"><div ceid="most_popular" id="MostPopularAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadPopular('/cocoon/setimes/ajax/mk/buzz/popular/5')});</script></div><div id="contentColumn1RecentTabstab2" class="panel"><div id="MostCommentedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadCommented('/cocoon/setimes/ajax/mk/buzz/commented/5')});</script></div><div id="contentColumn1RecentTabstab3" class="panel"><div id="MostRatedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadRated('/cocoon/setimes/ajax/mk/buzz/rated/5')});</script></div></div><div ceid="photo_essay" class="blockSidebar" id="blockPhotoEssay"><h3>Фото есеј</h3><div class="item"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay" class="title">A moment in time: Taksim Square protests</a></div><div class="photo_essay_badge"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay"><img alt="A moment in time: Taksim Square protests" src="/cocoon/setimes/images/photo_essays/2013/06/05/TAKSIMphoto1CI.jpg"/></a></div></div><div ceid="sidebar_poll" class="blockPoll blockSidebar"><h3> Анкета</h3><div url="/cocoon/setimes/poll/mk/2013-07-06" id="poll" class="poll"><form onsubmit="submitPoll(); return false;" action="/php/poll/poll.php" method="post" id="pollform"><fieldset><input value="2013-07-06" name="id" type="hidden"/><input value="yes" name="pollresult" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk" name="lang" type="hidden"/><h2>По пристапувањето во ЕУ, пазарот на работна сила е отворен за Хрватска. Дали би го промениле местото на живеење за да најдете нова работа?</h2><input name="answer" type="radio" value="1"/><span>Да </span><br/><input name="answer" type="radio" value="2"/><span>Не </span><br/><input name="answer" type="radio" value="3"/><span>Не знам</span><br/><br/><center><input value="Гласаj" type="submit"/><br/><br/><a rel="nofollow" onclick="viewPoll('/cocoon/setimes/poll/mk/2013-07-06'); return false;" href="/cocoon/setimes/xhtml/mk/homepage/default?pollresult=yes&amp;answer=no&amp;id=2013-07-06">Види ги резултатите</a> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-07-06">Додадете коментар </a></b></center></fieldset></form></div><div style="display:none" id="poll_comments_link"> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-07-06">Додадете коментар </a></b></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer">
+Одрекување
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about">
+За нас
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback">
+контактирајте не
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Претплати се
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/podcast_index/default">
+Подкаст
+</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6886.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div></body></html>

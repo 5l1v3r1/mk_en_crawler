@@ -1,0 +1,262 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="mk" lang="mk" dir="ltr"><head><meta content="text/html; charset=utf-8" http-equiv="Content-type"/><script src="/cocoon/setimes/js/3rdparty/jquery-1.4.4.min.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/jquery-ui-1.8.9.custom.min.js" type="text/javascript">//import javascript</script><script type="text/javascript">$j = jQuery.noConflict();</script><script src="/cocoon/setimes/js/3rdparty/prototype.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/counter.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/scriptaculous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/glider.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/newsticker.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/3rdparty/lightbox.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/fabtabulous.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/ajax.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/functions.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/related.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/feedback.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/maps.js" type="text/javascript">//import javascript</script><script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAAWOQPiM6YCvBhNDmsm7JfvRTBfUk9TZrBRaIteybtnU2KziHEpRTt3eSDc7n7q6flBUrkhlDZz9XI_w&amp;hl=mk">//127.0.0.1 key</script><script src="/cocoon/setimes/js/poll.js" type="text/javascript">//import javascript</script><script src="/cocoon/setimes/js/tabs.js" type="text/javascript">//import javascript</script><link media="screen, projection" type="text/css" href="/cocoon/setimes/css/blueprint/screen.css" rel="stylesheet"/><link media="print" type="text/css" href="/cocoon/setimes/css/blueprint/print.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/lightbox.css" rel="stylesheet"/><link media="screen" type="text/css" href="/cocoon/setimes/css/v3/inline-gallery.css" rel="stylesheet"/><!--[if lt IE 8]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie.css" type="text/css" media="screen, projection"/><![endif]--><!--[if IE 6]><link rel="stylesheet" href="/cocoon/setimes/css/blueprint/ie6.css" type="text/css" media="screen, projection"/><![endif]--><link media="screen" href="/cocoon/setimes/css/v3/setimes3.css" type="text/css" rel="stylesheet"/><link media="screen" type="text/css" href="http://www.google.com/cse/api/overlay.css" rel="stylesheet"/><script src="http://www.google.com/coop/cse/brand?form=searchbox_003982986761957721032:npyydcuchby&amp;lang=mk" type="text/javascript">//import</script><script type="text/javascript" src="http://www.google.com/cse/api/overlay.js">//import</script><script type="text/javascript">
+							google.load("search", "1");
+							function OnLoad() {
+							new CSEOverlay("003982986761957721032:npyydcuchby",
+							document.getElementById("searchbox_003982986761957721032:npyydcuchby"),
+							document.getElementById("results_003982986761957721032:npyydcuchby"));
+							}
+							google.setOnLoadCallback(OnLoad);
+						</script><script charset="utf-8" src="/cocoon/setimes/js/weather.js" type="text/javascript">//import javascript</script><link href="http://www.setimes.com/cocoon/setimes/rss/mk/setimes.rss" title="RSS" type="application/rss+xml" rel="alternate"/><title>Поранешните југословенски држави се фаќаат во костец со екстремизмот во спортот (SETimes.com)</title><meta content="mk" name="lang"/><meta content="SETimes.com" name="publisher"/><meta content="2013-05-06" name="date"/><meta content="Поранешните југословенски држави се фаќаат во костец со екстремизмот во спортот" name="title"/><meta content="article" property="og:type"/><meta content="Поранешните југословенски држави се фаќаат во костец со екстремизмот во спортот" property="og:title"/><meta content="http://setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/05/06/reportage-01" property="og:url"/><meta content="Посилната соработка меѓу земјите, проширувањето на достапноста на културните информации и пренесувањето на пораката од страна на спортистите може да влијаат врз помладите генерации." name="description"/><meta content="http://setimes.com/cocoon/setimes/images/2013/05/06/IVANAphoto1HP.jpg" name="image"/><meta content="http://setimes.com/cocoon/setimes/images/2013/05/06/IVANAphoto1HP.jpg" property="og:image"/><meta content="Посилната соработка меѓу земјите, проширувањето на достапноста на културните информации и пренесувањето на пораката од страна на спортистите може да влијаат врз помладите генерации." property="og:description"/><link href="http://setimes.com/cocoon/setimes/images/2013/05/06/IVANAphoto1TN.jpg" rel="image_src"/><script type="text/javascript">countHit('article','setimes/articles/2013/05/06/reportage-01','setimes','mk');</script><script type="text/javascript">
+					var _gaq = _gaq || [];
+					_gaq.push(['_setAccount', 'UA-7060480-2']);
+					_gaq.push(['_trackPageview']);
+
+					(function() {
+						var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+						ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+						var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					})();
+				</script></head><body><div class="container">
+<div class="span-24">
+<div class="header">
+<div class="span-10">
+<div class="headerLogo"><a href="/cocoon/setimes/xhtml/mk/homepage/"><img title="SETimes.com is a news and information website covering the Balkans featuring current events, business, diplomacy, film, tourism, sports and science. It publishes in Albanian, Bosnian, Bulgarian, Croatian, English, Greek, Macedonian, Romanian, Serbian and Turkish." alt="SETimes logo" src="/cocoon/setimes/graphics/v3/header/setimes.jpg"/></a></div>
+</div>
+<div class="span-14 last">
+<form accept-charset="UTF-8" method="get" action="/cocoon/setimes/xhtml/mk/search"><input value="0" name="offset" type="hidden"/><input value="0" name="pos" type="hidden"/><fieldset class="search"><input value="" maxlength="255" size="40" name="q" type="text"/><input value="Пребарај" name="btnG" type="submit"/></fieldset></form>
+</div>
+</div>
+<div class="span-24">
+<div class="lang_menu"><ul>
+<li><a href="/cocoon/setimes/xhtml/sq/features/setimes/articles/2013/05/06/reportage-01">
+Shqip
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bs/features/setimes/articles/2013/05/06/reportage-01">
+Bosanski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/bg/features/setimes/articles/2013/05/06/reportage-01">
+Български
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/hr/features/setimes/articles/2013/05/06/reportage-01">
+Hrvatski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/en_GB/features/setimes/articles/2013/05/06/reportage-01">
+English
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/el/features/setimes/articles/2013/05/06/reportage-01">
+Ελληνική
+</a></li>
+<li class="activeLang"><a href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/05/06/reportage-01">
+Македонски
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/sr_Latn/features/setimes/articles/2013/05/06/reportage-01">
+Srpski
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/ro/features/setimes/articles/2013/05/06/reportage-01">
+Română
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/tr/features/setimes/articles/2013/05/06/reportage-01">
+Türkçe
+</a></li>
+</ul></div>
+</div>
+<hr class="space"/>
+</div>
+<div class="span-3 left_menu"><div id="headerNavigationMenu"><ul>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/homepage/"><span>
+дома
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/recent"><span>
+неодамна
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/info/"><span>
+Информативен центар
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/region/"><span>
+Регион
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/archive/"><span>
+Архива
+</span></a></li>
+<li class="navTitle">
+Земји
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Albania"><span>
+Албанија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bosnia_and_Herzegovina"><span>
+БиХ
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Bulgaria"><span>
+Бугарија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Croatia"><span>
+Хрватска
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Greece"><span>
+Грција
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Kosovo"><span>
+Косово
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Macedonia"><span>
+Македонија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Moldova"><span>
+Молдавија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Montenegro"><span>
+Црна Гора
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Romania"><span>
+Романија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Country/Serbia"><span>
+Србија
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/country/Turkey"><span>
+Турција
+</span></a></li>
+<li class="navTitle">
+Теми
+</li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Politics"><span>
+Политика
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/War_Conflict"><span>
+екстремизам
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Law_Crime"><span>
+Спроведување на правдата и законот
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/ForRel"><span>
+Надворешни односи
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Business_Finance"><span>
+Економски развој
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Integration"><span>
+Интеграции
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/keyword/Topic/Human_Interest"><span>
+Општество
+</span></a></li>
+<li><hr class="navLink"/></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/infoLinks/setimes/resource_centre/links/links?linktopic=1"><span>
+Линкови
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/contribute/setimes/footer/contribute/contribute"><span>
+Учествувајте
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer"><span>
+Одрекување
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about"><span>
+За нас
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback"><span>
+контактирајте не
+</span></a></li>
+<li class="navLink"><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))"><span>
+Претплати се
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/podcast_index/default"><span>
+Подкаст
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines"><span>
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</span></a></li>
+<li class="navLink"><a href="/cocoon/setimes/mobile/mk/homepage/"><span>
+мобилен
+</span></a></li>
+</ul></div></div>
+<div class="span-15">
+<div class="article">
+<h1>Поранешните југословенски држави се фаќаат во костец со екстремизмот во спортот</h1>
+<p class="date">06/05/2013</p>
+<blockquote>Посилната соработка меѓу земјите, проширувањето на достапноста на културните информации и пренесувањето на пораката од страна на спортистите може да влијаат врз помладите генерации.</blockquote>
+<p class="source">Ивана Јовановиќ за Southeast European Times во Белград -- 06.05.13</p><iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/05/06/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<div id="slideshow_wrap"> </div>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2013/05/06/IVANAphoto1.jpg" class="feature"/><p>Во октомври минатата година регионални организации спонзорираа иницијатива за да се сопре расизмот на фудбалските натпревари во Босна и Херцеговина. [БААП/фЕР Плеј-ВИДЦ]</p></div></div></td></tr></table>
+<p>Организации, тимови и претставници од целиот регион работат за да го спречат националистичкиот екстремизам кај спортските фанови преку подигнување на свеста за опасниот пресек на екстремистичките идеологии и спортот.</p>
+<p>И покрај тоа што конфликтите од 90-тите години се минато за народите од поранешна Југославија, национализмот што ги поттикна и понатаму живее во балканското општество и може да се види кај навивачите на спортските настани, особено на фудбалските натпревари.</p>
+<p>„Расизмот, национализмот и дискриминацијата сега претставуваат еден проблем во фудбалот во поранешна Југославија. Ова не беше случај кога почнавме со нашата иницијатива пред околу 10 години. Постоеше култура на одбивање на било какви проблеми поврзани со расизмот во фудбалот“, Мајкл Фанизадех, раководител на проекти при виенскиот Институт за меѓународен дијалог и соработка, изјави за<i>SETimes</i>.</p>
+<p>„Сега фудбалските асоцијации во регионот го сфаќаат прашањето за расизмот и национализмот сериозно, исто така, некои клубови се многу активни“, рече тој.</p>
+<p>Во октомври, организацијата за заштита „Фудбал за еднаквост' работеше со групи во регионот и организираа настани чија цел беше да се запре расизмот.</p>
+<p>Во Босна и Херцеговина (БиХ), групата соработуваше со Спортската асоцијација на Мостар и балканскиот проект „Алпа Адриа“ за спонзорирање на активностите на еден натпревар помеѓу ФК Вележ Мостар и НК Травник.</p>
+<p>Играчите од двете екипи, судиите и навивачите покажаа црвени картони на кои пишуваше „Црвен картон за расизмот и национализмот“. Двете екипи излегоа на теренот со транспаренти на кои пишуваше „Стоп за дискриминацијата“.</p>
+<p>Александер Раковиц, раководител на проекти при Виенскиот институт за меѓународен дијалог и соработка во поранешна Југославија, забележа разлика помеѓу спортистите и спортските фанови кои пораснале за време на конфликтите и оние после нив.</p>
+<p>„Воените генерации беа затворени и немаа можност да видат како останатиот дел од светот, па дури и Европа ги поддржува нивните тимови, што е клучна точка за младите генерации“, изјави Раковиц за<i>SETimes</i>. „Јас навистина верувам дека за околу 15 години ќе ги нема оние кои одат на спортските натпревари во име на национализмот. И нашата цел за следните 15 години е да имаме натпревари каде што нема да има никаква група која доаѓа да шири шовинизам“.</p>
+<p>Раковиц рече дека институтот успешно се поврзува со младите спортисти, но смета дека е тешко да се влијае врз навивачите директно, „бидејќи [тие] имаат свој изолиран свет и правила според кои тие живеат“.</p>
+<table style="float: left;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2013/05/06/IVANAphoto2.jpg" class="feature"/><p>Хрватските навивачи слават победа против Србија во натпреварот од квалификациите за Светското првенство на 22-ри март во Загреб. [AФП]</p></div></div></td></tr></table>
+<p>Српскиот спортски коментатор Милојко Пантиќ рече дека спречувањето на хулиганизмот кај навивачите е клучна задача за државите.</p>
+<p>„Државите треба да направат список на хулиганите кои иницираат инциденти и да им забрани влез на натпреварите, и ова може да се направи многу лесно. Има бројни успешни примери за ова во странство, како на пример во Англија“, изјави Милојко за<i>SETimes</i>.</p>
+<p>Проектите на Виенскиот институт за меѓународен дијалог и соработка вклучуваат регионални младински фудбалски турнири и работилници кои создаваат позитивни интеракции и овозможуваат размена на идеи за најдобрите начини за надминување на национализмот и нетолеранцијата. Се одржуваат активности во соработка со националната фудбалска асоцијација.</p>
+<p>„Најважната придобивка за учесниците е интеркултуралната и меѓународната размена“, рече Фанизадех. „Ова овозможува размена на најдобрите практики, партнерства, пријателства, вмрежување, соработка и учество во понатамошните настани и активности, во рамките на борбата против национализмот и дискриминацијата. Покрај тоа, доаѓа до намалување на стереотипите преку личен контакт и меѓусебно познавање“.</p>
+<p>Ненад Вукосављевиќ, од Центарот за ненасилно дејствување, невладина организација со седиште во Белград и Сараево, изјави дека односот на спортистите има клучно влијание врз младите и нивните вредносни системи.</p>
+<p>„Спортот и спортистите особено уживаат голем углед во општеството и за голем број млади луѓе тие се идеали и би можеле да имаат големо влијание врз нив, како позитивно, така и негативно. Значи, кога станува збор за неодамнешниот натпревар во Хрватска, беше добро што фудбалерите одиграа фер плеј, но не беше добро тоа што тие не покажаа дистанца од екстремистите кои го извикуваа она што го извикуваа “, изјави Вукосављевиќ за<i>SETimes</i>.</p>
+<p>Поранешниот шампион во бокс Ненад Боровчанин, сега државен секретар во српското Министерство за млади и спорт, изјави за<i>SETimes</i>дека спортистите можат да помогнат за потиснување на екстремизмот и насилството на спортските терени преку начинот на кој тие се однесуваат јавно и со испраќање на порака до навивачите дека тие треба да ги почитуваат нивните противници додека навиваат за нивниот тим.</p>
+<p>Боровчанин изјави дека Министерството започнало кампања наречена „Фер плејот е победа“, во која познати спортски личности ги учат децата за спортското однесување.</p>
+<p>“Нашата иницијатива оваа година беше прогласена за година на толеранција во спортот. Исто така, владата на Србија формира Националниот совет против насилството во спортот, кој работи на нацрт на план за борба против насилството“, рече Боровчанин.</p>
+<p>Богдана Опачиќ, истражувач во Центарот за проучување на културниот развој на Република Србија, рече дека начинот на размислување на младите може да се промени само со подобрување на нивниот пристап до културата, што би можело да се направи преку образовниот систем.</p>
+<table style="float: right;" class="image"><tr><td><div id="shadow"><div class="image"><img alt="photo" src="/cocoon/setimes/images/2013/05/06/IVANAphoto3.jpg" class="feature"/><p>Поранешниот шампион во бокс Ненад Боровчанин, сега државен секретар во српското Министерство за млади и спорт, вели дека спортистите можат да дадат пример кој спортските фанови ќе го следат. [Facebook.com/Ненад-Боровчанин]</p></div></div></td></tr></table>
+<p>„Според последните истражувања кои ги направивме, учениците од завршните години во средните училишта во Србија се гледаат себеси како патриоти, односно, позитивни националисти кои го сакаат сопствениот народ, но ги почитуваат другите. Најголема нетолеранција тие чувствуваат кон Албанците, Ромите и Хрватите. Најголемата одбивност која учениците ја имаат е кон можноста луѓе од други националности да бидат на водечките позиции во земјата или да живеат постојано во земјата“, изјави Опачиќ за<i>SETimes</i>.</p>
+<p>Натпреварот од квалификациите за Светското првенство 2014 меѓу Хрватска и Србија на 22-ри март во Загреб, беше прв натпревар меѓу двете репрезентации од 1999-та година. Тој помина речиси без инцидент, што беше заеднички сигнал за намалување на национализмот. Имаше некои националистички скандирања меѓу навивачите, но немаше насилство, и имаше фер плеј на теренот.</p>
+<p>И покрај тоа што силното обезбедување спречи било какво насилство на натпреварот, дел од публиката кратко пееше „убијте ги Србите“.</p>
+<p>„Неприфатливо е некој да повикува на убивање и да нема реакции на тоа“, рече Вукосављевиќ. „Ние бевме сведоци на мошне слична ситуација во Белград кога БиХ и Србија играаа фудбал пред неколку години, и [постери на кои пишуваше] „Нож, жица, Сребреница“ се појавија во публиката. Спортските арени едноставно го прикажуваат она што една мала група, па дури и добар дел од населението го мисли“.</p>
+<p>Синиша Таталовиќ, професор по политички науки кој предава во Белград, Загреб и Подгорица, изјави за<i> SETimes </i> дека има причина да се биде оптимист во последиците од натпреварот помеѓу Србија и Хрватска.</p><div class="relatedFloat"><h1 class="relatedFloat">Поврзани написи</h1><script type="text/javascript">Event.observe(window,'load',function(){loadRelated('/cocoon/setimes/ajax/mk/related/setimes/articles/2013/05/06/reportage-01')});</script><div id="RelatedArticlesAjax"><span>Loading</span></div></div>
+<p>„Имаше некои несоодветни пораки во публиката“, рече Таталовиќ. „Но, ако го споредиме овој со некои други натпревари на хрватската репрезентација, ние ќе забележиме дека овде имаше дури и помалку екстремистички пораки отколку за време на натпреварите со некои други тимови, што дава охрабрување .... Важен позитивен знак, исто така, е ставот на спортистите“.</p>
+<p>Таталовиќ додаде дека подобрувањето на соработката помеѓу земјите е решение за намалување на екстремизмот. Тој процес, рече тој, започнува со политичарите и оди бавно кај граѓаните.</p>
+<p>„Екстремизмот се повлече и се појавуваше кога им беше потребен на политичарите, особено во периодите на предизборните кампањи“, рече Таталовиќ. „Но, јавноста, медиумите и политичките елити треба да бидат свесни за опасноста на национализмот и треба да работат превентивно, треба да работат на зајакнување на политичка култура која содржи национална и регионална толеранција, но исто така треба да го осудат секој обид за ширење на националистички страсти, бидејќи национализмот секогаш предизвикува национализам“.</p>
+<p>
+<i>Што треба да се направи за намалување на екстремистичките и националистичките активности на спортските настани? Споделете ги вашите коментари во делот за коментари.. </i>
+</p>
+<div class="commissioned">Оваа содржина е овластена за SETimes.com.</div>
+<iframe style="border:none; overflow:hidden; width:500px; height:50px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/05/06/reportage-01&amp;layout=standard&amp;show_faces=false&amp;width=265&amp;action=recommend&amp;font&amp;colorscheme=light&amp;height=50"> </iframe>
+<script type="text/javascript">Event.observe(window,'load',function(){loadKeywords('/cocoon/setimes/ajax/mk/keywords/setimes/articles/2013/05/06/reportage-01')});</script><div id="KeywordsAjax"><span>Loading</span></div>
+<div class="articleToolbar"><div class="ratings"><h5>Гласаj</h5><form class="likebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2013/05/06/reportage-01" name="id" type="hidden"/><input value="-1" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Допаѓа (#(count)#)" name="template" type="hidden"/><input value="Допаѓа (#(count)#)" class="button" type="submit"/></form><div class="ratings-bars"><div class="ratings-box"><div style="width: 0%" class="ratings-bars-likes"> </div><div style="width: 0%" class="ratings-bars-dislikes"> </div></div></div><form class="dislikebtn" method="post" action="/php/rating/thumbrate.php"><input value="setimes/articles/2013/05/06/reportage-01" name="id" type="hidden"/><input value="-2" name="rate" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk_MK" name="lang" type="hidden"/><input value="Не допаѓа (#(count)#)" name="template" type="hidden"/><input value="Не допаѓа (#(count)#)" class="button" type="submit"/></form></div><ul><li><a onclick="javascript:Effect.BlindDown('emailBlock'); return false;" href=""><img src="/cocoon/setimes/graphics/toolbar/icon_email.gif"/>Испратете на пријател по електронска пошта</a></li><li><a href="/cocoon/setimes/print/mk/features/setimes/articles/2013/05/06/reportage-01"><img alt="icon" src="/cocoon/setimes/graphics/toolbar/icon_print.gif"/> печатена верзија </a></li><li><a href="http://www.addtoany.com/share_save?linkname=&amp;linkurl=http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/05/06/reportage-01" class="a2a_dd"><img alt="Share/Save/Bookmark" border="0" height="16" width="171" src="http://static.addtoany.com/buttons/share_save_171_16.png"/></a><script type="text/javascript">a2a_linkname=document.title;a2a_linkurl='http://www.setimes.com/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/05/06/reportage-01';</script><script src="http://static.addtoany.com/menu/page.js" type="text/javascript">//import</script></li></ul><div style="display:none" id="emailBlock"><div style="display:none;" id="feedbackEmail_response">Пораката е испратена.</div><form onsubmit=" submitEmail( this ); return false;" action="/php/turing/emailarticle.php" method="post" id="mailform"><fieldset><input value="yes" name="email" type="hidden"/><input value="setimes/articles/2013/05/06/reportage-01" name="emailID" type="hidden"/><input value="http://www.setimes.com//cocoon/setimes/xhtml/mk/features/setimes/articles/2013/05/06/reportage-01" name="emailURL" type="hidden"/><input value="Поранешните југословенски држави се фаќаат во костец со екстремизмот во спортот" name="emailTitle" type="hidden"/><input value="en_GB" name="emailLang" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="An SETimes.com article from" name="emailSubject" type="hidden"/><div id="email_error_messages" class="feedback"><p id="inline-NameError" style="display:none">Ве молиме, напишете име.</p><p style="display:none" id="inline-EmailError">Ве молиме, напишете ја Вашата адреса за електронска пошта.</p><p style="display:none" id="inline-Email_Invalid">Имејл адресата што ја внесовте не е точна.</p><p style="display:none" id="inline-CommentError">Ве молиме, напишете коментар.</p></div><div class="donates">* СИТЕ ПОЛИЊА СЕ ЗАДОЛЖИТЕЛНИ</div><div>Адресата на електронската пошта на пријателот *</div><div><input id="emailTo" name="emailTo" type="text"/></div><div>Вашето име или адреса за електронска пошта *</div><div><input id="emailName" name="emailName" type="text"/></div><div>коментар *</div><div><textarea cols="60" rows="4" id="emailMessage" name="emailMessage">	</textarea></div><div><img alt="turing test" src="/php/turing/button.php"/></div><div style="display:none" id="emailBlock_error" class="feedback">Бројките не одговараат. Ве молиме внесете повторно.</div><div>внесете бројки *</div><div><input id="userdigits" name="userdigits" type="text"/></div><div><input value="Поднесува" type="submit"/><input onclick="javascript:ShowLayer('emailBlock','none')" value="Откажи" type="button" name="cancel"/></div></fieldset></form></div></div>
+</div>
+<div class="commentBlock"><h1 class="commentsHeader">Вашите коментари за натписите на SETimes се добредојдени.</h1><p class="comment_teaser">
+Се надеваме дека ќе го искористите овој форум за да комуницирате со другите читатели од Југоисточна Европа. За ова искуство да биде интересно, бараме од вас да ги следите правилата наведени во правилникот за коментари. Со испраќањето на коментарите, вие се согласувате со овие правила. Иако SETimes.com ги охрабрува дискусиите на сите теми, вклучително и на чувствителните, коментарите што се објавуваат се ставови единствено на оние што ги испраќаат. SETimes.com не ги одобрува и не се согласува секогаш со идеите, ставовите или мислењата искажани во овие коментари. SETimes.com ги поддржува конструктивните дискусии, но е против употребата на копи-пејст материјалите, непридружуваните линкови и слогани од еден ред. Ова е умерен форум. <b>Коментарите што се сметаат за погрдни, навредливи, или оние што содржат вулгарности, нема да се објават. </b>
+</p><p class="comment_teaser">
+<a onclick="return openWindow('/cocoon/setimes/xhtml/mk/blank/setimes/special/comment_disclaimer/disclaimer','disclaimer','toolbar=no,scrollbars=yes,resizable=yes,width=800,height=700');" href="/cocoon/setimes/xhtml/mk/document/setimes/special/comment_disclaimer/disclaimer">Правилник за коментари на SETimes's</a>
+</p><iframe scrolling="yes" frameborder="no" height="2000" width="590" id="comments" src="http://comments.setimes.com/mk/viewcomment?articleid=setimes/articles/2013/05/06/reportage-01">//</iframe></div>
+</div>
+<div class="span-6 last featuresidebar">
+<div class="facebook-sidebar blockSidebar"><div class="fans"><span class="small_count">547036</span><span class="small_description">Фејсбук фанови</span></div><div class="link"><div class="like mk"><iframe allowTransparency="true" style="border:none; overflow:hidden; width:500px; height:35px;" frameborder="0" scrolling="no" src="//www.facebook.com/plugins/like.php?locale=mk_MK&amp;href=http://www.setimes.com/cocoon/setimes/xhtml/mk/homepage/&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=35"> </iframe></div><a class="small_facebook_page" href="http://www.facebook.com/pages/SETimes/43184095884" target="new">Επισκεφθείτε μας</a></div></div><div class="blockSidebar social_media"><ul><li><a href="http://twitter.com/setimes"><img alt="Twitter" src="/cocoon/setimes/graphics/icons/twitter-60_60.png"/></a></li><li><a href="http://www.youtube.com/user/setimes"><img alt="Youtube" src="/cocoon/setimes/graphics/icons/youtube-32_32.png"/></a></li><li><a href="/cocoon/setimes/rss/mk/setimes.rss"><img alt="RSS" src="/cocoon/setimes/graphics/icons/rss-60_60.png"/></a></li></ul></div><div class="blockSidebar" id="blockReportage"><h3>Репортажа</h3><div ceid="sidebar_reportage" class="item"><a class="title" title="Хрватска влегува во ЕУ, но се соочува со неизвесна иднина" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/01/reportage-01">Хрватска влегува во ЕУ, но се соочува со неизвесна иднина</a><a class="image" href="/cocoon/setimes/xhtml/mk/features/setimes/articles/2013/07/01/reportage-01"><img title="Хрватска влегува во ЕУ, но се соочува со неизвесна иднина" alt="Хрватска влегува во ЕУ, но се соочува со неизвесна иднина" src="/cocoon/setimes/images/2013/07/01/DRAZENphoto1TN.jpg" class="reportage"/></a><p>И покрај пристапувањето во ЕУ и новиот пристап до средствата, Хрватите се загрижени за економијата, квалитетот на животот.</p><div class="clear"> </div></div></div><ul id="columnKeywordCorners"><li class="blockSidebar no_border"><h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image">Специјален извештај: Корупцијата во Југоисточна Европа</a></h3><a href="/cocoon/setimes/xhtml/mk/special_corruption/setimes/special/corruption/meta" class="image"><img alt="Специјален извештај: Корупцијата во Југоисточна Европа" src="/cocoon/setimes/images/special/corruption/setimes-corruption-badge-mk.jpg"/></a></li></ul><script type="text/javascript">Event.observe(window,'load',function(){ new Fabtabs('contentColumn1RecentTabstabList'); },false);</script><div id="blockPopular" class="blockSidebar"><h3>Најпопуларни</h3><ul id="contentColumn1RecentTabstabList" class="tabBox"><li><a href="#contentColumn1RecentTabstab1">попул.</a></li><li><a href="#contentColumn1RecentTabstab2">комен.</a></li><li><a href="#contentColumn1RecentTabstab3">оцен.</a></li></ul><div id="contentColumn1RecentTabstab1" class="panel"><div ceid="most_popular" id="MostPopularAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadPopular('/cocoon/setimes/ajax/mk/buzz/popular/5')});</script></div><div id="contentColumn1RecentTabstab2" class="panel"><div id="MostCommentedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadCommented('/cocoon/setimes/ajax/mk/buzz/commented/5')});</script></div><div id="contentColumn1RecentTabstab3" class="panel"><div id="MostRatedAjax">Loading
+</div><script type="text/javascript">Event.observe(window,'load',function(){loadRated('/cocoon/setimes/ajax/mk/buzz/rated/5')});</script></div></div><div ceid="photo_essay" class="blockSidebar" id="blockPhotoEssay"><h3>Фото есеј</h3><div class="item"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay" class="title">A moment in time: Taksim Square protests</a></div><div class="photo_essay_badge"><a href="/cocoon/setimes/xhtml/mk/photo_essay/setimes/photo_essay/2013/06/05/photo_essay"><img alt="A moment in time: Taksim Square protests" src="/cocoon/setimes/images/photo_essays/2013/06/05/TAKSIMphoto1CI.jpg"/></a></div></div><div ceid="sidebar_poll" class="blockPoll blockSidebar"><h3> Анкета</h3><div url="/cocoon/setimes/poll/mk/2013-06-29" id="poll" class="poll"><form onsubmit="submitPoll(); return false;" action="/php/poll/poll.php" method="post" id="pollform"><fieldset><input value="2013-06-29" name="id" type="hidden"/><input value="yes" name="pollresult" type="hidden"/><input value="setimes" name="site" type="hidden"/><input value="mk" name="lang" type="hidden"/><h2>Дали членството на Хрватска во ЕУ ќе доведе до промени во регионот?
+</h2><input name="answer" type="radio" value="1"/><span>Да </span><br/><input name="answer" type="radio" value="2"/><span>Не </span><br/><input name="answer" type="radio" value="3"/><span>Не знам</span><br/><br/><center><input value="Гласаj" type="submit"/><br/><br/><a rel="nofollow" onclick="viewPoll('/cocoon/setimes/poll/mk/2013-06-29'); return false;" href="/cocoon/setimes/xhtml/mk/homepage/default?pollresult=yes&amp;answer=no&amp;id=2013-06-29">Види ги резултатите</a> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-06-29">Додадете коментар </a></b></center></fieldset></form></div><div style="display:none" id="poll_comments_link"> <b><a href="/cocoon/setimes/xhtml/mk/poll_comments/setimes/polls/2013/2013-06-29">Додадете коментар </a></b></div>
+</div>
+</div>
+<div class="span-24">
+<div id="footerMenu"><ul>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/disclaimer/disclaimer">
+Одрекување
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/about/about">
+За нас
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/doc-feedback/setimes/footer/feedback/feedback">
+контактирајте не
+</a></li>
+<li><a href="javascript:void(open('/cocoon/setimes/form1/mk/subscribe/','Email','toolbar=no,width=630,height=638'))">
+Претплати се
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/document/setimes/footer/misc/headlines">
+<img alt="icon" src="/cocoon/setimes/graphics/icons/rss.gif"/>
+</a></li>
+<li><a href="/cocoon/setimes/xhtml/mk/podcast_index/default">
+Подкаст
+</a></li>
+</ul></div>
+</div>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName("script")[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/6886.js?"+Math.floor(new Date().getTime()/3600000);
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+</div></body></html>
