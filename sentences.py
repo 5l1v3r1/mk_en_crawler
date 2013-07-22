@@ -18,18 +18,30 @@ def get_sentences(en, mk, i):
     while l_en != '' and l_mk != '':
         l_en = l_en.replace('\n','').strip()
         l_mk = l_mk.replace('\n','').strip()
-        s_en = splitkeepsep(l_en)
-        s_mk = splitkeepsep(l_mk)
+        s_en = splitkeepsep('([\.\?!:;] )',l_en)
+        s_mk = splitkeepsep('([\.\?!:;] )',l_mk)
 #        print l_en + '\n'
-        for s in s_en:
-            f = open('SENTENCES/' + str(i) + '_en','a')
-            f.write(s.encode('utf-8') + '\n')
+        for j in range(0,len(s_en)):
+            final = s_en[j].strip()
+            if final == '***' or len(final) < 1:
+                continue
+            f = codecs.open('SENTENCES/' + str(i) + '_en',mode='a', encoding='utf-8')
+            if check_ends_en(final, s_en, j):
+                f.write(final + ' ')
+            else:
+                f.write(final + '\n')
             f.close()
        # write_list(s_en)
 #        print l_mk + '\n'
-        for s in s_mk:
-            f = open('SENTENCES/' + str(i) + '_mk','a')
-            f.write(s.encode('utf-8') + '\n')
+        for j in range(0,len(s_mk)):
+            final = s_mk[j].strip()
+            if final == '***' or len(final) < 1:
+                continue
+            f = codecs.open('SENTENCES/' + str(i) + '_mk',mode='a', encoding='utf-8')
+            if check_ends_mk(final, s_mk, j):
+                f.write(final + ' ')
+            else:
+                f.write(final + '\n')
             f.close()       # write_list(s_mk)
  #       print str(len(s_en)) + ' ' + str(len(s_mk))
   #      print '\n\n\n'
@@ -40,29 +52,55 @@ def get_sentences(en, mk, i):
         f.write(str(i) + '\n')
         f.close()
 
-def splitkeepsep(s):
-    return reduce(lambda acc, elem: acc[:-1] + [acc[-1] + elem] if elem == '. ' or elem == '! ' or elem == '? ' else acc + [elem], re.split('([!\.\?] )', s), [])
+def splitkeepsep(regex, s):
+    return reduce(lambda acc, elem: acc[:-1] + [acc[-1] + elem] if is_match(regex, elem) else acc + [elem], re.split(regex, s), [])
 
-def write_list(ss):
-    for j in range(0,len(ss)):
-        if j == len(ss) - 1:
-            print ss[j]
-            continue
-        if len(ss[j+1]) < 1:
-            print ss[j]
-            continue
-        if ss[j+1][0] == '.':
-            print ss[j] + '.'
-            j += 1
-        elif ss[j+1][0] == '!':
-            print ss[j] + '!'
-            j += 1
-        elif ss[j+1][0] == '?':
-            print ss[j] + '?'
-            j += 1
-        else:
-            print ss[j]
+def is_match(regex, text):
+    pattern = re.compile(regex)
+    return pattern.search(text) is not None
+
+def init_ends():
+    en = codecs.open('ends', encoding='utf-8', mode='r')
+    mk = codecs.open('ends_mk', encoding='utf-8', mode='r')
+    l = en.readline()
+    while l != '':
+        ends_en.add(l.strip())
+        l = en.readline()
+    l = mk.readline()
+    while l != '':
+        ends_mk.add(l.strip())
+        l = mk.readline()
+
+def check_ends_en(final, s_en, i):
+    sp = final.split()
+    if sp[-1] in ends_en:
+        #f = codecs.open('ends_check_en',mode='a', encoding='utf-8')
+        if i+1 < len(s_en):# and s_mk[i+1][0].islower():
+            #f.write(final + ' ' + s_en[i+1].strip() + '\n')
+            return True
+    return False
+
+def check_ends_mk(final, s_mk, i):
+    sp = final.split()
+    if sp[-1] in ends_mk:
+        #f = codecs.open('ends_check_mk',mode='a', encoding='utf-8')
+        if i+1 < len(s_mk):# and s_mk[i+1][0].islower():
+        #    f.write(final + ' ' + s_mk[i+1].strip() + '\n')
+            return True
+    if sp[-1] in nums:
+        #f = codecs.open('ends_check_mk',mode='a', encoding='utf-8')
+        if i+1 < len(s_mk) and s_mk[i+1][0].islower():
+           # f.write(final + ' ' + s_mk[i+1].strip() + '\n')
+            return True
+    return False
+ends_mk = set()
+ends_en = set()
+nums = {'0.','1.', '2.', '3.', '4.','5.','6.','7.','8.','9.'}
+
 def main():
+    init_ends()
+    print ends_en
+    print ends_mk
     i = 0
     while i <= 36945:
         j = i + 8

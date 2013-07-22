@@ -101,8 +101,8 @@ def verify_text(en,mk):
 
 def main():
 #    init_mk_words()
-    i = 15000
-    while i <= 15199:
+    i = 0
+    while i <= 199:
         j = i + 8
         threads = []
         while i < j:
