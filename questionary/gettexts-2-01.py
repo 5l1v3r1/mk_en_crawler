@@ -1,3 +1,4 @@
+# vim: set fileencoding=utf-8
 import re
 #import urllib2
 import bs4
@@ -9,6 +10,7 @@ import codecs
 h = HTMLParser()
 result = []
 ############### get content of certain tag = 'target' ##############
+headers = set()
 
 def find( element, ok = False):
   change = False
@@ -19,15 +21,18 @@ def find( element, ok = False):
     if isinstance(child,bs4.element.Tag):
       if child.name == 'table':
         continue
-      if child.name == 'div' and child.has_attr('id') and 'id_2' in child['id']:
-        print 'end of page found'
-        result.append('######')
-        continue
       if child.name == 'p':
         ok = True
         change = True
 
     if isinstance(child,bs4.element.NavigableString):
+      if re.match(ur'^Поглавје\ ([I]+|\d+)\ .+', child.strip()):
+        if child in headers:
+          continue
+        else:
+          print child
+          headers.add(child)
+          continue
       if ok == True:
         rez += 1
         result.append(h.unescape(child.output_ready()).encode('utf-8'))
@@ -57,14 +62,18 @@ def is_match(regex, text):
 # url ex. http://blesok.mk/tekst.asp?lang=mac&tekst=1429&str=1#
 
 #ostatok = int(sys.argv[1])
-"""
-file = codecs.open('hf',mode='a', encoding='utf-8')
-files = os.listdir('mk/')
-print files
-"""
-for x in range(0,1):  # min = 6, max = 1429
+
+#file = codecs.open('hf',mode='a', encoding='utf-8')
+#files = os.listdir('mk/')
+
+files=[]
+files.append('3-24 - Pravda i vnatresni raboti.1-146.htm')
+files.append('3-24 - Pravda i vnatresni raboti.147-310.htm')
+
+
+for file in files:  # min = 6, max = 1429
   #htmlmk = "3-11 - Ekonomija i monetarna unija.htm"
-  htmlen = "mk/1-01 - Politicki kriteriumi.324-487.htm"
+  htmlen = 'mk/' + file
   mk = ""
   en = ""
   try:
@@ -90,6 +99,7 @@ for x in range(0,1):  # min = 6, max = 1429
   divs = body.children
 
   i=0
+  """
   for div in divs:
     if isinstance(div,bs4.element.Tag) and div.name == 'div':
       firstp = div.find('p')
@@ -97,12 +107,15 @@ for x in range(0,1):  # min = 6, max = 1429
       for p in div.findAll('p'):
         lastp = p
       if firstp != None:
-        firstp.extract()
-        lastp.extract()
+        try:
+          marker = soup.new_tag('p')
+          marker.string = '######'
+          lastp.replace_with(marker)
+        except:
+          continue
+"""
 
-
-
-  find(soup)
+  find(soup.find('body'))
   #print result
   if not result:
     print htmlen + '\t no text found'
@@ -113,7 +126,7 @@ for x in range(0,1):  # min = 6, max = 1429
   f.close()
   pages = text.decode('utf-8').split('######')
 
-  print len(pages)
+  print file
 
   while i < len(pages) - 1:
     if pages[i].strip() == '':
@@ -121,13 +134,9 @@ for x in range(0,1):  # min = 6, max = 1429
     elif pages[i+1].strip() == '':
       del pages[i+1]
     elif not re.match('[\.\?!;:]', pages[i].strip()[-1]):
-      print pages[i].strip()[-1]
-      print pages[i+1].strip()[0]
       if pages[i+1].strip()[0].islower() and not re.match('[a-z]', pages[i+1].strip()[0]) :
-        print 'merge'
         pages[i] = pages[i].strip() + ' ' + pages[i+1].strip() + '\n'
         del pages[i+1]
-    print i
     i += 1
   text = ''.join(pages)
  # lines = splitkeepsep('\n', text)
@@ -135,17 +144,9 @@ for x in range(0,1):  # min = 6, max = 1429
 
   #print result
   #  print text
-  filename = 'Politicki Kriteriumi'
-  """  j = 0
-  for line in lines:
-    if line.strip().decode('utf-8').isupper():
-      print line
-      print '#########'
-      j += 1
-      """
-  f = codecs.open(filename, mode ='a', encoding=('utf-8'))
+  filename = 'Politicki Kriteriumi X'
+
+  f = codecs.open(file.split()[0], mode ='a', encoding=('utf-8'))
   f.write(text)
   f.close()
-
-
 
